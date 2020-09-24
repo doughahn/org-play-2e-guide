@@ -15,6 +15,7 @@
 import sys
 import os
 import shlex
+import sphinx_rtd_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -37,6 +38,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+    'sphinx_rtd_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -54,9 +56,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'2e-org-play-guide'
-copyright = u'2020, ohn Compton, Michael Sayre, Tonya Woldridge, and Linda Zayas-Palmer'
-author = u'ohn Compton, Michael Sayre, Tonya Woldridge, and Linda Zayas-Palmer'
+project = u'Pathfinder Society Guide to Play (Second Edition)'
+copyright = u'2020, John Compton, Michael Sayre, Tonya Woldridge, and Linda Zayas-Palmer'
+author = u'John Compton, Michael Sayre, Tonya Woldridge, and Linda Zayas-Palmer'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -116,7 +118,7 @@ todo_include_todos = True
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -146,6 +148,10 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+html_css_files = [
+    'css/custom.css',
+]
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -180,7 +186,7 @@ html_static_path = ['_static']
 #html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-#html_show_sphinx = True
+#html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 #html_show_copyright = True
@@ -208,7 +214,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = '2e-org-play-guidedoc'
+htmlhelp_basename = 'Pathfinder Society Guide to Play (Second Edition)'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -230,8 +236,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, '2e-org-play-guide.tex', u'2e-org-play-guide Documentation',
-   u'ohn Compton, Michael Sayre, Tonya Woldridge, and Linda Zayas-Palmer', 'manual'),
+  (master_doc, '2e-org-play-guide.tex', u'Pathfinder Society Guide to Play (Second Edition)',
+   u'John Compton, Michael Sayre, Tonya Woldridge, and Linda Zayas-Palmer', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -260,7 +266,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, '2e-org-play-guide', u'2e-org-play-guide Documentation',
+    (master_doc, 'Pathfinder Society Guide to Play (Second Edition)', u'Pathfinder Society Guide to Play (Second Edition)',
      [author], 1)
 ]
 
@@ -274,8 +280,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, '2e-org-play-guide', u'2e-org-play-guide Documentation',
-   author, '2e-org-play-guide', 'One line description of project.',
+  (master_doc, 'Pathfinder Society Guide to Play (Second Edition)', u'Pathfinder Society Guide to Play (Second Edition) Documentation',
+   author, 'Pathfinder Society Guide to Play (Second Edition)', 'The guide to Paizo\'s Organized Play for second edition.',
    'Miscellaneous'),
 ]
 
