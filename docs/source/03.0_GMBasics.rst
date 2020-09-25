@@ -111,7 +111,7 @@ Some early scenarios were written before the CP system was fully developed.  If 
   Step 3 says that for each DC and encounter, Tonya uses the 3–4 level range statistics, modified by any scaling instructions that apply to a CP of 25.  This will probably include adding more opponents and/or more dangerous opponents to fights.
 
 
-During the Adventure
+During the Adventure      
 ************************************
 **Hero Points:** At the beginning of an adventure, each player receives 1 Hero Point. GMs should then hand out additional Hero Points at a rate of approximately 1 Hero Point per hour of play, following the Guide lines on page `507 of the Pathfinder Core Rulebook <https://2e.aonprd.com/Rules.aspx?ID=573>`_. 
 
