@@ -1,5 +1,8 @@
-footer p {
-  font-size:0rem;
+.finepprint {
+  font-size:.75rem;
+  margin-top:1rem;
+  color: #858585;
+  line-height:1.2;
 }
 
 .rst-content .line-bloc P{
