@@ -54,7 +54,7 @@ Paizo Inc. Staff Roster
 - **Starfinder Design Lead** • Owen K.C. Stephens
 - **Starfinder Society Developer** • Thurston Hillman
 - **Senior Designer** • Stephen Radney-MacFarland
-- **Designers** • Logan Bonner and Mark Seifter
+- **Designers** • Logan Bonner and Mark Seifter  
 - **Managing Editor** • Judy Bauer
 - **Senior Editor** • Lyz Liddell
 - **Editors** • James Case, Leo Glass, Adrian Ng, Lacy Pellazar, and Jason Tondro

@@ -1,0 +1,1009 @@
+================
+Rewards
+================
+
+Boons
+*****
+Boons are rewards that can be applied to a character. Common types of boons include Achievemnet Points (AcP), Chronicle, or Faction.  Boons often have traits that describe how the boon applies. There are some boon traits that deserve specific mention:
+
+  Advanced  
+    A boon with the Advanced trait is typically more powerful than other boons.  Characters may only benefit from one advanced boon during an adventure.
+  Ally
+    A boon with the Ally trait often places a Pawn. An Ally boon that places a Pawn cannot be used if the PC has already placed a second Pawn this game..
+  Promotional 
+    These boons reward Players for promoting the society, or for exceptional contributions to the campaign. Characters may only benefit from one advanced boon during an adventure.
+
+Unless a boon states otherwise, you can only apply one of any given boon to a character.
+
+Promotional Boons
+=================
+
+These boons are available, automatically, to any Player who meets their requirements.
+
+  Promotional Accessory
+    Type: promotional
+    Prerequisites: Player is wearing or carrying an accessory that promotes Pathfinder Society
+    Benefit: Up to twice per adventure, you can spend an action to reduce the severity of your frightened or stupefied condition by 1.
+    *Special:* A PC can only benefit from one promotional boon per game.
+
+  Promotional Service Award
+    Type: promotional
+    Prerequisites: Have a campaign coin, Member of the Order of the Wayfinder.
+    Benefit: Volunteers who make exceptional contributions to Organized Play can earn campaign coins or membership in the Order of the Wayfinder as a recognition of their hard work. When you use this boon, you gain a bonus Hero Point at the beginning of the adventure. In addition to the normal powers of a Hero Point, you can spend this special Hero Point to allow another Player to reroll a check.
+    *Special:* A PC can only benefit from one promotional boon per game.
+
+  Promotional Vestments
+    Type: promotional
+    Prerequisites: Player is wearing clothing that promotes Pathfinder Society, such as a volunteer shirt, a shirt for a Pathfinder Lodge, or Pathfinder-themed cosplay
+    Benefit: When you use a Hero Point to reroll a check, add a +1 cirumstance bonus to the reroll.
+    *Special:* A PC can only benefit from one promotional boon per game.
+
+
+Achievement Points
+==================================
+
+Players earn Achievement Points (AcP) by participating in and reporting Pathfinder Society games. AcP are an online currency used to purchase character boons. Currently, there are three levels of AcP events.The number of points earned depends on time involved, the event level, and the type of involvement as in the chart below. Event classifications are:
+
+- **Standard events:** games played in stores, homes, or other  locations .
+- **Premier events:** games played at conventions and local events designated part of the Regional Support Program. 
+- **Premier Plus events:** Paizo-sponsored conventions and conventions running more than 75 blocks of organized play.
+
+Table: Typical AcP rewards
+----------------------------
+
+.. csv-table:: 
+   :file: _static/csv/acpRewards.csv
+   :widths: 20, 20, 20, 20, 20
+   :header-rows: 1
+
+*Not all Adventures and Adventure Path books award 12 XP. See the individual sanctioning documents for details.*
+
+A list of  Achievement Points rewards available for purchase lives on the Boon tab of your `My Organized Play page <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_. To purchase a boon, select a character from the dropdown list, then click the purchase button of the desired boon. A list of purchased boons appears at the bottom of the page. Each purchased boon generates a downloadable printable boon. AcP boons should be stored with Chronicles, either digitally or alongside physical sheets. 
+
+Retail Incentive Program 
+==================================
+
+The Retail Incentive Program (RIP) rewards Players with rewards for their characters when they patronize retailers who are providing space for Organized Play activities.  Purchases made at the location within a stated time frame tally by table and unlock benefits at different levels, including some that reduce the severity of failures, for the next game played. Implementation methods vary from store to store, and are posted for attendees to review. For more information, read the `full policy <https://paizo.com/organizedplay/policies#retailers>`_ and consult your Event Organizer for details.
+
+Legacy Backgrounds (legacy campaign) 
+===================================================
+Even though characters from the First Edition legacy campaign cannot transfer into the current Pathfinder Society campaign, their exploits can shape the Society’s newest adventurers. For each of the 11 seasons of the legacy campaign, a Player can unlock a special legacy character background associated with that season by having completed five or more of that season’s scenarios. These backgrounds are unique to the Pathfinder Society campaign, and once they’re unlocked, a Player use a legacy background for any number of characters. See Legacy Backgrounds.
+
+Faction & Reputation
+==================================
+
+By representing a faction during adventures or participating in adventures vital to a faction’s interests, a character gains Reputation with the represented faction. The greater a character’s Reputation the more respected and influential they are with that faction. Characters can represent more that one Faction in their career, but only one per adventure. Some scenarios grant bonus Reputation with particular factions; this doesn’t prevent characters from choosing to represent a different Faction.
+
+Pathfinder Society uses the Reputation subsystem (`Gamemastery Guide 164 <https://2e.aonprd.com/Rules.aspx?ID=1234>`_)  with the following modifications:  
+
+Table: Faction Reputations
+-----------------------------
+
+.. csv-table:: 
+   :file: _static/csv/factionReps.csv
+   :header-rows: 1
+
+Reputation in PFS does not use negative values. Major infractions earn Infamy.
+
+Character rewards unlocked by Reputation are found on the Boon Tab of your `My Organized Play page <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_. Rewards can unlock based on Reputation with a single faction, or the total amount of Reputation your character has earned across all factions.
+
+Other Rewards 
+=================
+
+Pathfinder Society Organized Play periodically releases additional prizes for special events. The most common among these are charity boons, which are in-game benefits sent to authorized charity events to help raise money for good causes. For more information on Charity Boons, ask the Event Organizer.
+
+Legacy Backgrounds
+*******************
+
+  Early Explorer Background
+    In the past decade, the Pathfinder Society has clashed with demonic armies, meddled in politics, and more, but you joined the organization before everything seemed so complicated. Whether you’re a dedicated scholar of ruins or an explorer who just longs for months-long expeditions into the wilderness, you’re a Pathfinder to explore, report, and cooperate.
+
+    Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
+
+    You’re trained in the Survival skill and the Pathfinder Society Lore skill. You gain the Forager skill feat.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Seasons 0 of the Pathfinder Society organized play campaign.
+
+  Shadow War Survivor Background
+    Countless factions have fought for influence in Absalom for millennia, and for decades these groups worked through the Pathfinder Society to better control the City at the Center of the World. Perhaps you were ones of these agents who clashed with other operatives during the so-called Shadow War. Or you might have been an unintended victim of these clandestine clashes, inspiring you to join the Society and stop the conflict from within. Whatever the reason, navigating the Shadow War has left you politically savvy and informed.
+
+    Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
+
+    You’re trained in the Society skill and the Absalom Lore skill. You gain the Streetwise skill feat.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 1 of the Pathfinder Society organized play campaign.
+
+  Shadow Lodge Defector Background
+    You were among the Pathfinders recruited by the devious Shadow Lodge, lured in by promises of wealth, reform, justice, or revenge. You might have fought against the Society’s loyal agents, helped sabotage the Pathfinders’ reputation in distant countries, or even infiltrated the far-flung lodges as a spy. You’ve since made peace with and rejoined the Pathfinder Society, yet the underhanded reflexes and skills you learned are hard to forget.
+
+    Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
+
+    You’re trained in the Deception skill and the Underworld Lore skill. You gain the Lie to Me skill feat.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 2 of the Pathfinder Society organized play campaign.
+
+  Ruby Phoenix Enthusiast Background
+    Named for the legendary sorcerer Hao Jin, the Ruby Phoenix Tournament occurs once every 10 years in Goka and attracts extraordinary talent from across the world. You might have begun training for the tournament but never participated, or perhaps you entered the tournament only to be defeated by (and inspired to join) the Pathfinder Society. Either way, your dedicated training prepares you for the rigors of the adventuring lifestyle.
+
+    Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
+
+    You’re trained in the Athletics skill and the Gladiatorial Lore skill. You gain the Combat Climber skill feat. In addition, you gain access to one of the following uncommon monk weapons: kama, nunchaku, sai, shuriken, or temple sword.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 3 of the Pathfinder Society organized play campaign.
+
+  Thassilonian Delver Background
+    As archaeologists uncovered and explored ever-larger numbers of Thassilonian ruins, you were among the eager explorers who sought out the Runelords’ ancient secrets. You may have been the apprentice to another Pathfinder who perished on an expedition, leaving you their discoveries and notes. Or perhaps you explored several of these sites yourself, quickly learning to parse the arcane secrets before lest the eldritch magic extinguish your life.
+
+    Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
+
+    You’re trained in the Arcana skill and the Thassilonian History Lore skill. You gain the Arcane Sense skill feat. Add Thassilonian to the list of additional languages you can learn for having a high Intelligence modifier.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 4 of the Pathfinder Society organized play campaign.
+
+  Demon Slayer Background
+    For over a century, Mendev led a multinational coalition against ever-growing abyssal invaders in the Worldwound, and the Pathfinder Society aided in the so-called Fifth Crusade that ultimately sealed the planar rift and defeated its demon armies. You might be a hardened recruit who clashed with the demons, or perhaps you were a survivor who lost everything to the fiendish armies and narrowly escaped—or was rescued by Pathfinders. Your exposure to the Worldwound has taught you vital lessons in identifying fiends and their magic.
+
+    Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
+
+    You’re trained in the Religion skill and the Demon Lore skill. You gain the Recognize Spell skill feat. Add Abyssal to the list of additional languages you can learn for having a high Intelligence modifier.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 5 of the Pathfinder Society organized play campaign.
+
+  Scholar of the Sky Key Background
+    The unfamiliar technology of Numeria’s Silver Mount still baffles Society scholars, yet you are one of the innovators who discovered how to operate a handful of these futuristic tools—possibly after surviving more than a few explosions. The Society might have recruited you for your esoteric abilities, or you might have sought out the Society’s protection in escaping the covetously vile Technic League. Even if your understanding of advanced technology is imperfect, your hard-learned lessons are invaluable in deciphering and repairing gear.
+
+    Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
+
+    You’re trained in the Crafting skill and the Engineering Lore skill. You gain the Quick Repair skill feat.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 6 of the Pathfinder Society organized play campaign.
+
+  Former Aspis Agent Background
+    For more than a century, the Pathfinder Society has clashed with the avaricious and underhanded Aspis Consortium, and several years ago the Society dealt its rival a decisive blow. You may be one of the few survivors of a doomed Aspis expedition, or perhaps you chafed at the Consortium’s villainous practices and defected to the Pathfinders. No matter your reasons, you know how to be efficient and ruthless when the circumstances demand.
+
+    Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
+
+    You’re trained in the Intimidation skill and the Aspis Consortium Lore skill. You gain the Group Coercion skill feat. You gain access to any uncommon options as though you were a member of the Aspis Consortium.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 7 of the Pathfinder Society organized play campaign.
+
+  Savior of Air Background
+    Upon securing the Untouchable Opal, an artifact of extraordinary power, the Pathfinder Society endeavored to free the benevolent demigod Ranginori, who was trapped within the virtually unbreakable prison. You might have joined the Pathfinder Society in its expeditions to the Elemental Planes, or you might have lived on one of those planes before learning of the Society from these Pathfinder agents. You are no stranger to navigating precarious terrain as a result.
+
+    Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
+
+    You’re trained in the Acrobatics skill, plus either Elemental Lords Lore or a Lore skill related either to one of the Elemental Planes (such as Plane of Air Lore). You gain the Cat Fall skill feat. Add Auran to the list of additional languages you can learn for having a high Intelligence modifier.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 8 of the Pathfinder Society organized play campaign.
+
+  Faction Opportunist Background
+    As the Pathfinder Society’s influence has grown, so too did many of its factions become wealthier and more powerful. These factions relied on a host of Pathfinders and independent operatives alike to establish trade networks, shape national politics, and more, and you were among the specialists who helped one of these factions realize its goal. These events provided you countless opportunities to develop your own contacts and negotiating skills.
+
+    Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
+
+    You’re trained in the Diplomacy skill, plus either Guild Lore, Heraldry Lore, or Mercantile Lore. You gain the Hobnobber skill feat.
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 9 of the Pathfinder Society organized play campaign.
+
+  Tapestry Refugee Background
+    Within her magnificent museum demiplane, the sorcerer Hao Jin extracted and preserved countless sites and cultures. The demiplane’s unraveling magic forced the Pathfinder Society to evacuate the many inhabitants recently, and you were among the refugees who returned to the Material Plane after centuries of isolation. Whether you joined the Society out of gratitude, curiosity, or desperation, you are hardened by your harrowing flight from your doomed home.
+
+    Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+
+    You’re trained in the Medicine or Stealth skill, plus a Lore skill related to the terrain you lived in while on the demiplane (such as Cave Lore or Desert Lore). You gain the Assurance skill feat with the skill you chose to become trained in (Medicine or Stealth).
+
+    **Special** You can select this background only if you have earned credit for at least 5 First Edition scenarios from Season 10 of the Pathfinder Society organized play campaign.
+
+Retired Rewards
+*******************
+
+Playtest Points
+===============
+
+Playtest Points (playtest adventures): During the playtest period for Pathfinder Second Edition, players and GMs did not earn Chronicles when playing the 11 playtest adventures. Instead, each participant earned a number of Playtest Points, which can now be redeemed on your `Organized Play account at Paizo <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_. These rewards include Limited-Use boons, the ability to start a character at 2nd or 3rd level to reflect the time spent playing the game, and other minor benefits.
+
+Faction Boons
+==============
+Starting in season 2, Adventures no longer give Fame. There will be a new Faction boon System coming out, in the next few months, and a mechanism to transition your boons over to the new system. Once the new system is in place, you will no longer be able to buy Faction boons with fame. The current date for the transition is 10/20/2020
+
+Faction Boon Errata
+============================
+Additionally, the following faction boons have been changed.
+
+- Alliance Champion boons no longer do anything and have ceased to exist.
+- All characters gain the effect of the Home Region boon for free at character creation. As such, the boon no longer serves any function.
+
+Heroic Resurgence
+------------------
+
+**Replace** “Until the end of your next turn, you gain a +1 status bonus to attack rolls, and you also gain a circumstance bonus to your damage rolls, Perception checks, skill checks, and saving throws equal to the noted value (maximum +2 for Reputation tier 3, or +3 for Reputation tier 4).”
+
+**With** “Until the end of your next turn, you gain a +2 status bonus to attack rolls, damage rolls, Perception checks, skill checks, and saving throws.”
+
+Crafter’s Workshop  
+------------------
+
+**Replace**: “When you Craft during Downtime, you do not need to spend 4 days at work before attempting a Crafting check.”
+
+**With** “You only need to spend 1 day of downtime before attempting your skill check and subsequently beginning to reduce the item’s effective cost.”
+
+**And Remove**: “ However, your fellow faction members expect your assistance in return. After slotting this boon to reduce the time needed to Craft an item, you must keep it slotted until you have finished crafting that item.”
+
+Hireling Boons
+------------------
+
+**Replace**: “The hireling’s result cannot be modified by class abilities or spells, but it can be improved by a successful Aid check. ” 
+
+**With**:  “The hireling doesn’t have or use its own ability modifiers and can never benefit from item bonuses, status bonuses, or fortune effects.  Abilities that grant you a circumstance bonus do not grant that circumstance bonus to your hireling even though you are using your action to attempt the check.  You cannot aid your own hireling.”
+
+**Replace**: The hireling does not participate directly in combat
+
+**With**: You cannot use the hirelings skills except recall knowledge in combat, and the hireling cannot be affected by, or affect combat. 
+
+**Replace**: “Special You can purchase this boon multiple times.”
+   
+**With**: “Special You can purchase this boon multiple times, but may only benefit from one hireling boon on any given adventure”
+
+**Disclaimer:  Some of these rewards were still under development.  Some as written may not work as intended.  Those boons are noted in the tables below.**
+
+Faction Boon Rewards (retired?)
+=================================
+
+Factions offer a variety of rewards. These a PC can access by gaining Reputation with a particular faction and then spending Fame to purchase specific boons. In addition to faction-specific rewards, there are numerous generic rewards that are accessible to all factions based on the amount of Reputation a PC’s earned. The rewards take the form of boons, which follow the same rules as those found in the :ref:`Boons` section.
+
+Reputation Tiers: By representing a faction during adventures or participating in adventures vital to a faction’s interests, a PC gains Reputation with that faction. The greater a PC’s Reputation with a faction, the more respected and influential they are with that faction, represented by their Reputation Tier. These tiers are numbered 0 through 4, with a Reputation Tier of 0 representing no relationship with the faction, and a Reputation Tier of 4 representing the height of prestige within the faction. To advance to a higher Reputation Tier, a PC must increase their Reputation for that faction to the values listed in the following table.
+
+Table: Faction Reputaiton Tiers
+--------------------------------
+
+.. csv-table:: 
+   :file: _static/csv/retiredFactionTiers.csv
+   :header-rows: 1
+
+All Faction Boons
+--------------------------
+
+*Special Note*: To calculate your current Reputation Tier for the purpose of purchasing rewards listed in Table 2: All Factions Retired Rewards, add up your Reputation from all factions and reference that table.
+
+For example, a character with 11 Reputation with the Vigilant Seal and 27 with the Envoys’ Alliance has a total Reputation of 38 and therefore qualifies as Reputation Tier 2 when accessing the All Factions rewards.
+
+.. csv-table:: 
+   :file: _static/csv/factionBoons.csv
+   :header-rows: 1
+
+Envoys’ Alliance (Major) Boons 
+------------------------------------------
+The following is a list of purchasable rewards offered by the Envoys’ Alliance faction.
+
+.. csv-table:: 
+   :file: _static/csv/EnvoyBoons.csv
+   :header-rows: 1
+
+Grand Archive (Major) Boons 
+-----------------------------------
+The following is a list of purchasable rewards offered by the Grand Archive faction.
+
+.. csv-table:: 
+   :file: _static/csv/grandArchiveBoons.csv
+   :header-rows: 1
+
+Horizon Hunters (Major) Boons 
+-----------------------------------
+The following is a list of purchasable rewards offered by the Horizon Hunters faction.
+
+.. csv-table:: 
+   :file: _static/csv/horizonHuntersBoons.csv
+   :header-rows: 1
+
+* (Parts of this boon may not work as expected under the rules)
+
+Radiant Oath (Major) Boons 
+-----------------------------------
+The following is a list of purchasable rewards offered by the Radiant Oath faction.
+
+.. csv-table:: 
+   :file: _static/csv/radiantOathBoons.csv
+   :header-rows: 1
+
+Verdant Wheel (Minor) Boons 
+-----------------------------------
+The following is a list of purchasable rewards offered by the Verdant Wheel faction.
+
+.. csv-table:: 
+   :file: _static/csv/verdantWheelBoons.csv
+   :header-rows: 1
+
+
+Vigilant Seal (Major) Boons
+-----------------------------------
+The following is a list of purchasable rewards offered by the Vigilant Seal faction.
+
+.. csv-table:: 
+   :file: _static/csv/vigilantSealBoons.csv
+   :header-rows: 1
+
+Boon List
+*********
+
+The following section details the boons that PCs can purchase with Fame.
+
+A
+==
+
+  Adversary Lore
+    **Prerequisites** Vigilant Seal Tier 1
+
+    **Cost** 4 Fame
+
+    It doesn’t matter how powerful your weapons are if you don’t know where to strike. Before an adventure, you take time to study a certain category of creatures, making it easier to recall their capabilities later. When you purchase this boon, either select one creature type from List 1 below, or choose two creature types from List 2. While this boon is slotted, you have a +1 circumstance bonus to Recall Knowledge about creatures of the selected type(s). If your Reputation Tier for the Vigilant Seal faction is 4, this bonus increases to +2.
+
+    **List 1** aberration, animal, beast, construct, dragon, elemental, fiend, undead.
+
+    **List 2** astral, celestial, ethereal, fey, fungus, giant, monitor, ooze, plant.
+
+  Academic Conference
+    slotless
+
+    **Prerequisites** Grand Archive Tier 1
+
+    **Cost** 0 Fame
+
+    Prestigious institutions across Golarion periodically host conferences where eminent scholars can present their discoveries, and you enhance your own profile when attending these events. When you play or GM an adventure at a Paizo Organized Play event designated as Premium or Premium Plus, you earn 2 additional Fame and Reputation with the Grand Archive faction.
+
+    **Special** You can benefit from this boon only a number of times equal to your current Reputation Tier with the Grand Archive faction. Each time you fulfill the requirements of this boon, mark it on your Chronicle sheet along with the associated Reputation Tier. Have the GM sign beside this notation.
+
+B
+==
+
+  Beginnings and Endings
+    slotless
+
+    **Prerequisites** Verdant Wheel Tier 1
+
+    **Cost** 0 Fame
+
+    Serve as the event organizer or headquarters volunteer for an event that includes Pathfinder Society adventures or assist these volunteers in setting up or cleaning up after such an event. When you do so, you earn 2 additional Fame and Reputation with the Verdant Wheel faction on the next scenario you play.
+
+    **Special** You can benefit from this boon only a number of times equal to your current Reputation Tier with the Verdant Wheel faction. Each time you fulfill the requirements of this boon, mark it on your next Chronicle sheet along with the associated Reputation Tier. Have the GM sign beside this notation. You can only earn additional Fame and Reputation with this boon for one character per adventure you run, even if you have multiple characters who could benefit from this boon.
+
+  Bequeathal
+    service
+
+    **Prerequisites** All Factions Tier 3
+
+    **Cost** Varies
+
+    Pathfinders often find strange treasures for which they might not have any use, yet one of their colleagues would benefit. When you acquire this boon, select one uncommon, rare, or unique character option to which you’ve gained access through an adventure’s Chronicle sheet (e.g., a boon that allows you to acquire a **Special** animal companion or purchase a **Special** magic item). Choose another of your characters. That character gains access to that **Special** option instead, though they may only use the option once their level equals or exceeds the lowest level able to play the Chronicle sheet’s adventure (e.g., 5th level for Tier 5–8). On the Chronicle sheet, write “Bequeathed” and the recipient character’s number next to the option. You no longer have access to that option (and must sell it back if you acquired the option and would no longer qualify for it).
+
+    The **Cost** of this boon is 4 Fame for an uncommon option, 8 Fame for a rare option, and 12 Fame for a unique option.
+
+    **Special** You can purchase this boon multiple times. Each time you bequeath a different character option.
+
+  Bring Them Back Alive
+    social
+
+    **Prerequisites** Envoys’ Alliance Tier 3
+
+    **Cost** 2 Fame
+
+    You are able to leverage your connections within the Society to raise funds for your allies’ resurrection, ensuring that everyone lives to see another adventure. You and your allies treat your effective character levels as 1 lower for the purpose of the raise dead spell and the resurrection ritual. This applies to both the level of the spell or ritual required, as well as to calculating the **Cost** of the diamonds necessary to cast the spell or perform the ritual.
+
+C
+==
+
+  Charitable Adventure
+    slotless
+
+    **Prerequisites** Radiant Oath Tier 1
+
+    **Cost** 0 Fame
+
+    Although the Society focuses on exploration and discovery, the Pathfinders’ exploits also earn them a considerable income—a portion of which you donate to those in need. When you play or GM an adventure at a charity event registered with the Organized Play Foundation, you earn 2 additional Fame and Reputation with the Radiant Oath faction.
+
+    **Special** You can benefit from this boon only a number of times equal to your current Reputation Tier with the Radiant Oath faction. Each time you fulfill the requirements of this boon, mark it on your Chronicle sheet along with the associated Reputation Tier. Have the GM sign beside this notation.
+
+  Consummate Dabbler
+    slotless
+
+    **Prerequisites** Horizon Hunters Tier 1
+
+    **Cost** 0 Fame
+
+    It’s not enough to simply see the world; you’re driven to experience local cultures’ unfamiliar customs, too. When you play a Pathfinder Adventure Card Society scenario or a Starfinder Society scenario, you earn 2 additional Fame and Reputation with the Horizon Hunters faction on the next scenario you play.
+
+    **Special** You can benefit from this boon only a number of times equal to your current Reputation Tier with the Horizon Hunters faction. Each time you fulfill the requirements of this boon, mark it on your Chronicle sheet along with the associated Reputation Tier. Have the GM sign beside this notation. You can only earn additional Fame and Reputation with this boon for one character per scenario played, even if you have multiple characters who could benefit from this boon.
+
+  Crafter’s Workshop
+    Downtime
+
+    **Prerequisites** Envoy’s Alliance Tier 2
+
+    **Cost** 4 Fame
+
+    Your friends in the Envoy’s Alliance share crafting materials and collaborate to create new items more efficiently. You only need to spend 1 day of downtime before attempting your skill check and subsequently beginning to reduce the item’s effective **Cost**.
+
+  Curse Breaker
+    Downtime
+
+    **Prerequisites** Vigilant Seal Tier 2
+
+    **Cost** 2 Fame
+
+    You have been entrusted with an accursed item from the Society’s vaults, and you can spend your time in the Grand Lodge patiently unraveling its malign influence. When you acquire this boon choose a permanent magic item of your level or lower to which you have access. While you have this boon slotted, you can spend Downtime erasing the item’s stubborn curse. This uses the same rules as you would to Craft the item, with the following exceptions. First, you must use Arcana, Nature, Occultism, or Religion in place of Crafting (such as to determine the progress you make and the maximum item level you can work on). Second, your faction provides you the necessary tools and workspace to perform this operation. Third, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item’s effective **Cost**. You must keep this boon slotted until you finish uncursing the item.
+
+    **Special** You can purchase this boon multiple times. Each time you do so, you select a different item.
+
+E
+==
+
+  Eager Protégé
+    ally, limited-use
+
+    **Prerequisites** Envoys’ Alliance Tier 2
+
+    **Cost** 4 Fame
+
+    A promising recruit, initiate, or recently confirmed field agent accompanies you while you have this boon slotted. This disciple observes your adventuring exploits and occasionally contributes directly; once per adventure before you attempt a skill check or attack roll, the ally successfully Aids you, granting you a +1 circumstance bonus to the triggering check.
+
+    Tally the amount of XP you earn while this boon is slotted. Once you have tallied 60 or more XP in this way, you can encourage your protégé to set off on their own on new adventures. When this happens, you can no longer slot this boon; however, you can expend the boon when creating a new character to begin the character at 2nd level with 12 XP, 12 Fame, 30 gp, and 12 Reputation to distribute among any number of legal factions. Once expended in this way, this boon provides no other benefits.
+
+    **Special** You can purchase this boon multiple times, but you can only tally XP credit toward one such ally at a time.
+
+  Exotic Edge
+    **Prerequisites** Horizon Hunters Tier 3
+
+    **Cost** 4 Fame
+
+    By traveling so widely, you have developed an intuitive talent for using esoteric techniques. Once per adventure, you can activate this boon as a free action to apply these techniques, gaining a +1 circumstance bonus to either all of your attack rolls or all of your skill checks for 1 round.
+
+H
+==
+
+  Heroic Defiance
+    heroic
+
+    **Prerequisites** Vigilant Seal Tier 3
+
+    **Cost** 4 Fame
+
+    When you spend your Hero Points to avoid death, you can choose to immediately wake up with 1 Hit Point.
+
+    Normal When you spend your Hero Points to avoid death, you stabilize with 0 Hit Points, but you do not wake up until your Hit Points rise above 0.
+
+  Heroic Hustle
+    heroic
+
+    **Prerequisites** Horizon Hunters Tier 3
+
+    **Cost** 4 Fame
+
+    (Parts of this boon may not work as expected under the rules)
+
+    In moments of true heroism, you can always move to where the action is. When you spend a Hero Point to reroll a check, you also gain a +10-foot status bonus to your Speed until the end of your next turn. When you spend a Hero Point to avoid death, you can also Stand as a free action as you become conscious.
+
+  Heroic Inspiration
+    heroic
+
+    **Prerequisites** Envoys’ Alliance Tier 3
+
+    **Cost** 4 Fame
+
+    Your most momentous actions can inspire your allies to follow suit. When you use a Hero Point to reroll a check and succeed at the check, your allies gain a +1 circumstance bonus to checks of the same type for 1 round (such as attack rolls, Will saves, or Perception checks).
+
+  Heroic Intervention
+    heroic
+
+    **Prerequisites** Radiant Oath Tier 3
+
+    **Cost** 4 Fame
+
+    Your heroic moments grant others the will to keep fighting. When you spend a Hero Point, you and any allies within 30 feet who can see you regain 3d6 Hit Points (4d6 if your Radiant Oath reputation tier is 4). This healing also affects dying allies, even if they cannot see you due to being unconscious.
+
+  Heroic Recall
+    heroic
+
+    **Prerequisites** Grand Archive Tier 3
+
+    Trigger You spend a Hero Point to reroll a check
+
+    **Cost** 4 Fame
+
+    Desperate moments call for keen insight. You can Recall Knowledge as a free action, rolling the skill check twice and using the better result. This is a fortune effect.
+
+  Heroic Resurgence
+    heroic
+
+    **Prerequisites** Verdant Wheel Tier 3
+
+    **Cost** 4 Fame
+
+    (Parts of this boon may not work as expected under the rules)
+
+    As Verdant Wheel balances the cycles of life and death, you are able to dance between existence and oblivion in stressful moments. When you spend your Hero Points to avert death, you gain a +2 status bonus to attack rolls, damage rolls, Perception checks, skill checks, and saving throws until the end of your next turn.
+
+  Hireling
+    ally
+
+    **Prerequisites** All Factions Tier 0
+
+    **Cost** 4 Fame
+
+    You have recruited a non-combat hireling who can assist you with a certain set of skill checks. This ally performs the selected skills with a total modifier equal to 2 + your level, and they are considered trained in the skills. You must expend any actions and be in range to perform the action yourself, and any consequences of these actions affect you (such as falling when using Athletics to Climb).
+
+    The hireling doesn’t have or use its own ability modifiers and can never benefit from item bonuses, status bonuses, or fortune effects.  Abilities that grant you a circumstance bonus do not grant that circumstance bonus to your hireling even though you are using your action to attempt the check.  You cannot aid your own hireling.
+
+    You cannot use the hirelings skills except recall knowledge in combat, and the hireling cannot be affected by, or affect combat, and cannot be harmed unless willfully endangered, and has no effect other than performing the selected skill checks.
+
+    When you purchase this boon, you select one skill as well as one Lore skill. The hireling can perform only these skills checks.
+
+    **Special** You can purchase this boon multiple times, but may only benefit from one hireling boon on any given adventure. Each time you purchase this boon, you can choose a different set of skills.
+
+  Hireling, Expert
+    slotless
+
+    **Prerequisites** All Factions Tier 2, Hireling boon
+
+    **Cost** 6 Fame
+
+    When you gain this boon, select one Hireling boon you possess. The selected ally’s proficiency for their selected skills improves to expert, and their modifier to skill checks increases to 4 + your level.
+
+    **Special** You can purchase this boon multiple times. Each time you purchase this boon, you must apply its benefits to a different Hireling boon.
+
+  Hireling, Professional
+    slotless
+
+    **Prerequisites** All Factions Tier 3, Expert Hireling
+
+    **Cost** 6 Fame
+
+    When you gain this boon, select one Hireling boon you possess. The selected ally adds a second Lore skill to the list of skill checks they can attempt. In addition, select one skill feat whose prerequisite is being trained in one of the hireling’s selected skills. The hireling gains the benefits of that skill feat when attempting skill checks.
+
+    **Special** You can purchase this boon multiple times. Each time you purchase this boon, you must apply its benefits to a different Hireling boon.
+
+  Hireling, Master
+    slotless
+
+    **Prerequisites** All Factions Tier 4, Expert Hireling
+
+    **Cost** 8 Fame
+
+    When you gain this boon, select one Hireling boon you possess that’s already been modified by the Expert Hireling boon. The selected ally’s proficiency for their selected skills improves to master, and their modifier to skill checks increases to 6 + your level.
+
+    **Special** You can purchase this boon multiple times. Each time you purchase this boon, you must apply its benefits to a different Hireling boon.
+
+  Home Region
+    slotless
+
+    **Prerequisites** All Factions Tier 0
+
+    **Cost** 0 Fame
+
+    Whether it’s because you grew up there or have since learned to call it home, one nation is e**Special**ly familiar to you. Choose one nation (such as Varisia or Taldor) when you purchase this boon. For the purpose of fulfilling **Prerequisites** and Access conditions for uncommon character options, you are treated as being from that nation as well as the larger region in which it’s found (such as the Saga Lands for Varisia or the Shining Kingdoms for Taldor).
+
+    **Special** You can purchase this boon multiple times, but each time you purchase it, you lose your previous home region in order to become so familiar with a new one. Before doing so, you must retrain any options that listed being from the previous home region as a prerequisite, and any options to which you would no longer have access.
+
+    Achievement Points The World Traveler boon, accessible with Achievement Points, grants similar access to an entire region, providing an additional avenue to access region- and nation-based options.
+
+L
+==
+
+  Leader by Example
+    slotless
+
+    **Prerequisites** Vigilant Seal Tier 1
+
+    **Cost** 0 Fame
+
+    Pathfinders don’t always find adventure on their own; they often need someone to lead them to where the danger lies. As their guide on perilous treks, your renown grows. When you GM an adventure that grants at least 4 XP, you earn 2 additional Fame and Reputation with the Vigilant Seal faction. You can qualify for the benefit when you run multiple adventures that grant fewer XP so long as the total XP at least equals 4.
+
+    **Special** You can benefit from this boon only a number of times equal to your current Reputation Tier with the Vigilant Seal faction. Each time you fulfill the requirements of this boon, mark it on your Chronicle sheet along with the associated Reputation Tier. You can only earn additional Fame and Reputation with this boon for one character per adventure you run, even if you have multiple characters who could benefit from this boon.
+
+  Leshy Companion
+    ally
+
+    **Prerequisites** Verdant Wheel Tier 2
+
+    **Cost** 4 Fame
+
+    You can select the Leshy Familiar feat as a 2nd level class feat, even if you are not a druid. You can ignore the prerequisite of belonging to the leaf order.
+
+M
+==
+
+  Mentor, Combat
+    mentor, social
+
+    **Prerequisites** Vigilant Seal Tier 1
+
+    **Cost** 2 Fame
+
+    While working with less experienced Pathfinder allies, you provide pointers and lead drills that ensure your newer colleagues’ attacks strike true. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to attack rolls and spell attack rolls to 2.
+
+    Normal A Level Bump increases a PC’s attack roll and spell attack roll modifiers by 1.
+
+    **Special** A PC can only benefit from two mentor boons.
+
+  Mentor, Magical
+    mentor, social
+
+    **Prerequisites** Grand Archive Tier 1
+
+    **Cost** 2 Fame
+
+    While working with less experienced Pathfinder allies, you provide key spellcasting insights that augment your colleagues’ magic. Any PCs benefiting from a Level Bump and whose levels are lower than yours can prepare one additional spell of their highest-level spell slot or cast one additional spell of their highest-level spell slot. When casting spells of a magical tradition that is the same as the tradition you use for spellcasting, the affected PC also increases the Level Bump’s modifier to spell DCs to 2.
+
+    Normal A Level Bump increases a PC’s spell DCs by 1, and it does not grant any additional spells prepared or spell slots.
+
+    **Special** A PC can only benefit from two mentor boons.
+
+  Mentor, Protective
+    mentor, social
+
+    **Prerequisites** Radiant Oath Tier 1
+
+    **Cost** 2 Fame
+
+    While working with less experienced Pathfinder allies, you shield your more fragile wards from the threat of death. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase their current and maximum Hit Points by an additional amount equal to 3 times your Radiant Oath reputation tier.
+
+    Normal A Level Bump increases a PC’s Hit Points by 10% or 10, whichever is higher.
+
+    **Special** A PC can only benefit from two mentor boons.
+
+  Mentor, Rugged
+    mentor, social
+
+    **Prerequisites** Horizon Hunters Tier 1
+
+    **Cost** 2 Fame
+
+    While working with less experienced Pathfinder allies, you provide important insights that keep your less experienced colleagues safe from harm. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to saving throws to 2.
+
+    Normal A Level Bump increases a PC’s saving throw modifiers by 1.
+
+    **Special** A PC can only benefit from two mentor boons.
+
+  Mentor, Skillful
+    mentor, social
+
+    **Prerequisites** Envoys’ Alliance Tier 1
+
+    **Cost** 2 Fame
+
+    While working with less experienced Pathfinder allies, you provide vital advice to sharpen your newer colleagues’ skills. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to skill checks to 2.
+
+    Normal A Level Bump increases a PC’s skill check modifiers by 1.
+
+    **Special** A PC can only benefit from two mentor boons.
+
+  Mentor, Worldly
+    mentor, social
+
+    **Prerequisites** Verdant Wheel Tier 1
+
+    **Cost** 2 Fame
+
+    While working with less experienced Pathfinder allies, you help your less experienced colleagues recognize danger and withstand danger. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to Perception checks and Initiative rolls to 2.
+
+    Normal A Level Bump increases a PC’s Perception modifier by 1.
+
+    **Special** A PC can only benefit from two mentor boons.
+
+  Meticulous Appraisal
+    service
+
+    **Prerequisites** Grand Archive Tier 2
+
+    **Cost** 2 Fame
+
+    Even when your careful searching doesn’t uncover all of a site’s valuables, you’re able to appraise, repair, and certify what you did recover to maximize their value. You can purchase this boon at the end of a scenario when you and your allies recovered 9 or fewer of the adventure’s Treasure Bundles. Increase the effective number of Treasure Bundles recovered by 1 for the purpose of calculating the group’s gold piece rewards. For each addition 2 points of Fame you spend when purchasing this boon, you increase the effective number of Treasure Bundles recovered by 1.
+
+    The total number of additional Treasure Bundles provided by this boon cannot exceed the number of Treasure Bundles the group actually recovered, nor can this boon increase the number of Treasure Bundles beyond the scenario’s maximum.
+
+  Multicultural Training
+    slotless, social
+
+    **Prerequisites** All Factions Tier 0
+
+    **Cost** 2 Fame
+
+    You consider yourself a member of multiple cultures—whether by birth, upbringing, or long-term exposure—and you have learned to blend several of the cultures’ styles into your training as an adventurer. Choose an additional ethnicity, such as Varisian or Garundi. In addition to the ethnicity you selected at character creation, you are also treated as a member of this additional ethnicity for the purpose of fulfilling **Prerequisites** and Access conditions.
+
+    Normal When creating a character, you can choose one ethnicity to can serve as a prerequisite and Access condition for character options. This affects only the character options you can select, not your character’s story or identity.
+
+    **Special** You can purchase this boon multiple times. The second time you purchase it, the **Cost** increases to 12 Fame, and subsequent purchases **Cost** 20 Fame each.
+
+N
+==
+
+  Naturalist
+    Downtime
+
+    **Prerequisites** Verdant Wheel Tier 1
+
+    **Cost** 2 Fame
+
+    When you acquire this boon choose an alchemical item or potion of your level or lower to which you have access. While you have this boon slotted, you can spend Downtime to search for rare herbs and ingredients in order to craft up to a full batch of this item (typically 4). This uses the same rules as you would to Craft the item, with the following exceptions. First, you must use Nature, Survival, or Herbalism Lore in place of Crafting (such as to determine the progress you make and the maximum item level you can work on). Second, your faction provides you the necessary tools and workspace to perform this operation. Third, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item’s effective **Cost**. You must keep this boon slotted until you finish crafting the items.
+
+    **Special** You can purchase this boon multiple times. Each time you do so, you select a different item.
+
+O
+==
+
+  Off-Hours Study
+    Downtime
+
+    **Prerequisites** Grand Archive Tier 1
+
+    **Cost** 2 Fame
+
+    You spend your free time studying learning new trivia or practicing unfamiliar languages. When you acquire this boon, choose a common language you don’t know or a Lore skill in which you are untrained. While you have this boon slotted, you can spend Downtime practicing the selected language or skill. Once you have expended 50 days of Downtime in this way, you learn the chosen language or become trained in the chosen Lore skill. This boon is then expended and grants no further benefit.
+
+    **Special** You can purchase this boon multiple times. Each time you do so, you select a different language or Lore skill.
+
+P
+==
+
+  Practiced Medic
+    Downtime
+
+    **Prerequisites** Radiant Oath Tier 1
+
+    **Cost** 1 Fame
+
+    By spending your off hours administering medical aid to those in need, you have developed extraordinary first aid instincts. While you have this boon slotted, you can spend Downtime to provide medical services to others. Once you have expended 8 days of Downtime in this way, this boon becomes slotless, and you can expend the boon as a free action before attempting a Medicine check to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. You improve your check’s degree of success by one step (such as if you roll a failure, you get a success instead); the boon is not expended if your original roll is a critical success. Once you expend this boon, it provides no other benefit.
+
+    **Special** You can purchase this boon multiple times, though you cannot expend more than one copy of this boon per adventure.
+
+  Preserve
+    Property
+
+    **Prerequisites** Verdant Wheel Tier 3
+
+    **Cost** 4 Fame
+
+    You have claimed a small plot where you can grow, study, or experiment with a wide variety of animals, fungi, and plants, providing you a wealth of healthful reagents. You can purchase antidotes, antiplagues, barkskin potions, elixirs of life, healing potions, potions of flying, and potions of leaping at a 10% discount.
+
+  Promotional Accessory
+    promotional
+
+    **Prerequisites** Player is wearing or carrying an accessory that promotes Pathfinder Society
+
+    **Cost** 0 Fame
+
+    Up to twice per adventure, you can spend an action to reduce the severity of your frightened or stupefied condition by 1.
+
+    **Special**: A PC can only slot one promotional boon at a time.
+
+  Promotional Service Award
+    promotional
+
+    **Prerequisites** Have a campaign coin
+
+    **Cost** 0 Fame
+
+    Volunteers who make exceptional contributions to Organized Play can earn campaign coins as a recognition of their hard work. If you have a campaign coin, you gain a bonus Hero Point at the beginning of every adventure. In addition to the normal powers of a Hero Point, you can spend this **Special** Hero Point to allow another player to reroll a check.
+
+    **Special**: A PC can only slot one promotional boon at a time.
+
+  Promotional Vestments
+    promotional
+
+    **Prerequisites** Player is wearing clothing that promotes Pathfinder Society, such as a volunteer shirt, a shirt for a Pathfinder Lodge, or Pathfinder-themed cosplay
+
+    **Cost** 0 Fame
+
+    When you use a Hero Point to reroll a check, add a +1 cirumstance bonus to the reroll.
+
+    **Special**: A PC can only slot one promotional boon at a time.
+
+R
+==
+
+  Resist Corruption
+    **Prerequisites** Vigilant Seal Tier 1
+
+    **Cost** 2 Fame
+
+    No matter whether you’re a shining beacon of good or a jaded pragmatist with a mission, you must be prepared to shield yourself and your allies against unholy energy. While this boon is slotted, you and any adjacent allies gain resistance to evil damage equal to your Reputation Tier with the Vigilant Seal faction.
+
+  Resurrection Plan
+    service
+
+    **Prerequisites** All Factions Tier 0
+
+    **Cost** 25 or 50, see below
+
+    The Pathfinder Society is invested in keeping its most successful agents in the field. You can purchase a resurrection ritual for 25 Fame. If you are in a rush to return to life and cannot wait the day for this ritual to be conducted, you can instead purchase a casting of the raise dead spell for 50 Fame.
+
+    **Special** This reward can be purchased multiple times, as it strictly represents the ability to secure the listed services.
+
+S
+==
+
+  Secondary Initiation
+    slotless, social
+
+    **Prerequisites** All Factions Tier 0
+
+    **Cost** 2 Fame
+
+    Your contacts have introduced you to an influential member of another organization, allowing you to join that group or train in some of their techniques. Select an organization other than the Pathfinder Society. For the purpose of fulfilling **Prerequisites** and Access conditions, you are treated as being a member of that group in addition to your belonging to the Pathfinder Society.
+
+    **Special** You can purchase this boon multiple times, but each time you purchase it, you relinquish your membership in the previous group in order to join a different group. Before doing so, you must retrain any options that listed membership in your previous group as a prerequisite.
+
+  Sellback Plan
+    service
+
+    **Prerequisites** All Factions Tier 1
+
+    **Cost** None (see below)
+
+    You can return previously purchased boons whose Fame **Cost** is less than or equal to 2 times your Reputation Tier for All Factions so long as the boon is does not have the faction, limited-use, or service traits. You immediately gain an amount of Fame equal to the total Fame **Cost** of the returned boon minus 1.
+
+  Society Recruiter
+    slotless
+
+    **Prerequisites** Envoys’ Alliance Tier 1
+
+    **Cost** 0 Fame
+
+    The Envoys’ Alliance celebrates your efforts to recruit new talent. If you bring a new player to a table—a player without a Pathfinder Society character or someone playing their first Pathfinder Society session—you earn 2 additional Fame and Reputation with the Envoys’ Alliance faction.
+
+    **Special** You can benefit from this boon only a number of times equal to your current Reputation Tier with the Envoys’ Alliance faction. Each time you fulfill the requirements of this boon, mark it on your Chronicle sheet along with the associated Reputation Tier. Have the GM sign beside this notation. The player you introduce to Pathfinder Society does not have to play at the same table as you (though being at the same table often improves their experience).
+
+  Storied Talent
+    social
+
+    **Prerequisites** Horizon Hunters Tier 2
+
+    **Cost** 4 Fame
+
+    Word of your skill and expertise is spreading, and you find that increasingly prestigious clients are prepared to pay for your services. When using Downtime to Earn Income, you can choose to attempt a task of your level.
+
+    Normal When Earning Income, a PC can attempt a task of their level –2 or lower.
+
+  Swift Traveler
+    service
+
+    **Prerequisites** Horizon Hunters Tier 2
+
+    **Cost** 2 Fame
+
+    No matter how far afield you travel, it seems there’s always a fellow explorer ready to help you return home in record time and enjoy a few extra days to recuperate. You can purchase this boon at the end of an adventure that granted at least 4 XP while the GM is filling out Chronicle sheets. When you do so, you gain an additional 4 days of Downtime.
+
+T
+==
+
+  Translator
+    ally
+
+    **Prerequisites** Grand Archive Tier 2
+
+    **Cost** 4 Fame
+
+    You have recruited a capable linguist who accompanies you on your adventures. This ally speaks, reads, and understands Common as well as two additional languages of common rarity chosen when this boon is purchased. The ally can quickly translate any of these languages for your benefit, effectively allowing you to communicate in the additional two languages without difficulty. However, you are not treated as knowing those languages for the purpose of using spells with the linguistic trait.
+
+U
+==
+
+  Untarnished Reputation
+    service
+
+    **Prerequisites** All Factions Tier 3
+
+    **Cost** 4
+
+    When you purchase this boon, you remove one point of Infamy that you have accrued.
+
+    **Normal** Removing Infamy typically 
+
+    **Cost** 12 Fame per point.
+
+    **Special** You can purchase this boon only once, even if you qualify for it from multiple factions.
+
+W
+==
+
+  Wayfinder
+    slotless
+
+    **Prerequisites** All Factions Tier 0
+
+    **Cost** 2 Fame
+
+    To guide your path, your faction has secured a wayfinder (Pathfinder Core Rulebook 617) for you to carry on your journeys and serve as a badge of office in the Pathfinder Society. This wayfinder has an effective sale price of 0 gp.
+
+  Wayfinder, Adamant
+    item
+
+    **Prerequisites** Vigilant Seal Tier 2, you have a wayfinder
+
+    **Cost** 2 Fame
+
+    You have **Special**ly reinforced your wayfinder, devising a way for the device to absorb harmful energies. When you slot this boon, you apply its benefits to one wayfinder in your possession, granting you a **Special** reaction ability when the wayfinder is invested and in your possession. You gain the following reaction.
+
+    Resist Harm (reaction); Trigger You would take damage; Effect You gain resistance to acid, cold, electricity, fire, force, negative, positive, and sonic damage equal to 1 plus your reputation tier against one attack, spell, or effect. This applies only to the initial effect, not to any subsequent attacks or damage dealt by the effect (such as persistent damage or an ongoing hazard).
+
+    You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+  Wayfinder, Esoteric
+    item
+
+    **Prerequisites** Grand Archive Tier 2, you have a wayfinder
+
+    **Cost** 2 Fame
+
+    You have modified your wayfinder to focus your mental energy, driving more reliable insights. When you slot this boon, you apply its benefits to one wayfinder in your possession, granting you a **Special** free action ability when the wayfinder is invested and in your possession.
+
+    You can activate this ability as a free action before you Recall Knowledge. If you roll a critical failure on the Recall Knowledge check, you instead get a failure.
+
+    You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+  Wayfinder, Harmonic
+    item
+
+    **Prerequisites** Envoys’ Alliance Tier 2, you have a wayfinder
+
+    **Cost** 2 Fame
+
+    You have modified your wayfinder to resonate with your allies’ actions, allowing you to better help them in times of need. When you slot this boon, you apply its benefits to one wayfinder in your possession, granting you a **Special** free action ability when the wayfinder is invested and in your possession.
+
+    You can activate this ability as a free action before you Aid an ally. If you roll a success on the check to Aid, you instead get a critical success.
+
+    You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+  Wayfinder, Rugged
+    item
+
+    **Prerequisites** Horizon Hunters Tier 2, you have a wayfinder
+
+    **Cost** 2 Fame
+
+    You have modified your wayfinder to absorb a small amount of your exhaustion, allowing you to continue exploring unhindered. When you slot this boon, you apply its benefits to one wayfinder in your possession, granting you a **Special** ability when the wayfinder is invested and in your possession.
+
+    As an action, you can reduce the severity of your clumsy, enfeebled, or sickened condition, reducing that condition’s value by 1.
+
+    You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+Capstone Boons
+==============
+    
+  Exemplary Recruiter
+    slotless
+
+    **Prerequisites** Envoys’ Alliance Tier 4
+
+    **Cost** 8 Fame
+
+    You have met, interviewed, and mentored numerous promising recruits, yet it is thanks to your persuasive overtures and keen eye that you identified and recruited an e**Special**ly accomplished agent. When you select this boon, it does not apply to your current character. Instead, select one of your Pathfinder Society characters with 0 XP. That character gains 12 XP, 12 Fame, 30 gp, and 12 Reputation to distribute among any number of legal factions.
+
+    **Special** You can apply this benefit to the same character to whom you applied the Eager Protégé benefit, so long as that PC still has 12 XP. If you do so, you instead increase that character’s XP by 12 (to 24 total), award them an additional 12 Reputation to distribute between one or more factions, and grant them an additional 45 gp (for a total of 75 gp).
+
+  Unparalleled Scholarship
+    slotless
+
+    **Prerequisites** Grand Archive Tier 4
+
+    **Cost** 8 Fame
+
+    Through a combination of your own research and the access to rare resources through the Grand Archive, you have identified an exceptional research opportunity—one that you can’t decipher on your own. You have recruited a promising new agent to help research and publish your findings, which gives your assistant an extraordinary edge in their training.
+
+    When you purchase this boon, select one of your Pathfinder Society characters with 12 or fewer XP who is not a field commissioned agent. That character gains one additional point to assign to their school training, for a total of 4 points.
+
+  Vault Delver
+    slotless
+
+    **Prerequisites** Vigilant Seal Tier 4
+
+    **Cost** 8 Fame
+
+    Your mastery of the contents of the Pathfinder vaults has helped you locate unusual items, which you can pass along to one of your assistants as a reward for their aid. Pick one uncommon item that your character has access to and select 1 of your Pathfinder Society characters with 12 or fewer XP. That character gains access to that item as if it appeared on their Chronicle sheet.
+
+  World Traveler
+    slotless
+
+    **Prerequisites** Horizon Hunters Tier 4
+
+    **Cost** 8 Fame
+
+    Your journeys have taken you far, and Pathfinders who follow in your footsteps benefit from your breadth of experience. Select 1 of your Pathfinder Society characters with 12 or fewer XP. That character can simultaneously benefit from two copies of the Home Region boon.

@@ -1,6 +1,6 @@
-==================
-Running the Game
-==================
+===================
+Game Master Basics
+===================
 
 Running Pathfinder Society games is similar to running a home campaign with a few house rules established by campaign leadership. In addition to GM Basics, be sure to familiarize yourself with the contents of the :ref:`Welcome to the Pathfinder Society`, :ref:`Community Standards & Expectations`, and :ref:`Character Creation`. You need to know what players know, what their expectations are, and how their characters are created, played, and advanced.
 
@@ -19,7 +19,7 @@ As a Pathfinder Society GM, you have the following duties:
 - Prepare an adventure to offer to players, including gathering the necessary supplies such as maps, miniatures, and reference materials.
 - Provide a welcoming environment for players.
 - Deliver session results to the player via established recording mechanisms.
-- Report the results of the game.
+- Report the results of the game.   
 
 Where Can I Buy Adventures?
 ===============================
@@ -268,52 +268,3 @@ The sections of a Chronicle are detailed below. Sections marked with an asterisk
 - **(I.)** Event Number*: Unique Identifier provided by the event organizer indicating what event the game occurred at.
 - **(J.)** Date*:  Date the adventure completed
 - **(K.)** GM Number*: The GMs Organized Play ID
-
-GM Credit
-=========
-GMs earn GM credits, Achievement Points, and a Chronicle the first time they GM an adventure. Any subsequent GM sessions earn GM credits and AcP, unless the adventure has the Repeatable Tag. Chronicles earned by GMing must be assigned to characters when received, but do not need to be applied until later. See Applying Chronicles for more details. GMs have a few special rules for assigning and applying characters:
-
-- Chronicles earned from GMing provide full rewards. That includes all Treasure Bundles/Gold, XP,  Reputation, and Downtime Days, as well as access to items and boons
-- GMs can choose not to receive a Chronicle for any game they run, deferring the Chronicle to the next time they run the adventure.
-- GMs may assign Chronicles to characters currently playing another adventure. In this case, Apply the Chronicle after the character completes their current adventure, 
-- When applying the one Chronicle per character rule, GM Chronicles count the same as player Chronicles 
-
-GM Glyphs
-----------
-The Pathfinder Society (second edition) offers GMs recognition in the form of glyphs based on the amount of GM credit earned. GM glyphs are visible on your Organized Play ID card and in the paizo.com forums. . GMs obtain the first four levels of glyphs automatically by running and reporting games.
-
-- 1 Glyph = 10 GM credits
-- 2 Glyphs = 30 GM credits
-- 3 Glyphs = 60 GM credits 
-- 4 Glyphs = 100 GM credits  
-
-Each Scenario run Grants 1 credit. Quests grant 1/4 credit. Other products grant varying amounts of credits.
-
-To earn 5 glyphs, a GM must fulfill the following criteria: 
-
-- Earn 150 GM credits
-- Run and report 50 unique adventures
-- Run and report 10 adventures with the Exclusive tag
-- Complete 3 evaluation games in the presence of a venture-captains, regional venture-coordinators, or Paizo Organized Play staffers using the Organized Play rubric. (See below for the rubric). 
-
-To fully experience the benefits of peer review and feedback, we recommend the following observation schedule: 
-
-- 0–10 GM Credits: You’re getting your feet wet. Thanks for GMing! 
-- 11–49 GM Credits: Use the rubric to get a feel for organized play best practices. Consider having a fellow GM sit at your table and give feedback. 
-- 50–99 GM Credits: Ask any venture-officers at your tables to do a rubric evaluation to give feedback as if it were an evaluation game. 
-- 100 GM Credits: Ask a qualifying observer to complete a formal evaluation.
-
-All GMs receive the following rewards to use as a player based on the number of GM glyphs that they have earned.
-
-- During initial Hero Point distribution, GMs receive Hero Points equal to their glyphs to distribute to the table. A player cannot gain more than one additional Hero Point from glyphs.
-- A number of Chronicle earning Scenario replays equal to one per glyph earned. When using one of these replays, make a note on the chronicle or in your digital record.
-
-Paizo recognizes all 5-glyph GMs by name on blogs on `paizo <https://paizo.com/>`_.
-
-Table: Organized Play Rubric for GM Evaluation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. csv-table:: 
-   :file: _static/csv/rubric.csv
-   :widths: 20, 10, 10, 10
-   :header-rows: 1

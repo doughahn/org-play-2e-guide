@@ -1,6 +1,6 @@
-================================
-Character Rules for Society
-================================
+=============
+Player Basics
+=============
 
 
 Player Character Overview
@@ -143,7 +143,7 @@ Table: Pathfinder Training
 
 *APG* = Advanced Player Guide*
 
-**This source is not included in the core assumption, you must own this book to select this option.*
+*This source is not included in the core assumption, you must own this book to select this option.*
 
 Purchasing Guidelines
 =======================

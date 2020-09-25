@@ -19,7 +19,7 @@ In addition to the terms and abbreviations used in Pathfinder, Pathfinder Societ
     An alignment infraction is any intentionally evil action or suitably callous criminal action that results in a character gaining Infamy. The consequences of alignment infractions vary from limits on purchases to forced retirement of a character from the Pathfinder Society campaign. See Infamy and Alignment Infractions.
 
   Apply a Chronicle 
-    Applying a Chronicle sheet means filling out all of its information and modifying your character’s information accordingly. This typically happens at the same time you assign a Chronicle sheet, though there are some exceptions (See Applying Chronicle Sheets after the Session Ends)
+    Applying a Chronicle sheet means filling out all of its information and modifying your character’s information accordingly. This typically happens at the same time you assign a Chronicle sheet, though there are some exceptions (See Applying Chronicle Sheets after the Session Ends)  
 
   Assign a Chronicle 
     Assigning a Chronicle sheet means picking which character gets it. This is typically done when you enter your information on the reporting sheet for the event.

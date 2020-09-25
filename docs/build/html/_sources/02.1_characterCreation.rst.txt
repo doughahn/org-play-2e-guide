@@ -1,0 +1,115 @@
+=====================
+Character Creation
+=====================
+
+How to Build a Character
+************************************
+
+This section details the steps for creating a character for the Pathfinder Society. These steps mirror those in the Pathfinder Core Rulebook with a few additional Roleplaying Guild-specific rules and benefits.
+
+Character Sheets
+================
+There is no standard character sheet format required.  The only requirements are that it must be legible, clear, and reviewable by the GM. Blank analog character sheets for Pathfinder 2nd edition can be found:
+
+- `Paizo's Pathfinder Page. <https://paizo.com/pathfinder>`_
+- Direct Link: `Black and White <https://paizo.s3-us-west-2.amazonaws.com/PZO2101-CharacterSheet-BW.pdf>`_
+- Direct Link: `Color <https://paizo.s3-us-west-2.amazonaws.com/PZO2101-CharacterSheet-Color.pdf>`_
+
+Digital characters sheets are available at:
+
+- `Pathbuilder <https://play.google.com/store/apps/details?id=com.redrazors.pathbuilder2e&hl=en_US>`_
+- `Hero Lab <https://sales.lonewolfdevel.com/Products/Hero-Lab-Online>`_
+
+Resources  
+=========
+Players may use any Paizo published books or supplements they own during character creation, provided the options are valid per the `Character Options resource document <https://paizo.com/community/blog/v5748dyo6shcs?Rarity-and-Availability-in-Organized-Play>`_, Players residing in the same household may share owned resources. Options in the `Paizo Core Rulebook <https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook>`_ and `Lost Omens: Character Guide <https://paizo.com/products/btq01zt4?Pathfinder-Lost-Omens-Character-Guide>`_ are considered always available resources regardless of ownership.
+
+Character Creation Guidelines
+=============================
+The following steps elaborate and expand on character creation for Pathfinder Society characters. (`Core Rulebook 21 <https://2e.aonprd.com/Rules.aspx?ID=66>`_)
+
+1. Create a Concept
+---------------------------
+Remember, your character is a member of the Pathfinder Society first and foremost, and as such, your character should be able to work with any other Pathfinder, and abide by the Society’s Motto – **“Explore, Report, Cooperate”**.
+
+2. Start Building Ability Scores
+---------------------------------------------
+Pathfinder Society uses the standard method detailed under “Ability Score Overview” on `page 20 of the Core Rulebook <https://2e.aonprd.com/Rules.aspx?ID=74>`_. Your character can also take two additional ability flaws to gain one additional ability boost as described in the `Voluntary Flaws sidebar on page 26 of the Core Rulebook <https://2e.aonprd.com/Rules.aspx?ID=86>`_.
+
+3. Select an Ancestry
+------------------------------------
+Ancestry follows the normal rules in the *Core Rulebook*, with minor modifications to adapt to the languages of Golarion.  The Pathfinder society does not permit Half-elves or Half-orcs of ancestries other than Human.
+
+  Home Region
+    This is also the stage at which you should choose your character’s home region (Core Rulebook 420-429), and in the case of human characters, your ethnicity. (Core Rulebook 430-431).  Home regions fulfill access requirements and prerequisites for character options. See Rarity for more information.
+
+  Languages
+    All Pathfinder Society characters are literate and speak Common (Taldan) as well as any other languages granted by their ancestry. Regional languages (Core Rulebook 432) are uncommon and require access.
+
+4. Pick A Background
+---------------------------
+Players who participated in the Pathfinder Society (first edition) campaign have access to Legacy Backgrounds in addition to the backgrounds starting on page 60 of the Core Rulebook. 
+
+5. Choose a Class
+---------------------------
+All Pathfinder Society characters begin at 1st level, although some boons allow a character to immediately advance to 2nd or 3rd level at the end of character creation
+
+6. Determine Ability Scores
+------------------------------------
+The Pathfinder Society follows the standard rules for Determining Ability scores.
+
+7. Record Class Details
+------------------------------------
+The Pathfinder society follows all the standard rules for Class Details.
+
+8. Buy Equipment
+---------------------------
+All characters in Pathfinder Society begin with the standard 15 gold pieces (150 silver pieces) that can be spent on starting gear. Chapter 6 of the Core Rulebook has a wide array of useful starting gear. Page 289 of the Core Rulebook includes class kits, prebuilt selections of gear tailored to each of the core classes. You can also spend your wealth to purchase additional gear, as described in the Purchasing Guidelines.
+
+9. Calculate Modifiers
+------------------------------------
+Calculate your character’s Perception, Saving Throws, Strikes, and Skill modifiers as described on page 27 of the `Core Rulebook <https://2e.aonprd.com/Rules.aspx?ID=89>`_. 
+
+10. Finishing Details
+---------------------------
+  Alignment
+    Players cannot play evil characters. When choosing an alignment, be sure it satisfies any alignment requirements for your character’s class.
+
+  Religion
+    Characters can worship any Golarion deity so long as their alignment matches one of the deity’s listed follower alignments. Champions and clerics must choose a valid deity, though other classes can worship one of the faiths and philosophies presented on page 440 of Core Rulebook or another legal source. Characters can also be agnostic or atheist.
+
+    Characters can revere deities they do not worship. Revering a deity means that your character might do things like wearing the deity’s holy symbol, attending the deity’s religious services, or performing other acts of obeisance that aren’t rewarded with spells or divine powers. 
+
+    A character can revere as many deities as they wish, but can worship and receive power from only one.
+
+  Age
+    Characters must be at least young adults to be accepted as members of the Pathfinder Society.
+
+  Other Items
+    The beginning of Pathfinder Society games includes character introductions, so consider making a few notes on your character’s appearance, personality, and pronouns to share with other Players. The World of Pathfinder Society and the `Lost Omens: Character Guide <https://paizo.com/products/btq01zt4?Pathfinder-Lost-Omens-Character-Guide>`_ both contain information on the campaign setting you can use for this purpose.
+
+    Pathfinder uses maps with a standard 1-inch grid to determine movement and tactical positioning in combat, so you need a physical representation of your character to use on the grid. Paizo produces a wide range of Pathfinder Pawns and also works with Reaper Miniatures and WizKids to offer a wide variety of gaming miniatures, so you can find just the right figure for your character.
+
+    For digital play, this should be a digital image.  Speak to your DM about their preferred image formats and size requirements.
+
+Membership in the Pathfinder Society
+---------------------------------------------
+During their training, Pathfinder initiates attain a certain level of proficiency in all three schools’ teachings, from there some go on to specialize in one of the schools’ curricula and build life-long professional contacts with like-minded scholars while others continue to divide their time among the different schools. These contacts pay out over the course of a Pathfinder’s career in the form of  gifts from colleagues.  In practice, these relationships provides characters one or more consumable items at the beginning of each scenario. In return, the field agent’s expected to return the favor by contributing labor, teaching expertise, lab assistance, or more between missions, reinforcing these professional relationships.  
+
+Another way to join the Pathfinder Society is via a field commission from another agent or a Venture-Captain of the Society. Characters who received a field commission have fewer connections to the Society’s  membership, and receive fewer gifts, but have fewer obligations to the society and thus more downtime.  
+
+  Pathfinder Training
+    Each character should choose one of the following: Spells, Scrolls Swords, Generalist, or Field Commission. Each of these choices grants a bonus lore at first level, and a bonus skill feat at 5th level. Each Pathfinder Training (except Field Commission) also grants a bonus consumable at the beginning of each mission.
+
+Table: Pathfinder Training
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :file: _static/csv/schoolTraining.csv
+   :header-rows: 1
+
+*CRB = Pathfinder Core Rulebook*
+
+*APG* = Advanced Player Guide*
+
+*This source is not included in the core assumption, you must own this book to select this option.*

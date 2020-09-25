@@ -1,58 +1,6 @@
-============
-GM Resources
-============
-
-Special Adjustments for Scenarios
-***********************************
-
-For 1-00 through 1-11 and quests 1, 2, and 5
-===============================================
-
-Some early scenarios need some adjustment to update them to the final draft of the Challenge Point (CP) system.
-
-Scenarios designed for “Number of Players”
-===============================================
-Scenarios 1-00, 1-01, 1-02, 1-03, 1-05, Q1, and Q2 use a “number of players” adjustment, instead of the CP system.   If you are playing one of the following scenarios, calculate the CP and determine the level range as normal, then, consult the appropriate table below to determine which adjustment to use.
-
-Table: Lower Level Range Adjustments
---------------------------------------------------------------
-
-.. csv-table:: 
-   :file: _static/csv/lowerRangeAdjustments.csv
-   :header-rows: 1
-
-\* *Challenge Point totals of 12–13 and 23–27 allow the GM to make a choice between two options that provide a similar degree of challenge. However, each scenario varies slightly in the differences between these two options, and the GM is encouraged to select the option they predict will be a more fun and fair challenge for the group. (Parties often prefer options that give the PCs more monsters to fight.) You can pick between the options individually for each encounter.*
-
-Scenarios Missing a CP 16-18 adjustment for Lower Level Range
---------------------------------------------------------------
-
-Some early scenarios have no scaling option for lower level range party with a CP of 16-18. If you are GMing a table of one of the following scenarios and the party of 5 or more has a CP of 16-18  use the CP 12 adjustment, and apply a level bump to the scenario.  
-
-- Q5 The Dragon Who Stole Evoking Day
-- #1-04 Bandits of Immenwood
-- #1-06 Lost on the Road Spirit
-- #1-07 Flooded King’s Court
-- #1-08 Revolution on the Riverside
-- #1-09 Star-Crossed Voyages
-- #1-10 Tarnbreaker’s Trail
-- #1-11 Flames of Rebellion
-
-Level Bump for Adventures
----------------------------
-Scenarios and quests are designed to challenge PCs whose average level is the lower of the two levels in a given Level Range  (i.e., Level Range 1–2 is built to challenge 1st-level PCs, and Level Range 3–4 is built to challenge 3rd-level PCs). Normally, when the Challenge Point total determines that the group’s overall power is equivalent to the higher level in a Level Range (e.g. 2nd level in Level Range 1–2), the scenario’s scaling will adjust for this. 
-
-However, sometimes it is necessary to add a level bump, such as when the scenario’s scaling is based on the number of players, or if the scenario lacks a low tier 16-18 scaling.
-
-Applying a level bump is a simple calculation:
-
-- Increase every DC listed in the scenario by 1.
-- Increase the attack modifiers, attack damage, spell damage, saving throw modifiers, skill modifiers, Perception modifiers, and ACs of all enemy creatures by 1.
-- Increase the Hit Point totals of all enemy creatures by 10 or by 10%, whichever is higher.
-
-These straightforward adjustments make the adventure slightly more challenging for higher-level groups, though the adjustments cannot account for the more powerful abilities and spells that higher-level foes would likely have.
-
+======================================
 Table Variations & Creative Solutions
-****************************************
+======================================
 
 While the goal of the Pathfinder Society is to provide an even, balanced experience that is fair to all players, every table is different, every character is different, and each GM has their own strengths and weaknesses. We understand that sometimes a Game Master has to make rules adjudications on the fly, deal with unexpected player choices, or even cope with extremely unlucky (or lucky) dice on both sides of the screen.
 
@@ -69,7 +17,7 @@ As is the case in general when GMing a table, it is also the GM’s responsibili
 Whatever changes the GM makes, they should remain true to the fundamental mechanical structure and challenge of the encounter. See the Creative Solutions section below for guidance on how to adjudicate solutions that are not explicitly accounted for in the text of the adventure.
 
 Creative Solutions
-====================================
+*********************
 
 Sometimes during the course of a scenario, your players might surprise you with a creative solution to an encounter (or the entire scenario) that you didn’t see coming and that isn’t expressly covered in the scenario. If, for example, your players manage to roleplay their way through a combat and successfully accomplish the goal of that encounter without killing the antagonist, give the PCs the same reward they would have gained had they defeated their opponent in combat. If that scene specifically calls for the PCs to receive gold piece rewards based on the gear collected from the defeated combatants, instead allow the PCs to find a chest of gold (or something similar) that gives them the same rewards. Additionally, if the PCs miss an NPC who carries a specific potion or scroll that the PCs might be granted access to on the scenario’s Chronicle, don’t cross that item off—instead, allow the PCs to find the item elsewhere as a reward for creatively resolving the encounter without resorting to combat.
 
@@ -85,7 +33,7 @@ In Pathfinder Second Edition, some checks, such as checks to Recall Knowledge, h
 The secret trait is a tool to help separate character knowledge and player knowledge, but, as listed in the secret check rules on page 450 of the Core Rulebook, GMs can at any time allow their players to roll their own results on secret checks. Some scenarios will make recommendations, such as directing GMs to keep a particularly pivotal check’s results hidden or to let players roll a string of checks in the open to keep gameplay moving. Unless a scenario says otherwise, GMs are free to choose how to handle secret checks on a check-by-check basis. GMs can keep all secret checks secret, have players roll all secret checks, or adapt on the fly based on the mood and pacing of the table. If players rolling their own secret checks do metagame—that is, use information that their characters would not have to determine their actions—then inform them that their characters would not have that information and try to steer them away from using it. In general, it can be useful to have players roll their own checks if there are many secret rolls in one section, and useful to roll for the players if you suspect that there will be a strong temptation to metagame or that the extra information of the result could negatively impact the experience for players at the table.
 
 Treasure Bundles
-********************
+********************   
 
 In the course of completing a scenario, characters are likely to encounter, if not acquire, all 10 Treasure Bundles as part of overcoming challenges and inspecting their surroundings. That said, a non-linear adventure might include encounter areas (and treasure) the PCs miss entirely, and there might be small portions of treasure that a group would overlook entirely (such as hidden in a concealed room). As a result, even a capable party might not secure all 10 Treasure Bundles. Taking into account the free consumable items granted to PCs at the beginning of adventures, the wealth earned by Pathfinder Society characters is slightly higher than the standard provided in the Core Rulebook. That means that although missing a Treasure Bundle stings, it’s accounted for in the campaign.
 
@@ -105,39 +53,3 @@ Likewise, while edicts are valorous actions praised by a deity, a character does
 Anathema in pathfinder society are always personal.  The actions of one PC at a table can never cause another PC at the table to fall. (Though players are welcome to express their disapproval provided it does not interfere with the progress of the game.)
 
 Remember that edicts and anathema exist to create roleplaying opportunities at the table for your character, and should not be used by the GM to pressure PCs, or by PCs to pressure other members of the table toward specific styles of play.
-
-Dealing with the Unexpected
-****************************************
-
-Dealing with Chronicle Errors
-=============================================
-
-When reviewing a Chronicle, if you notice anything that seems amiss, you can ask the player to explain any discrepancies to you. Remember that errors are far more likely to be honest mistakes than intentional cheating, and that it’s possible that they aren’t errors at all.  Most errors turn out to be detrimental to characters, not to their advantage!
-
-When you ask the player about a discrepancy, speak with the player calmly, nicely, and with an open mind. Resolve any issues as fairly as possible. For example, if the character selected an option that they did not have access to or that was not available to their character, let them pick another option instead. If they did not pay the full price for an item they have, they can pay for it in full, or, if they haven’t used it yet, simply remove the item from their character’s gear. If they paid too much for an item, refund them the extra they paid in the “items sold” section of their Chronicle. Check with your event coordinator, Venture-Captain, or Venture-Lieutenant if you are unsure of how to fix a mistake, or if you and the player cannot come to an agreement about a fair resolution. Remember that the game is supposed to be fun, so waste as little time as possible on drama and spend as much time as possible providing an exciting, action-packed scenario for your players.
-
-Dealing with Death
-===========================
-
-Given the dangers characters face once they become Pathfinders, character death is a very real possibility (and a necessary one to maintain a sense of risk and danger in the game). Consider, however, that for a player new to Pathfinder Society, or to the Pathfinder RPG in general, having their character experience a violent death during their first game can sour him on the campaign and the game altogether. While we don’t advocate fudging die rolls, consider the experience of the players when deciding whether to use especially lethal tactics or if a character is in extreme danger of death, especially when the player is new to the game. Most players whose first experience in a campaign results in a character death don’t return to the campaign.
-
-Similarly, if the entire party is killed and can’t be brought back to life, then the table is over for everyone in the party. This means those players might have a substantial span of time before their next event at a convention with no game to play. Obviously, we hope that such total party kills never happen (and strive to balance the scenarios to make it unlikely)—but, sometimes, the dice just aren’t with you and everyone passes into the Great Beyond.
-
-Dealing with out of game problems
-=============================================
-
-Sometimes circumstances prevent a player from completing a scenario. Reasons include—but are not limited to—personal emergencies, device battery issues, venue problems, and bad timing. To mitigate the impact on the table, GMs can exercise their discretion by adjusting the scenario’s level range or Challenge Point Adjustment to accommodate the table’s new Challenge Point Total, bring in the pregenerated character that most closely resembles the lost PC, or postpone the game until all players are able to complete the scenario. In the event that a character sheet is no longer accessible due to a loss of battery power, the player can play the pregenerated character and apply the scenario’s rewards to their original character. In all cases where the GM applies one of the above remedies, rewards for all players are based on the lowest level range played during the scenario.
-
-If a player is forced to leave the table, and the game continues, the GM should endeavor to get a chronicle to the player as soon as possible.  When filling out this chronicle the Player should receive 1 XP per hour played for scenarios.  They recieve any reputation rewarded for the tasks the party has completed up to that point, as well as any treasure bundles found, and any items found that were listed on the chronicles. 
-
-In the (hopefully rare) case of a medical emergency (defined as a player needing immediate, unexpected, professional medical treatment) the chronicle should be filled out as if the player stayed for the rest of the game, receiving the same benefits as the rest of the table.  
-
-Dealing with Distractions
-====================================
-
-No game table is completely free of distractions. However, if something (like an electronic device) creates an ongoing distraction, a GM can request that the player put it away or police their use of the device (such as not also using a tablet computer to play a video game). If the device continues to be a distraction, the GM has the right to ban that particular item for the duration of the game.
-
-Cheating
-====================================
-
-Cheating is rare, and it can be a rather heated topic. If you suspect that a player is cheating, it’s always a good idea to take a step back and consider the possibility that they are instead making an honest mistake. Inaccurate numbers on a character or mistakes on a Chronicle are far more likely to be math errors than deliberate cheating. When you see these issues, keep an open mind and work with the player to resolve them. Other issues, such as lying about the results of a dice roll or the contents of their character sheet or breaking the rules even after being informed of what they are, are more clear-cut. If you believe the player to be cheating, record the organized play number of the player in question and then ask them to leave your table. Afterward, send an e-mail to the Pathfinder Society staff at organizedplay@paizo.com, including the player’s number and detailing as much as you can remember about the situation.
