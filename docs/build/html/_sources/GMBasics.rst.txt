@@ -55,19 +55,11 @@ To calculate the number of Challenge Points the party represents, take the follo
 Table: Challenge Points
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+-----------------+------------------------+
-| Character Level | PointsChallenge Points |
-+-----------------+------------------------+
-| Base Level      | 2                      |
-+-----------------+------------------------+
-| Basel Level +1  | 3                      |
-+-----------------+------------------------+
-| Base Level +2   | 4                      |
-+-----------------+------------------------+
-| Base Level +3   | 6                      |
-+-----------------+------------------------+
+.. csv-table:: 
+   :file: _static/csv/challengePoints.csv 
+   :header-rows: 1
 
-For example, an adventure for levels 1-4  would have a Base Level of 1.  So a 2nd-level PC in such an adventure has a level of Base Level + 1, and by the chart, contributes 3 Challenge Points. A party of five PCs levels 1, 2, 3, 4, and 4 would contribute 2, 3, 4, 6, and 6 points respectively.
+For  example, an adventure for levels 1-4  would have a Base Level of 1.  So a 2nd-level PC in such an adventure has a level of Base Level + 1, and by the chart, contributes 3 Challenge Points. A party of five PCs levels 1, 2, 3, 4, and 4 would contribute 2, 3, 4, 6, and 6 points respectively.
 
 - Total the PCs’ Challenge Points. 
 - If playing a table with fewer than 4 PCs, use the following chart to determine what level of Pregens to add, and how many additional challenge points.
@@ -75,39 +67,9 @@ For example, an adventure for levels 1-4  would have a Base Level of 1.  So a 2n
 Table: Adding Pregens
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+---------------+-----------+-----------+-----------------------+--------------+
-| | Base        | PCs       | CP        | Pregens               | | CP         |
-| | Level       |           |           |                       | | asj.       |
-+---------------+-----------+-----------+-----------------------+--------------+
-| 1             | 2         | <8        | 2 lvl 1 pregens       | +4           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 2         | 8+        | 2 lvl 3 pregens       | +8           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 3         | <12       | 1 lvl 1 pregen        | +2           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 3         | 12+       | 1 lvl 3 pregen        | +4           |
-+---------------+-----------+-----------+-----------------------+--------------+
-| 3             | 2         | <8        | 2 lvl 3 pregens       | +4           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 2         | 8+        | 2 lvl 5 pregens       | +8           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 3         | <12       | 1 lvl 3 pregen        | +2           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 3         | 12+       | 1 lvl 5 pregen        | +4           |
-+---------------+-----------+-----------+-----------------------+--------------+
-| 5             | 2         | Any       | 2 lvl 5 pregens       | +4           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 3         | Any       | 1 lvl 5 pregen        | +2           |
-+---------------+-----------+-----------+-----------------------+--------------+
-| 7+            | 3         | <12       | none*                 | +2           |
-|               +-----------+-----------+-----------------------+--------------+
-|               | 3         | >12       | none*                 | +4           |
-+---------------+-----------+-----------+-----------------------+--------------+
-| | \*This table is only legal if all players at the table agree.              |
-| | While we expect this “hard mode” playthrough experience to be satisfying,  |
-| | we want to caution you that, as the adventures are designed for a minimum  |
-| | of four players, they will be more difficult than normal.                  |
-+------------------------------------------------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/addingPregens.csv
+   :header-rows: 1
 
 Determine the Level Range
 --------------------------------
@@ -140,7 +102,7 @@ Early Scenarios:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Some early scenarios were written before the CP system was fully developed.  If you are GMing  scenario 1-00 through 1-11 or quests 1, 2, or 5 consult the :ref:`Special Adjustments for Scenarios` for section. 
  
-  **Example:**
+**Example:**
 
   Tonya is setting up a Level 1–4 adventure. Her group consists of six players whose PCs are levels 1, 2, 3, 3, 4, and 4. Tonya determines that the base level of the scenario is 1, and then compares each pc’s level to the chart 1. This gives her 2+3+4+4+6+6 for a Challenge Point total of 25.
 
@@ -231,30 +193,9 @@ At the end of a scenario, the GM should tally the number of Treasure Bundles fou
 
 Quests, Bounties, and sanctioned adventures  grant standardized gold rewards instead of  Treasure Bundles. In the case of Quests, this is 1/4 a scenarios Max Rewards.
 
-+---------+------------+----------------+------------------+----------+
-| | Level | | Treasure | | Max Scenario | | Max Slow Track | | Quest  |
-|         | | Bundle   | | Reward       | | Reward         | | Reward |
-+=========+============+================+==================+==========+
-| 1       | 1.4 gp     | 38 gp14 gp     | 7 gp             | 3.5 gp   |
-+---------+------------+----------------+------------------+----------+
-| 2       | 2.2 gp     | 22 gp          | 11 gp            | 5.5 gp   |
-+---------+------------+----------------+------------------+----------+
-| 3       | 3.8 gp     | 38 gp          | 19 gp            | 9.5 gp   |
-+---------+------------+----------------+------------------+----------+
-| 4       | 6.4 gp     | 64 gp          | 32 gp            | 16 gp    |
-+---------+------------+----------------+------------------+----------+
-| 5       | 10 gp      | 100 go         | 50 gp            | 25 gp    |
-+---------+------------+----------------+------------------+----------+
-| 6       | 15 gp      | 150 gp         | 75 gp            | 37.5 gp  |
-+---------+------------+----------------+------------------+----------+
-| 7       | 22 gp      | 220 gp         | 110 gp           | 55 gp    |
-+---------+------------+----------------+------------------+----------+
-| 8       | 30 gp      | 300 gp         | 150 gp           | 75 gp    |
-+---------+------------+----------------+------------------+----------+
-| 9       | 44 gp      | 440 gp         | 220 go           | 110 gp   |
-+---------+------------+----------------+------------------+----------+
-| 10      | 60 gp      | 600 gp         | 300 gp           | 150 gp   |
-+---------+------------+----------------+------------------+----------+
+.. csv-table:: 
+   :file: _static/csv/treasureBendleValue.csv
+   :header-rows: 1
 
 Downtime (GM)
 =============
@@ -275,32 +216,9 @@ The folloeing contains the DC and 8 day earn income values for all possible leve
 Table: Earn Income (For 8 Days)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+---------+------+----------+-----------+----------+----------+
-| | Task  | | DC | | Failed | | Trained | | Expert | | Master |
-| | Level |      |          |           |          |          |
-+=========+======+==========+===========+==========+==========+
-| 0       | 14   | 8 cp     | 4 sp      | 4sp      |          |
-+---------+------+----------+-----------+----------+----------+
-| 1       | 15   | 16 cp    | 16 sp     | 16 sp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 2       | 16   | 32 cp    | 24 sp     | 24 sp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 3       | 18   | 64 sp    | 40 sp     | 40 sp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 4       | 19   | 8 sp     | 56 sp     | 64 sp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 5       | 20   | 16 sp    | 72 sp     | 8 gp     |          |
-+---------+------+----------+-----------+----------+----------+
-| 6       | 22   | 24 sp    | 12 gp     | 16 gp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 7       | 23   | 32 sp    | 16 gp     | 20 gp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 8       | 24   | 48 sp    | 20 gp     | 24 gp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 9       | 26   | 48 sp    | 24 gp     | 32 gp    |          |
-+---------+------+----------+-----------+----------+----------+
-| 10      | 27   | 56 sp    | 32 gp     | 40 gp    | 64 gp    |
-+---------+------+----------+-----------+----------+----------+
+.. csv-table:: 
+   :file: _static/csv/earnIncome.csv
+   :header-rows: 1
 
 - The Default Task Level is PC level – 2
 - Crit Fail earns 0 gp
@@ -367,7 +285,7 @@ The Pathfinder Society (second edition) offers GMs recognition in the form of gl
 - 1 Glyph = 10 GM credits
 - 2 Glyphs = 30 GM credits
 - 3 Glyphs = 60 GM credits 
-- 4 Glyphs = 100 GM credits 
+- 4 Glyphs = 100 GM credits  
 
 Each Scenario run Grants 1 credit. Quests grant 1/4 credit. Other products grant varying amounts of credits.
 
@@ -395,46 +313,7 @@ Paizo recognizes all 5-glyph GMs by name on blogs on `paizo <https://paizo.com/>
 Table: Organized Play Rubric for GM Evaluation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+------------------------------+----------------------------------------+--------------------------------------------+----------------------------------------+
-| | Aspect                     | | Does not                             | | Meets                                    | | Exceeds                              |
-|                              | | Meet Expectations                    | | Expectations                             | | Expectations                         |
-+==============================+========================================+============================================+========================================+
-| | The GM’s preparation       | | The GM had to check on information   | | The GM had to check on things            | | The GM was able to keep              |
-| | allowed for smooth         | | repeatedly throughout the session,   | | throughout, but the game did             | | the flow of the game                 |
-| | game flow.                 | | and/or took long pauses to figure    | | not experience extensive delays.         | | consistent, and the GM dealt         |
-|                              | | out what happens next.               |                                            | | with unforeseen challenges by        |
-|                              |                                        |                                            | | exercising skilled time management.  |
-+------------------------------+----------------------------------------+--------------------------------------------+----------------------------------------+
-| | The GM had a solid         | | The GM has basic rules knowledge,    | | The GM had average rules                 | | The GM had solid rules knowledge,    |
-| | understanding of the       | | but frequent breaks or questions     | | knowledge, and questions did not         | | and kept the game flowing while      |
-| | rules to the game          | | impacted the flow of the game.       | | impact the flow of the game. GM          | | handling questions. GM acknowledged  |
-|                              | | GM did not know the majority         | | knew the most common rules of            | | when a rule is unclear or when       |
-|                              | | of the rules. GM defaulted to        | | the game well and and GM did not         | | the GM made a mistake. GM did        |
-|                              | | arbitrary ad hoc rulings. GM         | | have confusion between game              | | not have confusion between game      |
-|                              | | confused rules between game systems  | | systems. GM allowed players to           | | systems. If a rules challenge        |
-|                              | | consistantly. GM did not allow       | | question GM rulings and resolved         | | arose, the GM handled it fairly      |
-|                              | | players to question GM rulings       | | questions in a professional manner.      | | and consistently.                    |
-|                              | | made at the table.                   |                                            |                                        |
-+------------------------------+----------------------------------------+--------------------------------------------+----------------------------------------+
-| | The GM took efforts        | | The GM made little attempt           | | The GM made a reasonable effort          | | The GM put in an excellent effort    |
-| | to make the game distinct  | | at tying in setting, NPCs, or        | | to make the game distinct in at          | | to make the game distinct, using     |
-| | and interesting.           | | imagery to convey an imaginative     | | least one meaningful way, such           | | multiple techniques off the          |
-|                              | | setting. GM did not provide          | | as deeply roleplaying the NPCs,          | | “meets expectation” list.            |
-|                              | | opportunities for players to         | | using setting specific terms and         |                                        |
-|                              | | engage with the storyline.           | | lore to increase immersion, or           |                                        |
-|                              |                                        | | using words with imagery to              |                                        |
-|                              |                                        | | describe the environment, situations.    |                                        |
-+------------------------------+----------------------------------------+--------------------------------------------+----------------------------------------+
-| | GM presented the           | | The GM followed the gist of          | | The GM ran the adventure as written.     | | The GM stayed true to the storyline  |
-| | scenario as written.       | | the storyline but adjusted           | | The GM did not allow for creative        | | while allowing for creative          |
-|                              | | content. The GM did not run          | | solutions by the PC to                   | | solutions and player interest.       |
-|                              | | encounters as written. The GM        | | resolve situations.                      |                                        |
-|                              | | ran the wrong sub-tier encounters.   |                                            |                                        |
-+------------------------------+----------------------------------------+--------------------------------------------+----------------------------------------+
-| | The GM understood and      | | The GM was not familar with          | | The GM was familiar with the majority    | | The GM was markedly familiar         |
-| | applied the rules of       | | core organized play concepts.        | | of organized play concepts and applies   | | with the majority of organized       |
-| | the Organized              | | GM was unfamilar with the            | | the rules of organized play              | | play concepts and applies the rules  |
-| | Play Program.              | | contents of the Guide.               | | consistantly. GM knows where to          | | of organized play consistantely.     |
-|                              |                                        | | look up general guidelines in the Guide. | | GM knew where to find obscure        |
-|                              |                                        |                                            | | corner case answers in the Guide.    |
-+------------------------------+----------------------------------------+--------------------------------------------+----------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/rubric.csv
+   :widths: 20, 10, 10, 10
+   :header-rows: 1

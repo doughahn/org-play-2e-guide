@@ -135,40 +135,15 @@ Another way to join the Pathfinder Society is via a field commission from anothe
 Table: Pathfinder Training
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+----------------------+----------------------+-----------------------------------------------------------------------------------+
-| Pathfinder           | Bonus Lore (1st lvl) | Bonus Feat (5th lvl)                                                              |
-| Training             |                      |                                                                                   |
-+======================+======================+===================================================================================+
-| **Spells**           | - Academia           | - `Arcane Sense <https://2e.aonprd.com/Feats.aspx?ID=754>`_ (CRB 258)             |
-|                      | - Architecture       | - `Assurance <https://2e.aonprd.com/Feats.aspx?ID=756>`_ (CRB 258)                |
-|                      | - Herbalism          | - `Quick Identification <https://2e.aonprd.com/Feats.aspx?ID=824>`_ (CRB 264)     |
-|                      | - Pathfinder Society | - `Recognize Spell <https://2e.aonprd.com/Feats.aspx?ID=834>`_ (CRB 265)          |
-+----------------------+----------------------+-----------------------------------------------------------------------------------+
-| **Scrolls**          | - Accounting         | - `Assurance <https://2e.aonprd.com/Feats.aspx?ID=756>`_ (CRB 258)                |
-|                      | - Library            | - `Automatic Knowledge <https://2e.aonprd.com/Feats.aspx?ID=757>`_ (CRB 258)      |
-|                      | - Pathfinder Society | - `Multilingual <https://2e.aonprd.com/Feats.aspx?ID=814>`_ (CRB 264)             |
-|                      | - Scribing           | - `Streetwise <https://2e.aonprd.com/Feats.aspx?ID=846>`_ (CRB 267)               |
-+----------------------+----------------------+-----------------------------------------------------------------------------------+
-| **Swords**           | - Gladiatorial       | - `Cat Fall <https://2e.aonprd.com/Feats.aspx?ID=765>`_ (CRB 259)                 |
-|                      | - Pathfinder Society | - `Armor Assist <https://2e.aonprd.com/Feats.aspx?ID=2109>`_ (APG* 203)           |
-|                      | - Scouting           | - `Forager <https://2e.aonprd.com/Feats.aspx?ID=786>`_ (CRB 261)                  |
-|                      | - Warfare            | - `Hefty Hauler <https://2e.aonprd.com/Feats.aspx?ID=790>`_ (CRB 262)             |
-+----------------------+----------------------+-----------------------------------------------------------------------------------+
-| **Generalist**       | - Academia           | - `Battle Medicine <https://2e.aonprd.com/Feats.aspx?ID=760>`_ (CRB 258)          |
-|                      | - Library            | - `Courtly Graces <https://2e.aonprd.com/Feats.aspx?ID=772>`_ (CRB 260)           |
-|                      | - Pathfinder Society | - `Multilingual <https://2e.aonprd.com/Feats.aspx?ID=814>`_ (CRB 264)             |
-|                      | - Scouting           | - `Recognize Spel <https://2e.aonprd.com/Feats.aspx?ID=834>`_ (CRB 265)           |
-+----------------------+----------------------+-----------------------------------------------------------------------------------+
-| **Field Commission** | - Engineering        | - `Experienced Professional <https://2e.aonprd.com/Feats.aspx?ID=778>`_ (CRB 261) |
-|                      | - Legal              | - `Unmistakable Lore <https://2e.aonprd.com/Feats.aspx?ID=860>`_ (CRB 268)        |
-|                      | - Mercantile         | - `Bargain Hunter <https://2e.aonprd.com/Feats.aspx?ID=758>`_ (CRB 258)           |
-|                      | - Underworld         | - `Experienced Smuggler <https://2e.aonprd.com/Feats.aspx?ID=779>`_ (CRB 261)     |
-+----------------------+----------------------+-----------------------------------------------------------------------------------+
-| | CRB = Pathfinder Core Rulebook                                                                                                |
-| | APG* = Advanced Player Guide                                                                                                  |
-|                                                                                                                                 |
-| | \*This source is not included in the core assumption, you must own this book to select this option.                           |
-+---------------------------------------------------------------------------------------------------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/schoolTraining.csv
+   :header-rows: 1
+
+*CRB = Pathfinder Core Rulebook*
+
+*APG* = Advanced Player Guide*
+
+**This source is not included in the core assumption, you must own this book to select this option.*
 
 Purchasing Guidelines
 =======================

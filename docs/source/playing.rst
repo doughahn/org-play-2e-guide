@@ -115,133 +115,34 @@ If not used by the end of the adventure, the item is returned to the character�
 Table: Spells School Consumables
 ---------------------------------------------
 
-+---------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | Level | | Items                                                                                    | | Healing                                                                   |
-|         |                                                                                            | | Potion (Default)                                                          |
-+=========+============================================================================================+=============================================================================+
-| | 1-2   | | level 1 `scroll <https://2e.aonprd.com/Rules.aspx?ID=720>`_ \* of: (choose one):         | | `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_     |
-|         | | `burning hands <https://2e.aonprd.com/Spells.aspx?ID=30>`_ (CRB 322)                     | | (CRB 563)                                                                 |
-|         | | `heal <https://2e.aonprd.com/Spells.aspx?ID=148>`_ (CRB 343),                            |                                                                             |
-|         | | `mage armor <https://2e.aonprd.com/Spells.aspx?ID=176>`_ (CRB 348),                      |                                                                             |
-|         | | `magic fang <https://2e.aonprd.com/Spells.aspx?ID=179>`_ (CRB 349),                      |                                                                             |
-|         | | `magic weapon <https://2e.aonprd.com/Spells.aspx?ID=182>`_ (CRB 349)                     |                                                                             |
-+---------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 3-4   | | 1 level 2 `scroll <https://2e.aonprd.com/Rules.aspx?ID=720>`_ \* of: (choose one):       | | 2x `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `dispel magic <https://2e.aonprd.com/Spells.aspx?ID=78>`_ (CRB 330),                     | | (CRB 563)                                                                 |
-|         | | `resist energy <https://2e.aonprd.com/Spells.aspx?ID=256>`_ (CRB 364),                   |                                                                             |
-|         | | `restoration <https://2e.aonprd.com/Spells.aspx?ID=258>`_ (CRB 364),                     |                                                                             |
-|         | | `water breathing <https://2e.aonprd.com/Spells.aspx?ID=370>`_ (CRB 384)                  |                                                                             |
-+---------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 5-6   | | level 3 `scroll <https://2e.aonprd.com/Rules.aspx?ID=720>`_ \* of: (choose one):         | | `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_    |
-|         | | `heal <https://2e.aonprd.com/Spells.aspx?ID=148>`_ (CRB 343),                            | | (CRB 563)                                                                 |
-|         | | `heroism <https://2e.aonprd.com/Spells.aspx?ID=149>`_ (CRB 343),                         |                                                                             |
-|         | | `haste <https://2e.aonprd.com/Spells.aspx?ID=147>`_ (CRB 343)                            |                                                                             |
-+---------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 7-8   | | level 4 `scroll <https://2e.aonprd.com/Rules.aspx?ID=720>`_ \* of: (choose one):         | | 2x `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ |
-|         | | `air walk <https://2e.aonprd.com/Spells.aspx?ID=6>`_ (CRB 317),                          | | (CRB 563)                                                                 |
-|         | | `fly <https://2e.aonprd.com/Spells.aspx?ID=125>`_ (CRB 339),                             |                                                                             |
-|         | | `stoneskin <https://2e.aonprd.com/Spells.aspx?ID=312>`_ (CRB 2)                          |                                                                             |
-+---------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 9-10  | | level 5 `scroll <https://2e.aonprd.com/Rules.aspx?ID=720>`_ \* of: (choose one):         | | `Moderate Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `banishment <https://2e.aonprd.com/Spells.aspx?ID=19>`_ (CRB 320),                       | | (CRB 563)                                                                 |
-|         | | `breath of life <https://2e.aonprd.com/Spells.aspx?ID=29>`_ (CRB 322),                   |                                                                             |
-|         | | `cone of cold <https://2e.aonprd.com/Spells.aspx?ID=47>`_ (CRB 325)                      |                                                                             |
-+---------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | \* Rules for scrolls can be found on pages 564 and 565 of the Core Rulebook                                                                                                      |
-| | Scrolls no longer are auto heightened to the character’s level.                                                                                                                  |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/spellsItems.csv
+   :widths: 10, 45, 45
+   :header-rows: 1
 
 Table: Scrolls School Consumables
 ---------------------------------------------
 
-+---------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | Level | | Items                                                                                                     | | Healing                                                                   |
-|         |                                                                                                             | | Potion (Default)                                                          |
-+=========+=============================================================================================================+=============================================================================+
-| | 1-2   | | `feather token <https://2e.aonprd.com/Equipment.aspx?ID=244>`_ (ladder) <>`_ (CRB 570),                   | | `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_     |
-|         | | `owlbear claw <https://2e.aonprd.com/Equipment.aspx?ID=230>`_ (CRB 569),                                  | | (CRB 563)                                                                 |
-|         | | `lesser eagle-eye elixir <https://2e.aonprd.com/Equipment.aspx?ID=90>`_ (CRB 548),                        |                                                                             |
-|         | | `sunrod <https://2e.aonprd.com/Equipment.aspx?ID=137>`_ (CRB 554),                                        |                                                                             |
-|         | | `wolf fang <https://2e.aonprd.com/Equipment.aspx?ID=239>`_ (CRB 570)                                      |                                                                             |
-+---------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 3-4   | | `crying angel pendant <https://2e.aonprd.com/Equipment.aspx?ID=203>`_ (CRB 566),                          | | 2x `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `feather token <https://2e.aonprd.com/Equipment.aspx?ID=244>`_ (bird/chest/or holly bush) <>`_ (CRB 570), | | (CRB 563)                                                                 |
-|         | | `mesmerizing opal <https://2e.aonprd.com/Equipment.aspx?ID=225>`_ (CRB 568),                              |                                                                             |
-|         | | `cat’s eye elixir <https://2e.aonprd.com/Equipment.aspx?ID=85>`_ (CRB 547)                                |                                                                             |
-+---------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 5-6   | | `feather token <https://2e.aonprd.com/Equipment.aspx?ID=244>`_ (fan) <>`_ (CRB 570),                      | | `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_    |
-|         | | `sneaky key <https://2e.aonprd.com/Equipment.aspx?ID=234>`_ (CRB 569)                                     | | (CRB 563)                                                                 |
-+---------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 7-8   | | `feather token <https://2e.aonprd.com/Equipment.aspx?ID=244>`_ (anchor or tree) <>`_ (CRB 570),           | | 2x `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ |
-|         | | `dust of appearance <https://2e.aonprd.com/Equipment.aspx?ID=241>`_ (CRB 570),                            | | (CRB 563)                                                                 |
-|         | | `iron cube <https://2e.aonprd.com/Equipment.aspx?ID=218>`_ (CRB 567)                                      |                                                                             |
-+---------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 9-10  | | `candle of truth <https://2e.aonprd.com/Equipment.aspx?ID=240>`_ (CRB 570),                               | | `Moderate Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `feather token <https://2e.aonprd.com/Equipment.aspx?ID=244>`_ (swan boat or whip) <>`_ (CRB 570),        | | (CRB 563)                                                                 |
-|         | | `jade bauble <https://2e.aonprd.com/Equipment.aspx?ID=222>`_ (CRB 568)                                    |                                                                             |
-+---------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/scrollsItems.csv
+   :widths: 10, 45, 45
+   :header-rows: 1
 
 Table: Swords School Consumables
 ---------------------------------------------
 
-+---------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | Level | | Items                                                                               | | Healing                                                                   |
-|         |                                                                                       | | Potion (Default)                                                          |
-+=========+=======================================================================================+=============================================================================+
-| | 1-2   | | `Lesser leaper’s elixir <https://2e.aonprd.com/Equipment.aspx?ID=95>`_ (CRB 549),   | | `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_     |
-|         | | `potency crystal <https://2e.aonprd.com/Equipment.aspx?ID=231>`_ (CRB 569),         | | (CRB 563)                                                                 |
-|         | | `shining ammunition <https://2e.aonprd.com/Equipment.aspx?ID=165>`_ (CRB 560),      |                                                                             |
-|         | | `oil of mending <https://2e.aonprd.com/Equipment.aspx?ID=178>`_ (CRB 561),          |                                                                             |
-|         | | `silversheen <https://2e.aonprd.com/Equipment.aspx?ID=134>`_ (CRB 554)              |                                                                             |
-+---------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 3-4   | | `beacon shot <https://2e.aonprd.com/Equipment.aspx?ID=159>`_ (CRB 559),             | | 2x `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `bronze bull pendant <https://2e.aonprd.com/Equipment.aspx?ID=202>`_ (CRB 566),     | | (CRB 563)                                                                 |
-|         | | `effervescent ampoule <https://2e.aonprd.com/Equipment.aspx?ID=207>`_ (CRB 570),    |                                                                             |
-|         | | `feather step stone <https://2e.aonprd.com/Equipment.aspx?ID=212>`_ (CRB 567)       |                                                                             |
-+---------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 5-6   | | `barkskin potion <https://2e.aonprd.com/Equipment.aspx?ID=184>`_ (CRB 562),         | | `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_    |
-|         | | `emerald grasshopper <https://2e.aonprd.com/Equipment.aspx?ID=208>`_ (CRB 566),     | | (CRB 563)                                                                 |
-|         | | `dragon turtle scale <https://2e.aonprd.com/Equipment.aspx?ID=206>`_ (CRB 566)      |                                                                             |
-+---------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 7-8   | | `greater leaper’s elixir <https://2e.aonprd.com/Equipment.aspx?ID=95>`_ (CRB 549),  | | 2x `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ |
-|         | | `swift block cabochon <https://2e.aonprd.com/Equipment.aspx?ID=235>`_ (CRB 569)     | | (CRB 563)                                                                 |
-+---------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 9-10  | | `aligned oil <https://2e.aonprd.com/Equipment.aspx?ID=173>`_ (CRB 561),             | | `Moderate Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `greater cheetah’s elixir <https://2e.aonprd.com/Equipment.aspx?ID=86>`_ (CRB 547), | | (CRB 563)                                                                 |
-|         | | `storm arrow <https://2e.aonprd.com/Equipment.aspx?ID=169>`_ (CRB 560)              |                                                                             |
-+---------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/swordsItems.csv
+   :widths: 10, 45, 45
+   :header-rows: 1
 
 Table: Generalist Consumables
 ----------------------------------------------------
 
-+---------+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | Level | | Items                                                                                      | | Healing                                                                   |
-|         |                                                                                              | | Potion (Default)                                                          |
-+=========+==============================================================================================+=============================================================================+
-| | 1-2   | | `holy water <https://2e.aonprd.com/Equipment.aspx?ID=245>`_ (CRB 571),                     | | `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_     |
-|         | | `lesser antiplague <https://2e.aonprd.com/Equipment.aspx?ID=81>`_ (CRB 546),               | | (CRB 563)                                                                 |
-|         | | `minor healing potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ (CRB 563),           |                                                                             |
-|         | | `lesser antidote <https://2e.aonprd.com/Equipment.aspx?ID=80>`_ (CRB 546),                 |                                                                             |
-|         | | `lesser bomb <https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=7>`_ (CRB 544)   |                                                                             |
-+---------+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 3-4   | | `lesser healing potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ (CRB 563),          | | 2x `Minor Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `potion of water breathing <https://2e.aonprd.com/Equipment.aspx?ID=196>`_ (CRB 564),      | | (CRB 563)                                                                 |
-|         | | `lesser comprehension elixir <https://2e.aonprd.com/Equipment.aspx?ID=88>`_ (CRB 547),     |                                                                             |
-|         | | `lesser darkvision elixir <https://2e.aonprd.com/Equipment.aspx?ID=89>`_ (CRB 547)         |                                                                             |
-+---------+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 5-6   | | `2x lesser healing potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ (CRB 563),       | | `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_    |
-|         | | `moderate antiplague <https://2e.aonprd.com/Equipment.aspx?ID=80>`_ (CRB 546),             | | (CRB 563)                                                                 |
-|         | | `moderate antidote <https://2e.aonprd.com/Equipment.aspx?ID=80>`_ (CRB 546),               |                                                                             |
-|         | | `moderate bomb <https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=7>`_ (CRB 544) |                                                                             |
-+---------+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 7-8   | | `moderate healing potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ (CRB 563),        | | 2x `Lesser Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ |
-|         | | `invisibility potion <https://2e.aonprd.com/Equipment.aspx?ID=187>`_ (CRB 563),            | | (CRB 563)                                                                 |
-|         | | `salve of antiparalysis <https://2e.aonprd.com/Equipment.aspx?ID=182>`_ (CRB 562)          |                                                                             |
-+---------+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-| | 9-10  | | `2x moderate healing potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_ (CRB 563),     | | `Moderate Healing Potion <https://2e.aonprd.com/Equipment.aspx?ID=186>`_  |
-|         | | `potion of flying <https://2e.aonprd.com/Equipment.aspx?ID=189>`_ (CRB 563),               | | (CRB 563)                                                                 |
-|         | | `greater comprehension elixir <https://2e.aonprd.com/Equipment.aspx?ID=88>`_ (CRB 547)     |                                                                             |
-+---------+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/generalistItems.csv
+   :widths: 10, 45, 45
+   :header-rows: 1
 
 Purchasing Equipment 
 --------------------------
@@ -404,25 +305,13 @@ Players earn Achievement Points (AcP) by participating in and reporting Pathfind
 
 Table: Typical AcP rewards
 ----------------------------
-+--------------------------------------------+-------------+------------+-----------+------------------------------+
-| | Adventure                                | | Player /  | | Standard | | Premier | | Premier +                  |
-| | XP                                       | | GM        | | vent     | | Event   | | Event                      |
-+============================================+=============+============+===========+==============================+
-| | **1 XP**                                 | Player      | 1          | 1         | 1.5                          |
-| | (Quests, Bounties, etc)                  +-------------+------------+-----------+------------------------------+
-|                                            | GM          | 2          | 2.5       | 3                            |
-+--------------------------------------------+-------------+------------+-----------+------------------------------+
-| | **4 XP**                                 | Player      |  4         | 5         | 6                            |
-| | (Scenarios)                              +-------------+------------+-----------+------------------------------+
-|                                            | GM          |  8         | 10        | 12                           |
-+--------------------------------------------+-------------+------------+-----------+------------------------------+
-| | **12 XP**                                | Player      |  12        | 15        | 18                           |
-| | (Some Adventures, Adventure Path books\*)+-------------+------------+-----------+------------------------------+
-|                                            | GM          |  24        | 30        | 36                           |
-+--------------------------------------------+-------------+------------+-----------+------------------------------+
-| | \*Not all Adventures and Adventure Path books award 12 XP.                                                     |
-| | See the individual sanctioning  documents for details.                                                         |
-+--------------------------------------------+-------------+------------+-----------+------------------------------+
+
+.. csv-table:: 
+   :file: _static/csv/acpRewards.csv
+   :widths: 20, 20, 20, 20, 20
+   :header-rows: 1
+
+*Not all Adventures and Adventure Path books award 12 XP. See the individual sanctioning documents for details.*
 
 A list of  Achievement Points rewards available for purchase lives on the Boon tab of your `My Organized Play page <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_. To purchase a boon, select a character from the dropdown list, then click the purchase button of the desired boon. A list of purchased boons appears at the bottom of the page. Each purchased boon generates a downloadable printable boon. AcP boons should be stored with Chronicles, either digitally or alongside physical sheets. 
 
@@ -443,17 +332,9 @@ Pathfinder Society uses the Reputation subsystem (`Gamemastery Guide 164 <https:
 Table: Faction Reputations
 ----------------------------------------
 
-+------------+--------+
-| Reputation | Points |
-+============+========+
-| Ignored    | 0-19   |
-+------------+--------+
-| Liked      | 20-59  |
-+------------+--------+
-| Admired    | 60-119 |
-+------------+--------+
-| Revered    | 120+   |
-+------------+--------+
+.. csv-table:: 
+   :file: _static/csv/factionReps.csv
+   :header-rows: 1
 
 Reputation in PFS does not use negative values. Major infractions earn Infamy.
 

@@ -50,7 +50,7 @@ If you don’t have time to create a new character or want to try out a new char
 
 Using Your Own Character
 ~~~~~~~~~~~~~~~~~~~~~~~~
-If you have the time, and know what you want to play, you can build your character following the rules in the :ref:`Character Creation` appendix.
+If you have the time, and know what you want to play, you can build your character following the rules in the :ref:`Character Rules for Society` appendix.
 
 After you are done building your character, register them by going to your organized play account, sign in, and click on the “Register a New Pathfinder Society (second edition) Character.”
 

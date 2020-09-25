@@ -17,29 +17,11 @@ Scenarios 1-00, 1-01, 1-02, 1-03, 1-05, Q1, and Q2 use a “number of players”
 Table: Lower Level Range Adjustments
 --------------------------------------------------------------
 
-+--------------------+-------------------------------------------+
-| Total Points       | Adjustment                                |
-+====================+===========================================+
-| 8-9                | No Adjustment                             |
-+--------------------+-------------------------------------------+
-| 10-11              | 5-Player Adjustment                       |
-+--------------------+-------------------------------------------+
-| 12-13\*            | 6-player adjustment OR 1 level bump       |
-+--------------------+-------------------------------------------+
-| 14–15              | 5-player adjustment AND 1 level bump      |
-+--------------------+-------------------------------------------+
-| 16-18              | 6-player adjustment AND 1 level bump      |
-+--------------------+-------------------------------------------+
-| | \*Challenge Point totals of 12–13 and 23–27 allow the GM     |
-| | to make a choice between two options that provide a similar  |
-| | degree of challenge. However, each scenario varies slightly  |
-| | in the differences between these two options, and the GM     |
-| | is encouraged to select the option they predict will be a    |
-| | more fun and fair challenge for the group. (Parties often    |
-| | prefer options that give the PCs more monsters to fight.)    |
-| | You can pick between the options individually                |
-| | for each encounter.                                          |
-+----------------------------------------------------------------+
+.. csv-table:: 
+   :file: _static/csv/lowerRangeAdjustments.csv
+   :header-rows: 1
+
+\* *Challenge Point totals of 12–13 and 23–27 allow the GM to make a choice between two options that provide a similar degree of challenge. However, each scenario varies slightly in the differences between these two options, and the GM is encouraged to select the option they predict will be a more fun and fair challenge for the group. (Parties often prefer options that give the PCs more monsters to fight.) You can pick between the options individually for each encounter.*
 
 Scenarios Missing a CP 16-18 adjustment for Lower Level Range
 --------------------------------------------------------------
