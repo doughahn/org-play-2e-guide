@@ -1,9 +1,12 @@
 Name,Tier,Trait(s),Cost,Description
-Leader by Example,1,Slotless,0,Earn credit with the Seal by helping others experience adventure
+Leader by Example,1,Slotless,0,"| Earn credit with the Seal by 
+| helping others experience adventure"
 Adversary Lore,1,—,4,Research common adversaries between adventures.
 Resist Corruption,1,—,2,You and adjacent allies resist evil damage
 Combat Mentor,1,Mentor,2,Help low-level PCs at your table
-Curse Breaker,2,Downtime,2,Gain an item at a discount by using your skills to remove a curse from an item from the Seal’s vaults
+Curse Breaker,2,Downtime,2,"| Gain an item at a discount by using your skills 
+| to remove a curse from an item from the Seal’s vaults"
 Adamant Wayfinder,2,Item,2,Upgrade your wayfinder to absorb energy targeting you
-Heroic Defiance,3,Heroic,4,Wake immediately when spending hero points to return from dying
+Heroic Defiance,3,Heroic,4,"| Wake immediately when spending hero points 
+| to return from dying"
 Vault Delver,4,Slotless,8,Gain a well equipped successor

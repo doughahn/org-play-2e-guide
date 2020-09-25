@@ -9,7 +9,6 @@ Welcome to Pathfinder Society
 .. toctree::
    :maxdepth: 2
    :caption: Getting Started
-   :numbered: 2
 
    01.0_welcome
    01.1_world
@@ -18,27 +17,26 @@ Welcome to Pathfinder Society
 .. toctree::
    :maxdepth: 2
    :caption: Players
-   :numbered: 2
 
    02.0_playerBasics
    02.1_characterCreation.rst
    02.3_rewards.rst
+   02.4_legacyBackgrounds.rst
+   02.5_retiredRewards.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Game Masters
-   :numbered: 2
 
    03.0_GMBasics
    03.1_gmRewards
    03.2_gmResources
    03.3_tableVariation
-   03.4_dealingWithUnexpected  
+   03.4_dealingWithUnexpected
 
 .. toctree::
    :maxdepth: 2
    :caption: Volunteer
-   :numbered: 2
    
    04.0_volunteerBasics
    04.1_volunteerCoordinators
@@ -46,7 +44,6 @@ Welcome to Pathfinder Society
 .. toctree::
    :maxdepth: 2
    :caption: Appendices
-   :numbered: 2
    
    glossary
    trademarksLicenses

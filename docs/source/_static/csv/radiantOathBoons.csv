@@ -1,7 +1,11 @@
 Name,Tier,Trait(s),Cost,Description
-Charitable Adventure,1,Slotless,0,Earn credit with the Oath when your adventure is in aid of those in need.
+Charitable Adventure,1,Slotless,0,"| Earn credit with the Oath when your 
+| adventure is in aid of those in need."
 Protective Mentor,1,Mentor,2,Help low-level PCs at your table
-Practiced Medic,1,Downtime,1,Practice your healing skills between missions to gain an insight while treating your companions wounds.
+Practiced Medic,1,Downtime,1,"| Practice your healing skills between 
+| missions to gain an insight while treating 
+| your companions wounds."
 Aid the Fallen,2,Social,,(This boon is still in development)
 Share the Burden,3,Social,,(This boon is still in development)
-Heroic Intervention,3,Heroic,4,Grant healing to allies when you spend hero points
+Heroic Intervention,3,Heroic,4,"| Grant healing to allies when you 
+| spend hero points"
