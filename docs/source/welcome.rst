@@ -1,5 +1,5 @@
 =============================
-Welcome to Pathfidner Society
+Welcome to Pathfinder Society
 =============================
 
 Pathfinder Society (second edition) is a worldwide fantasy roleplaying campaign set on the world of Golarion during the Age of Lost Omens. As agents of the Pathfinder Society, a legendary league of explorers, archaeologists, and adventurers headquartered in Absalom, you dedicate your life to discovering and chronicling the greatest mysteries and wonders of an ancient world. Pathfinder adventures range from exploring the dark alleys to engaging in political intrigues to embarking on far-flung travels to exciting locales.
