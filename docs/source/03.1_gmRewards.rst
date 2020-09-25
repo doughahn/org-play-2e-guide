@@ -1,7 +1,6 @@
-===========
+##############################
 GM Rewards
-===========
-
+##############################
 GMs earn GM credits, Achievement Points, and a Chronicle the first time they GM an adventure. Any subsequent GM sessions earn GM credits and AcP, unless the adventure has the Repeatable Tag. Chronicles earned by GMing must be assigned to characters when received, but do not need to be applied until later. See Applying Chronicles for more details. GMs have a few special rules for assigning and applying characters:
 
 - Chronicles earned from GMing provide full rewards. That includes all Treasure Bundles/Gold, XP,  Reputation, and Downtime Days, as well as access to items and boons
@@ -9,8 +8,9 @@ GMs earn GM credits, Achievement Points, and a Chronicle the first time they GM 
 - GMs may assign Chronicles to characters currently playing another adventure. In this case, Apply the Chronicle after the character completes their current adventure, 
 - When applying the one Chronicle per character rule, GM Chronicles count the same as player Chronicles 
 
+***********************************
 GM Glyphs
-----------
+***********************************
 The Pathfinder Society (second edition) offers GMs recognition in the form of glyphs based on the amount of GM credit earned. GM glyphs are visible on your Organized Play ID card and in the paizo.com forums. . GMs obtain the first four levels of glyphs automatically by running and reporting games.
 
 - 1 Glyph = 10 GM credits
@@ -42,7 +42,7 @@ All GMs receive the following rewards to use as a player based on the number of 
 Paizo recognizes all 5-glyph GMs by name on blogs on `paizo <https://paizo.com/>`_.
 
 Table: Organized Play Rubric for GM Evaluation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===================================================
 
 .. csv-table:: 
    :file: _static/csv/rubric.csv

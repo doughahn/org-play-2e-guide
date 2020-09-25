@@ -1,17 +1,16 @@
-=============
+##############################
 Player Basics
-=============
+##############################
 
+***********************************
 Player-Created Characters
-*********************************
-
+***********************************
 Pathfinder Society characters use the process outlined in the *Pathfinder Core Rulebook*, with a few additional campaign-specific rules and benefits. Characters start at first level unless they have Boons to modify their starting level. The Character Creation appendix contains step-by-step instructions to help you create your own Roleplaying Guild character and outlines the campaign’s additional character creation steps.. Follow the instructions carefully to ensure your character is suitable for the organized play campaign.  
 
 Remember to :ref:`register your character <Register for Organized Play>` register your character at `paizo.com <https://paizo.com/>`_!
 
 Character Options
-===========================
-
+====================================
 All of the ancestries, backgrounds, and classes from the Core Rulebook are available to you when creating a character. You might need to spend :ref:`Achievement Points` to access some ancestries and options from other books before you can use them in organized play. More information on approved resources can be found in the `Character Options Blog <https://paizo.com/community/blog/v5748dyo6sh3j?Pathfinder-Society-Character-Options>`_.
   
   Rarity
@@ -26,14 +25,13 @@ All of the ancestries, backgrounds, and classes from the Core Rulebook are avail
     In Encounter Mode, each PC is typically represented by a pawn. Animal Companions, purchased animals and summoned creatures, and any other creature whose location affects combat are also usually represented by some sort of pawn. With the exception of temporary creatures who last no more than an encounter or two, such as those created by summon spells, no character can place more than 2 pawns per adventure. Familiars who stay in their owner’s square during encounter mode do not require pawns.
 
 Rebuilding Your Character
-=========================
+-----------------------------------------
 After playing a new character, you might find aspects of your character you would like to change.  Don’t worry!  Until you play a game in which your character starts with 12 or more XP, you can freely rebuild your character completely. The character retains their Reputation earned and character number. Once you begin a session as a second level character, you still have options for changing your character’s choices through :ref:`Achievement Points` purchases or retraining.
 
 You cannot use Rebuilding or Retraining to build a character that could not be built without using either of those two tools.
 
 Purchasing Guidelines
-=======================
-
+-----------------------------------------
 You can always purchase the following items so long as you’re in a settlement of at least 5,000 residents (and scenarios might sometimes provide additional allowances or limitations):
 
 - Any common equipment in sanctioned Pathfinder content with an item level equal to or less than your character’s level (minimum 2).
@@ -45,17 +43,18 @@ You can always purchase the following items so long as you’re in a settlement 
 Note that accumulating :ref:`Infamy` can reduce the character’s effective level when purchasing equipment.
 
 Formulas
-------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The pathfinder society will sell formulas to members for any non-limited item for which the agent has access. Items with a number restriction, including Unique Items, are considered so esoteric that the Society does not own the formula and so complicated that it is not possible to reverse engineer the formula even with a legendary degree of skill.
 
 Selling Back Equipment
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Equipment can only be sold back for ½ the gold spent to buy it.  Equipment that was purchased as part of a bundle, such as a class kit, or a magic weapon can only be sold back as part of the same bundle, and all parts of the bundle must be sold.  Partially consumed items cannot be sold back.  Rebuild boons stating kit value are an exception to the ½ price resale.
 
 Applying and Transferring Runes
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The Society has a specialist at the Grand Lodge who can apply or swap out runes for agents of the Pathfinder Society in good standing.  This service is free, and requires no check, but is only available before the briefing or once the adventure is complete unless stated in the adventure.  Only the service of transfering the rune is free however.  Characters must still pay the 10% materials cost and provide any required runestones.
 
+************
 Adventures
 ************
 
@@ -81,7 +80,7 @@ In addition to these, several of the other adventures Paizo produces have been s
 Sanctioned adventures operate in Campaign Mode, which does not use Pathfinder Society rules. GMs set the rules on character creation and may freely modify the encounters and story.  Sanctioned adventures award a Chronicle which may be applied to Pathfinder Society characters as outlined in the sanctioning documents.  Sanctioning documents reside on a product’s description page at paizo.com.
 
 Scenario Tags
-***************
+====================================
 Tags are markers that appear both on a scenario’s product page and on its title page that gives key information about the scenario’s contents.
 
   Exclusive
@@ -97,13 +96,11 @@ Tags are markers that appear both on a scenario’s product page and on its titl
     Players and GMs may receive credit for scenarios with this tag t an unlimited number of times, though characters can only receive credit once for a given scenario.
 
 Levels
-******
-
+====================================
 Pathfinder Society Adventurers are designed for characters of various levels playing together. The range of levels supported by an adventure appears on the cover. The difficulty of the adventure scales based on the character levels and is calculated using the challenge point system. 
 
 Legal Table Size
-************************
-
+====================================
 Pathfinder Society adventures are written for four (or more) Players.  However, in cases where you simply cannot seat four Players, the GM can make the following adjustments.
 
   Adventures with a Minimum level of 5 or lower
@@ -127,9 +124,9 @@ Pathfinder Society adventures are written for four (or more) Players.  However, 
   Table Maximums 
     Tables cannot have seven or more Players. If seven Players show up to an event and there is more table space, see if one of the Players can GM a game instead.
 
+******************************
 Before the Adventure (Player)
 ******************************
-
 Before the game starts, you will need to choose a character to play.  This can be one of your existing characters, or a pregenerated character.  But it must fall within the allowed levels for the adventure.  If you choose a pregenerated character, you must also choose an existing character of a lower level, a first level character, or a brand new character to assign credit to.  (See :ref:`Applying Credit` in After the Adventure to learn more about this process.)  
 
 You must also choose if you are going to be using Standard or Slow advancement.  (Slow lets you play more adventures before leveling, Standard lets you level faster.)
@@ -139,7 +136,7 @@ Finally, you must choose which of the :ref:`Factions` your character would like 
 The GM will provide you with a sign-in sheet to record your character’s name, Organized Play ID, Character Number, level, faction, and advancement speed, as well as any contact information the GM needs to be able to get chronicles to you.  If you are playing a pregen, then the character number is the number of the character who will receive credit for the adventure.
 
 One Character per Adventure
-=============================
+====================================
 You can have as many active characters as you want in Pathfinder Society. However, you can play only one of your characters during a specific adventure. Characters engaged in play-by-post are considered busy and may not be used in another game while the play-by-post is running.
 
 One Adventure per Character
@@ -147,27 +144,27 @@ One Adventure per Character
 A character can only take part in one adventure at a time.  From the time the character begins an adventure, to the time Chronicles are issued, that character cannot be involved in any other adventure.
 
 Replaying Adventures
-----------------------
+-----------------------------------------
 When replaying an adventure, or playing an adventure you have already GMed please follow the additional two guidelines.
 
 1. Notify the GM: Inform the GM that you have already played the adventure or run it as a GM. Although a GM should endeavor to be flexible, the GM maintains the right to deny running the adventure for you if they feel uncomfortable running the event for Players who have foreknowledge of the story.
 2. No Spoilers: When you are replaying an adventure, avoid spoiling the adventure’s plot or using insider information to affect gameplay. Doing so can be grounds for the GM to remove you from the table. In general, be mindful in separating Player knowledge from character knowledge, and if you are uncertain how to proceed, speak privately with the GM to determine the best course of action.
 
+******************************
 During the Adventure (Player)
 ******************************
-
 Each adventure typically begins with a briefing, either in the form of a letter, a meeting with a venture-captain, or an offer of a job by an employer.  
 
 Hero Points: Immediately after that briefing, the GM will distribute initial Hero Points.  Rules for Hero Points can be found on Page 467 of the Core Rulebook.  Some rewards, such as :ref:`GM Glyphs <Rewards>`, :ref:`Campaign Coins <Rewards>`, and :ref:`Order of the Wayfinder <Rewards>` provide the Players with extra Hero Points at this time.
 
 School Consumables 
-==================
+====================================
 In a Pathfinder Society Scenario, your character also receives gifts from their friends and connections before leaving on missions.  At this point, you can select your free consumable item or items from the list below.  You can choose a consumable from a level lower than yours if you wish.
 
 If not used by the end of the adventure, the item is returned to the character’s contacts.  If you neglect to choose an item, you receive the default choice of a healing potion of the appropriate level.  Consumable items for Pregens are already included in their character sheets and do not gain additional consumable at this step.
 
 Table: Spells School Consumables
----------------------------------------------
+-----------------------------------------
 
 .. csv-table:: 
    :file: _static/csv/spellsItems.csv
@@ -199,11 +196,10 @@ Table: Generalist Consumables
    :header-rows: 1
 
 Purchasing Equipment 
---------------------------
-
+====================================
 This will also often be the last opportunity your character has to purchase any needed equipment for the adventure.
 
-**Explore, Report, Cooperate:** Remember, your character is a member of the Pathfinder Society, working with colleagues and friends, under the motto!
+  **Explore, Report, Cooperate:** Remember, your character is a member of the Pathfinder Society, working with colleagues and friends, under the motto!
 
 Treasure 
 =========
@@ -229,6 +225,7 @@ If a PC ends a game with 3 Infamy, they are ejected from the Pathfinder Society 
 
 **Infamy is not for Player actions. Players who commit or describe character actions in violation of the community standards are subject to disciplinary sanctions outlined in the :ref:`community policy <Violation Enforcement Procedures>`.**
 
+*****************************
 After the Adventure (Player)
 *****************************
 
@@ -267,7 +264,7 @@ Unlike a traditional game in which the PCs would divide recovered magic items an
 Downtime
 =========
 
-Between adventures, each character may participate in Downtime activities.  Scenarios and Quests grant two days of downtime per XP earned. Characters that chose :ref:`field-commissioned agent <Membership in the Pathfinder Society>` during step 11 of character creation earn 3 days of downtime per XP.
+Between adventures, each character may participate in Downtime activities.  Scenarios and Quests grant two days of downtime per XP earned. Characters that chose :ref:`field-commissioned agent <11. Membership in the Pathfinder Society>` during step 11 of character creation earn 3 days of downtime per XP.
 
 A character can always use Downtime as described in the Core Rulebook on Crafting, Earn Income, and retraining. Other downtime activities might apply based on  Achievement Point boons or as described in the adventure.  Downtime must be spent at the end of the session or it expires; it cannot be stockpiled for later use, though characters may engage in Downtime activities that span multiple sessions.  Consult GM Basics more on the detailed mechanics of :ref:`Downtime` in PFS.
 
@@ -285,7 +282,7 @@ Organized play characters rely on good recordkeeping to ensure accurate informat
 Upon completing an adventure, Players each receive a Chronicle sheet from the GM.  This sheet includes a summary of the adventure; indications of any choices made along the way which may impact the future of the campaign, and a log of rewards earned while exploring. It also provides areas for notes, purchases, and the acquisition/removal of conditions. Players using other tracking methods should ensure all the data on the Chronicle is reflected in their records.
 
 Record Format
----------------
+-----------------------------------------
 Players may choose to keep their records digitally or in paper files. If stored digitally, Players must be comfortable with GMs handling their device while reviewing records. If in paper files, all pages must be carried to games.
 
 
@@ -307,5 +304,5 @@ Chronicles not being applied to 1st level characters should be held until the as
 
 
 Digital Records
------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Chronicles and their associated information is assigned to the character identified on the registration.  Information from the Chronicle applies when the character adds the Chronicle to their record.

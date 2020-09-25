@@ -1,9 +1,10 @@
-================
+##############################
 Rewards
-================
+##############################
 
+***********************************
 Boons
-*****
+***********************************
 Boons are rewards that can be applied to a character. Common types of boons include Achievemnet Points (AcP), Chronicle, or Faction.  Boons often have traits that describe how the boon applies. There are some boon traits that deserve specific mention:
 
   Advanced  

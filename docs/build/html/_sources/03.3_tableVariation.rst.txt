@@ -1,6 +1,6 @@
-======================================
+########################################
 Table Variations & Creative Solutions
-======================================
+########################################
 
 While the goal of the Pathfinder Society is to provide an even, balanced experience that is fair to all players, every table is different, every character is different, and each GM has their own strengths and weaknesses. We understand that sometimes a Game Master has to make rules adjudications on the fly, deal with unexpected player choices, or even cope with extremely unlucky (or lucky) dice on both sides of the screen.
 
@@ -16,6 +16,7 @@ As is the case in general when GMing a table, it is also the GM’s responsibili
 
 Whatever changes the GM makes, they should remain true to the fundamental mechanical structure and challenge of the encounter. See the Creative Solutions section below for guidance on how to adjudicate solutions that are not explicitly accounted for in the text of the adventure.
 
+*********************
 Creative Solutions
 *********************
 
@@ -25,6 +26,7 @@ The Pathfinder Society never wants to give the impression that the only way to s
 
 But what if your players accidentally or intentionally kill an important NPC who was supposed to give them a crucial piece of information that’s needed for the scenario to progress? This is a tough problem for the GM and requires improvisation. Don’t decide the scenario is over just because the old man with the letter was caught in a magical crossfire and roasted alive, destroying both him and the important letter. Reveal that the letter survived by some twist of fate (it was in a fire-proof pouch in his pocket) or perhaps that the old man had a lackey who was watching from a nearby alley and knows everything the old man did, or another similar explanation. Improvisation will keep your scenario moving forward and help you work around unforeseen obstacles. For more guidance on handling the PCs’ treasure and rewards when they use creative solutions, see the Treasure Bundles section.
 
+********************
 Secret Checks
 ********************
 
@@ -32,6 +34,7 @@ In Pathfinder Second Edition, some checks, such as checks to Recall Knowledge, h
 
 The secret trait is a tool to help separate character knowledge and player knowledge, but, as listed in the secret check rules on page 450 of the Core Rulebook, GMs can at any time allow their players to roll their own results on secret checks. Some scenarios will make recommendations, such as directing GMs to keep a particularly pivotal check’s results hidden or to let players roll a string of checks in the open to keep gameplay moving. Unless a scenario says otherwise, GMs are free to choose how to handle secret checks on a check-by-check basis. GMs can keep all secret checks secret, have players roll all secret checks, or adapt on the fly based on the mood and pacing of the table. If players rolling their own secret checks do metagame—that is, use information that their characters would not have to determine their actions—then inform them that their characters would not have that information and try to steer them away from using it. In general, it can be useful to have players roll their own checks if there are many secret rolls in one section, and useful to roll for the players if you suspect that there will be a strong temptation to metagame or that the extra information of the result could negatively impact the experience for players at the table.
 
+********************
 Treasure Bundles
 ********************   
 
@@ -43,8 +46,9 @@ Example: The PCs are supposed to attack a keep, and they successfully trick the 
 
 However, escorting the PCs through the keep also means the PCs neither explore the side rooms nor have a chance to find the secret vault where a golden chalice is hidden (1 Treasure Bundle). Finding this vault would have required a PC Searching during exploration and succeeding at a DC 20 Perception check, and the room’s rewards cite that the PCs should only receive this reward if they find the room and recover the chalice. In this case the PCs should have a fair opportunity to find the chalice anyway, such as the secret door and room being relocated to the warlord’s throne room with the same Perception check DC.
 
+******************************************
 Edicts and Anathema in Society Play
-**************************************************
+******************************************
 
 To allow a wide variety of characters in Society play, the rules around edicts and anathema are slightly relaxed. All characters can participate in Pathfinder Society adventures without running afoul of their deity or classes anathema.  Assume that the society has taken whatever steps are necessary such that attempting to perform the primary objective of an official Pathfinder Society mission by itself will not cause a character to fall out of favor with their deity. 
 

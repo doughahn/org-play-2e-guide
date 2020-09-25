@@ -1,9 +1,10 @@
-===================
+##############################
 Game Master Basics
-===================
+##############################
 
 Running Pathfinder Society games is similar to running a home campaign with a few house rules established by campaign leadership. In addition to GM Basics, be sure to familiarize yourself with the contents of the :ref:`Welcome to the Pathfinder Society`, :ref:`Community Standards & Expectations`, and :ref:`Character Creation`. You need to know what players know, what their expectations are, and how their characters are created, played, and advanced.
 
+********************
 What Is A GM?
 ********************
 A Game Master (GM) is the person who presents the story, adjudicates the rules, and establishes the parameters of the player’s exploration. A GM’s duty is to provide a fair and fun game for all involved, including themselves. In the Pathfinder Society, a GM has a few other duties, listed in Your Duties as a Game Master below.
@@ -29,6 +30,7 @@ Pathfinder Society adventures, including quests, scenarios, and bounties, genera
 
 Pathfinder Adventures, including Adventure Paths, Modules, and Stand-alone adventures, are produced monthly. These adventures are oftentimes sanctioned for use in the Pathfinder Society campaign. Information on how to incorporate them into your Society experience is found on each product’s description page at paizo.com. (See :ref:`Adventures` for more about these products.)
 
+****************************************
 Before the Adventure
 ****************************************
 
@@ -53,7 +55,7 @@ To calculate the number of Challenge Points the party represents, take the follo
 - Convert the PCs’ levels to Challenge Points.   Table 1 below notes how many Challenge Points each PC of a given level represents.
 
 Table: Challenge Points
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: 
    :file: _static/csv/challengePoints.csv 
@@ -102,22 +104,24 @@ Early Scenarios:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Some early scenarios were written before the CP system was fully developed.  If you are GMing  scenario 1-00 through 1-11 or quests 1, 2, or 5 consult the :ref:`Special Adjustments for Scenarios` for section. 
  
-**Example:**
-
+Example:
+"""""""""""""""""""""""""""""""""""""""""""
   Tonya is setting up a Level 1–4 adventure. Her group consists of six players whose PCs are levels 1, 2, 3, 3, 4, and 4. Tonya determines that the base level of the scenario is 1, and then compares each pc’s level to the chart 1. This gives her 2+3+4+4+6+6 for a Challenge Point total of 25.
 
   Step 2 tells Tonya to run the 3–4 level range since her table is 19 CP or more.  It also tells her to apply a level bump and any mentor boons to the level 1 character, increasing that PCs ability to contribute to the adventure.
 
   Step 3 says that for each DC and encounter, Tonya uses the 3–4 level range statistics, modified by any scaling instructions that apply to a CP of 25.  This will probably include adding more opponents and/or more dangerous opponents to fights.
 
-
+************************************
 During the Adventure      
 ************************************
-**Hero Points:** At the beginning of an adventure, each player receives 1 Hero Point. GMs should then hand out additional Hero Points at a rate of approximately 1 Hero Point per hour of play, following the Guide lines on page `507 of the Pathfinder Core Rulebook <https://2e.aonprd.com/Rules.aspx?ID=573>`_. 
+  Hero Points: 
+    At the beginning of an adventure, each player receives 1 Hero Point. GMs should then hand out additional Hero Points at a rate of approximately 1 Hero Point per hour of play, following the Guide lines on page `507 of the Pathfinder Core Rulebook <https://2e.aonprd.com/Rules.aspx?ID=573>`_. 
 
-**Secret Checks:** Unless a scenario says otherwise, GMs are free to choose how to handle secret checks (`Core Rulebook 450 <https://2e.aonprd.com/Rules.aspx?ID=334>`_) on a check-by-check basis and should adapt based on the mood and pacing of the table. 
+  Secret Checks: 
+    Unless a scenario says otherwise, GMs are free to choose how to handle secret checks (`Core Rulebook 450 <https://2e.aonprd.com/Rules.aspx?ID=334>`_) on a check-by-check basis and should adapt based on the mood and pacing of the table. 
 
-If players rolling their own secret checks use information that their characters would not have to determine their actions—then inform them that their characters would not have that information and try to steer them away from using it.  
+    If players rolling their own secret checks use information that their characters would not have to determine their actions—then inform them that their characters would not have that information and try to steer them away from using it.  
 
 Table Variation
 ==================
@@ -142,7 +146,7 @@ Beyond the above, GMs are encouraged to make choices which would result in the m
 - Creative solutions presented by players in overcoming obstacles.
 - Moving plot points missed by players to encounterable areas (this does not include moving missed treasure bundles).
 
-More details on each of these can be found in the Table Variation Appendix.
+More details on each of these can be found in :ref:`Table Variations & Creative Solutions`.
 
 If a particular issue comes up repeatedly or causes a significant problem in one of your games, please raise any questions or concerns on the `Pathfinder Society forums <https://paizo.com/community/forums/organizedPlay/pfsrpg>`_ where Venture-Officers, members of Paizo’s organized play team, or fellow GMs can help you resolve it.
 
@@ -158,12 +162,10 @@ Below we list some common issues, which are covered more in the :ref:`Table Vari
 - Class opposition such as a paladin and a necromancer on the same mission team.
 - Characters perform evil or criminal acts.
 
+**********************
 After the Adventure
 **********************
-
-Advancement Speed
-===========================
-Before the adventure, each player will have chosen one of two different advancement speeds.
+Before the adventure, each player will have chosen one of two different advancement speeds. This will determine how you fill out the chonicle sheet:
 
   Standard Advancement
     the player gains full rewards (XP, Gold/Treasure Bundles, Downtime units,and Reputation) earned in the adventure, rounding down, as well as access to any other items on the Chronicle.
@@ -173,7 +175,7 @@ Before the adventure, each player will have chosen one of two different advancem
 
 Fame
 =========
-Adventures in Year 1 granted Fame as a spendable and trackable currency. As of Year 2, adventures no longer reward Fame and the boons purchased by Fame are being transferred to online rewards such as :ref:`Achievement Points` and Game Rewards. More information is available on the Boons tab of your `My Organized Play` <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>_ page.
+Adventures in Year 1 granted Fame as a spendable and trackable currency. As of Year 2, adventures no longer reward Fame and the boons purchased by Fame are being transferred to online rewards such as :ref:`Achievement Points` and Game Rewards. More information is available on the Boons tab of your `My Organized Play <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_ page.
 
 PC Reputation 
 ==================
@@ -183,11 +185,10 @@ A quest typically grants 1 Reputation.  Sanctioned Adventures have variable Repu
 
 Treasure (GM)
 =============
-
   Treasure Access
     Items that the PCs did not encounter must be crossed off the treasure access list by the GM.
 
-Tale: Tresure Bundle Value
+Table: Treasure Bundle Value
 -----------------------------
 At the end of a scenario, the GM should tally the number of Treasure Bundles found. On each Chronicle, multiply the number of Treasure Bundles by the appropriate value for that character’s level.  (see Table 9-3 below). 
 

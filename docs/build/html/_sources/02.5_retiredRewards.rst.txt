@@ -1,33 +1,31 @@
-==================
+##############################
 Retired Rewards
-==================
+##############################
 
+***********************************
 Playtest Points
-*******************
-
+***********************************
 Playtest Points (playtest adventures): During the playtest period for Pathfinder Second Edition, players and GMs did not earn Chronicles when playing the 11 playtest adventures. Instead, each participant earned a number of Playtest Points, which can now be redeemed on your `Organized Play account at Paizo <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_. These rewards include Limited-Use boons, the ability to start a character at 2nd or 3rd level to reflect the time spent playing the game, and other minor benefits.
 
-Faction Boons
-*******************
+
+***********************************
+Faction Boon Errata
+***********************************
 Starting in season 2, Adventures no longer give Fame. There will be a new Faction boon System coming out, in the next few months, and a mechanism to transition your boons over to the new system. Once the new system is in place, you will no longer be able to buy Faction boons with fame. The current date for the transition is 10/20/2020
 
-Faction Boon Errata
-**************************************
 Additionally, the following faction boons have been changed.
 
 - Alliance Champion boons no longer do anything and have ceased to exist.
 - All characters gain the effect of the Home Region boon for free at character creation. As such, the boon no longer serves any function.
 
 Heroic Resurgence
-===================
-
+-----------------------------------------
 **Replace** “Until the end of your next turn, you gain a +1 status bonus to attack rolls, and you also gain a circumstance bonus to your damage rolls, Perception checks, skill checks, and saving throws equal to the noted value (maximum +2 for Reputation tier 3, or +3 for Reputation tier 4).”
 
 **With** “Until the end of your next turn, you gain a +2 status bonus to attack rolls, damage rolls, Perception checks, skill checks, and saving throws.”
 
 Crafter’s Workshop  
-===================
-
+-----------------------------------------
 **Replace**: “When you Craft during Downtime, you do not need to spend 4 days at work before attempting a Crafting check.”
 
 **With** “You only need to spend 1 day of downtime before attempting your skill check and subsequently beginning to reduce the item’s effective cost.”
@@ -35,8 +33,7 @@ Crafter’s Workshop
 **And Remove**: “ However, your fellow faction members expect your assistance in return. After slotting this boon to reduce the time needed to Craft an item, you must keep it slotted until you have finished crafting that item.”
 
 Hireling Boons
-===================
-
+-----------------------------------------
 **Replace**: “The hireling’s result cannot be modified by class abilities or spells, but it can be improved by a successful Aid check. ” 
 
 **With**:  “The hireling doesn’t have or use its own ability modifiers and can never benefit from item bonuses, status bonuses, or fortune effects.  Abilities that grant you a circumstance bonus do not grant that circumstance bonus to your hireling even though you are using your action to attempt the check.  You cannot aid your own hireling.”
@@ -51,14 +48,14 @@ Hireling Boons
 
 **Disclaimer:  Some of these rewards were still under development.  Some as written may not work as intended.  Those boons are noted in the tables below.**
 
-Faction Boon Rewards 
-======================================
-
+***********************************
+Faction Boon Rewards
+*********************************** 
 Factions offer a variety of rewards. These a PC can access by gaining Reputation with a particular faction and then spending Fame to purchase specific boons. In addition to faction-specific rewards, there are numerous generic rewards that are accessible to all factions based on the amount of Reputation a PC’s earned. The rewards take the form of boons, which follow the same rules as those found in the :ref:`Boons` section.
 
 Reputation Tiers: By representing a faction during adventures or participating in adventures vital to a faction’s interests, a PC gains Reputation with that faction. The greater a PC’s Reputation with a faction, the more respected and influential they are with that faction, represented by their Reputation Tier. These tiers are numbered 0 through 4, with a Reputation Tier of 0 representing no relationship with the faction, and a Reputation Tier of 4 representing the height of prestige within the faction. To advance to a higher Reputation Tier, a PC must increase their Reputation for that faction to the values listed in the following table.
 
-Table: Faction Reputaiton Tiers
+Table: Faction Reputation Tiers
 --------------------------------
 
 .. csv-table:: 
@@ -128,13 +125,11 @@ The following is a list of purchasable rewards offered by the Vigilant Seal fact
    :header-rows: 1
 
 Boon List
-*********
-
+====================================
 The following section details the boons that PCs can purchase with Fame.
 
-A
-==
-
+A-N
+-----------------------------------------
   Adversary Lore
     **Prerequisites** Vigilant Seal Tier 1
 
@@ -156,9 +151,6 @@ A
     Prestigious institutions across Golarion periodically host conferences where eminent scholars can present their discoveries, and you enhance your own profile when attending these events. When you play or GM an adventure at a Paizo Organized Play event designated as Premium or Premium Plus, you earn 2 additional Fame and Reputation with the Grand Archive faction.
 
     **Special** You can benefit from this boon only a number of times equal to your current Reputation Tier with the Grand Archive faction. Each time you fulfill the requirements of this boon, mark it on your Chronicle sheet along with the associated Reputation Tier. Have the GM sign beside this notation.
-
-B
-==
 
   Beginnings and Endings
     slotless
@@ -192,9 +184,6 @@ B
     **Cost** 2 Fame
 
     You are able to leverage your connections within the Society to raise funds for your allies’ resurrection, ensuring that everyone lives to see another adventure. You and your allies treat your effective character levels as 1 lower for the purpose of the raise dead spell and the resurrection ritual. This applies to both the level of the spell or ritual required, as well as to calculating the **Cost** of the diamonds necessary to cast the spell or perform the ritual.
-
-C
-==
 
   Charitable Adventure
     slotless
@@ -238,9 +227,6 @@ C
 
     **Special** You can purchase this boon multiple times. Each time you do so, you select a different item.
 
-E
-==
-
   Eager Protégé
     ally, limited-use
 
@@ -260,9 +246,6 @@ E
     **Cost** 4 Fame
 
     By traveling so widely, you have developed an intuitive talent for using esoteric techniques. Once per adventure, you can activate this boon as a free action to apply these techniques, gaining a +1 circumstance bonus to either all of your attack rolls or all of your skill checks for 1 round.
-
-H
-==
 
   Heroic Defiance
     heroic
@@ -389,9 +372,6 @@ H
 
     Achievement Points The World Traveler boon, accessible with Achievement Points, grants similar access to an entire region, providing an additional avenue to access region- and nation-based options.
 
-L
-==
-
   Leader by Example
     slotless
 
@@ -412,9 +392,8 @@ L
 
     You can select the Leshy Familiar feat as a 2nd level class feat, even if you are not a druid. You can ignore the prerequisite of belonging to the leaf order.
 
-M
-==
-
+M-Z
+-----------------------------------------
   Mentor, Combat
     mentor, social
 
@@ -517,9 +496,6 @@ M
 
     **Special** You can purchase this boon multiple times. The second time you purchase it, the **Cost** increases to 12 Fame, and subsequent purchases **Cost** 20 Fame each.
 
-N
-==
-
   Naturalist
     Downtime
 
@@ -531,9 +507,6 @@ N
 
     **Special** You can purchase this boon multiple times. Each time you do so, you select a different item.
 
-O
-==
-
   Off-Hours Study
     Downtime
 
@@ -544,9 +517,6 @@ O
     You spend your free time studying learning new trivia or practicing unfamiliar languages. When you acquire this boon, choose a common language you don’t know or a Lore skill in which you are untrained. While you have this boon slotted, you can spend Downtime practicing the selected language or skill. Once you have expended 50 days of Downtime in this way, you learn the chosen language or become trained in the chosen Lore skill. This boon is then expended and grants no further benefit.
 
     **Special** You can purchase this boon multiple times. Each time you do so, you select a different language or Lore skill.
-
-P
-==
 
   Practiced Medic
     Downtime
@@ -601,9 +571,6 @@ P
 
     **Special**: A PC can only slot one promotional boon at a time.
 
-R
-==
-
   Resist Corruption
     **Prerequisites** Vigilant Seal Tier 1
 
@@ -621,9 +588,6 @@ R
     The Pathfinder Society is invested in keeping its most successful agents in the field. You can purchase a resurrection ritual for 25 Fame. If you are in a rush to return to life and cannot wait the day for this ritual to be conducted, you can instead purchase a casting of the raise dead spell for 50 Fame.
 
     **Special** This reward can be purchased multiple times, as it strictly represents the ability to secure the listed services.
-
-S
-==
 
   Secondary Initiation
     slotless, social
@@ -676,9 +640,6 @@ S
 
     No matter how far afield you travel, it seems there’s always a fellow explorer ready to help you return home in record time and enjoy a few extra days to recuperate. You can purchase this boon at the end of an adventure that granted at least 4 XP while the GM is filling out Chronicle sheets. When you do so, you gain an additional 4 days of Downtime.
 
-T
-==
-
   Translator
     ally
 
@@ -687,9 +648,6 @@ T
     **Cost** 4 Fame
 
     You have recruited a capable linguist who accompanies you on your adventures. This ally speaks, reads, and understands Common as well as two additional languages of common rarity chosen when this boon is purchased. The ally can quickly translate any of these languages for your benefit, effectively allowing you to communicate in the additional two languages without difficulty. However, you are not treated as knowing those languages for the purpose of using spells with the linguistic trait.
-
-U
-==
 
   Untarnished Reputation
     service
@@ -705,9 +663,6 @@ U
     **Cost** 12 Fame per point.
 
     **Special** You can purchase this boon only once, even if you qualify for it from multiple factions.
-
-W
-==
 
   Wayfinder
     slotless
@@ -771,8 +726,7 @@ W
     You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
 
 Capstone Boons
-==============
-    
+-----------------------------------------
   Exemplary Recruiter
     slotless
 

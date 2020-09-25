@@ -68,7 +68,19 @@ Tables:
 - :ref:`Table: Faction Reputations`
 - :ref:`Table: Challenge Points`
 - :ref:`Table: Adding Pregens`
-- :ref:`Tale: Tresure Bundle Value`
+- :ref:`Table: Treasure Bundle Value`
 - :ref:`Table: Earn Income (For 8 Days)`
 - :ref:`Table: Organized Play Rubric for GM Evaluation`
 - :ref:`Table: Lower Level Range Adjustments`
+
+Retired Tables:
+---------------
+
+- :ref:`Table: Faction Reputation Tiers`
+- :ref:`All Faction Boons`
+- :ref:`Envoys’ Alliance (Major) Boons`
+- :ref:`Grand Archive (Major) Boons`
+- :ref:`Horizon Hunters (Major) Boons`
+- :ref:`Radiant Oath (Major) Boons`
+- :ref:`Verdant Wheel (Minor) Boons`
+- :ref:`Vigilant Seal (Major) Boons`

@@ -1,11 +1,12 @@
-=======================
+##############################
 Volunteer Coordinators
-=======================
+##############################
 
 Volunteers, collectively known as Venture-Officers, receive ranks based on their duties and geographical areas of responsibility. The top level of volunteers, Regional Venture-Coordinators, looks after geographical areas. Under them are Venture-Captains, responsible for countries, states, or metropolitan areas. Their right hands, the Venture-Lieutenants, assist in the area’s coordination efforts, sometimes belonging to the region and other times being assigned to a city or town. The lowest level, Venture-Agents, coordinate activities in one location, such as a game store, a school, a community center, or a military instillation.
 
 Anyone may join the Organized Play Foundation as a volunteer. A list of recommended tasks and benefits for each level of Venture-Officer rank is available from the link below. If you read the Venture-Officer descriptions and are interested in joining the team, email the Regional Venture-Officer responsible for your location. Players looking for organized play activities in a particular area may either search the events listing at paizo.com/organizedplay/events or email the Regional Venture-Coordinator for the area of interest from the list linked below.
 
+*********************
 Venture-Officer Ranks
 *********************
 
@@ -142,6 +143,7 @@ Benefits
 - Venture-Agent + region tag that displays when posting in the Organized Play forums. 
 - Access to the Venture-Officer communication tools.
 
+***************************
 Venture-Officer Task Forces
 ***************************
 
@@ -185,6 +187,7 @@ Venture-Officer Task Forces
 
     **Chair**: TBD
 
+**************************************
 List of Regional Venture-Coordinators
 **************************************
 

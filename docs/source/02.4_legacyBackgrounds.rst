@@ -1,6 +1,6 @@
-===================
+##############################
 Legacy Backgrounds
-===================
+##############################
 
 The following backgrounds are special options available only to players who participated in the First Edition campaign, representing unique character hooks.
 

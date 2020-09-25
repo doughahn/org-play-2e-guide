@@ -1,10 +1,10 @@
-=====================
+##############################
 Character Creation
-=====================
+##############################
 
+************************************
 How to Build a Character
 ************************************
-
 This section details the steps for creating a character for the Pathfinder Society. These steps mirror those in the Pathfinder Core Rulebook with a few additional Roleplaying Guild-specific rules and benefits.
 
 Character Sheets
@@ -92,7 +92,7 @@ Calculate your character’s Perception, Saving Throws, Strikes, and Skill modif
 
     For digital play, this should be a digital image.  Speak to your DM about their preferred image formats and size requirements.
 
-Membership in the Pathfinder Society
+11. Membership in the Pathfinder Society
 ---------------------------------------------
 During their training, Pathfinder initiates attain a certain level of proficiency in all three schools’ teachings, from there some go on to specialize in one of the schools’ curricula and build life-long professional contacts with like-minded scholars while others continue to divide their time among the different schools. These contacts pay out over the course of a Pathfinder’s career in the form of  gifts from colleagues.  In practice, these relationships provides characters one or more consumable items at the beginning of each scenario. In return, the field agent’s expected to return the favor by contributing labor, teaching expertise, lab assistance, or more between missions, reinforcing these professional relationships.  
 
@@ -109,7 +109,5 @@ Table: Pathfinder Training
    :header-rows: 1
 
 *CRB = Pathfinder Core Rulebook*
-
 *APG* = Advanced Player Guide*
-
 *This source is not included in the core assumption, you must own this book to select this option.*
