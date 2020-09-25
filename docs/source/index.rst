@@ -9,16 +9,30 @@ Welcome to Pathfinder Society
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
+   :numbered: 2
 
+   welcome
    world
    standards
    playerBasics
    GMBasics
+   volunteer
+   glossary
+   trademarksLicenses
 
+Tables:
+-------
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+| :ref:`Table: Pathfinder Training`
+| :ref:`Table: Spells School Consumables`
+| :ref:`Table: Scrolls School Consumables`
+| :ref:`Table: Swords School Consumables`
+| :ref:`Table: Generalist Consumables`
+| :ref:`Table: Typical AcP rewards`
+| :ref:`Table: Faction Reputations`
+| :ref:`Table: Challenge Points`
+| :ref:`Table: Adding Pregens`
+| :ref:`Tale: Tresure Bundle Value`
+| :ref:`Table: Earn Income (For 8 Days)`
+| :ref:`Table: Organized Play Rubric for GM Evaluation`
+| :ref:`Table: Lower Level Range Adjustments`

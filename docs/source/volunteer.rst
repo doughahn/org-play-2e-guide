@@ -1,0 +1,20 @@
+=========
+Volunteer
+=========
+
+What is an Event Coordinator?
+********************************
+
+An event coordinator is a person organizing Pathfinder Society events, regardless of the size. You may be both GM and event organizer at an event.
+
+Your Duties as an Event Coordinator
+======================================
+
+As a Pathfinder Society event coordinator, you have the following duties:
+
+- Communicate with your local venture-officer network
+- Schedule games and communicate about the event with prospective players
+- Organize GMs and register players
+- Provide a welcoming environment for players
+- Arrange for player tools to be present
+- Ensure reporting is complete for all games

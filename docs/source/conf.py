@@ -39,6 +39,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx_rtd_theme',
+    'sphinx.ext.autosectionlabel', 
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -137,7 +138,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = '_static/images/Pathfinder-Society-Back-to-top-icon.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32

@@ -54,30 +54,28 @@ Factions
 
 Factions have existed within the Pathfinder Society for centuries. However, their history is fraught with controversy, particularly when past factions clashed for control over the Society itself or acted as proxies for various nations’ political aspirations. Following more than a decade of turmoil, growth, and housecleaning, the Society’s current factions are dedicated to promoting different elements of the Pathfinder Society’s charter rather than pushing outside ambitions. Society agents understand that their allegiance is to the Pathfinder Society first.
 
-The factions are divided into major factions and minor factions. A major faction ties very strongly and directly into the Society’s goals—such as emphasizing exploration or research—and has a large number of members within the Pathfinder Society.  Minor Factions have a smaller profile, a more niche goal, have aims that are more tangential to the Society’s mission, or are tied to a shorter-term objective.  Every season will have one or more Scenarios tied to a given major faction’s goals.  Minor factions may also have scenarios tied to their goals, but it may not happen every season.
+The are divided into major factions and minor factions. A major faction ties very strongly and directly into the Society’s goals—such as emphasizing exploration or research—and has a large number of members within the Pathfinder Society.  Minor Factions have a smaller profile, a more niche goal, have aims that are more tangential to the Society’s mission, or are tied to a shorter-term objective.  Every season will have one or more Scenarios tied to a given major faction’s goals.  Minor factions may also have scenarios tied to their goals, but it may not happen every season.
 
 Major Factions
 ~~~~~~~~~~~~~~
 
-**Envoy’s Alliance: Strength in Community**
-Envoys’ Alliance aims to bolster the Society’s ranks and represent its members, making the Society ever stronger, better trained, and better supported.
+  `Envoy’s Alliance <https://paizo.com/pathfinderSociety/factions/envoys-alliance>`_: Strength in Community
+    Envoys’ Alliance aims to bolster the Society’s ranks and represent its members, making the Society ever stronger, better trained, and better supported.
 
-**Grand Archive: Chronicling the Past**
-Archaeology is a destructive science, and adventurers tend to be more destructive than most. If the Society is to uphold its mandate to study and preserve the past, then documentation and academic rigor are key. 
+  `Grand Archive <https://paizo.com/pathfinderSociety/factions/grand-archive>`_: Chronicling the Past
+    Archaeology is a destructive science, and adventurers tend to be more destructive than most. If the Society is to uphold its mandate to study and preserve the past, then documentation and academic rigor are key. 
 
-**Horizon Hunters: Glory lies over the Horizon**
-Archaeology is a destructive science, and adventurers tend to be more destructive than most. If the Society is to uphold its mandate to study and preserve the past, then documentation and academic rigor are key.
+  `Horizon Hunters <https://paizo.com/pathfinderSociety/factions/horizon-hunters>`_: Glory lies over the Horizon
+    Archaeology is a destructive science, and adventurers tend to be more destructive than most. If the Society is to uphold its mandate to study and preserve the past, then documentation and academic rigor are key.
 
-
-**Vigilant Seal: Protect, Contain, Destroy**
-Members of the Vigilant Seal seek to ensure that ancient evils uncovered during their expeditions are properly dealt with—they protect ancient sites, contain possible threats, and destroy dangerous evils that can’t be safely contained.
+  `Vigilant Seal <https://paizo.com/pathfinderSociety/factions/vigilant-seal>`_: Protect, Contain, Destroy
+    Members of the Vigilant Seal seek to ensure that ancient evils uncovered during their expeditions are properly dealt with—they protect ancient sites, contain possible threats, and destroy dangerous evils that can’t be safely contained.
 
 Minor Factions
 ~~~~~~~~~~~~~~
 
-**Radiant Oath: A Light in the Shadows**
-Those who join the Radiant Oath swear simple vows to assist others, expanding on these promises the more they serve the faction.
+  `Radiant Oath <https://paizo.com/pathfinderSociety/factions/radiant-oath>`_: A Light in the Shadows
+    Those who join the Radiant Oath swear simple vows to assist others, expanding on these promises the more they serve the faction.
 
-
-**Verdant Wheel: Truth Sprouts from the Ashes**
-Nature enthusiasts of all stripes—from grizzled trackers to bright-eyed ecologists to tenacious druids—gravitate to the Society for opportunities to witness natural wonders, catalog new species, and better protect the world’s pristine realms.
+  `Verdant Wheel <https://paizo.com/pathfinderSociety/factions/verdant-wheel>`_: Truth Sprouts from the Ashes
+    Nature enthusiasts of all stripes—from grizzled trackers to bright-eyed ecologists to tenacious druids—gravitate to the Society for opportunities to witness natural wonders, catalog new species, and better protect the world’s pristine realms.
