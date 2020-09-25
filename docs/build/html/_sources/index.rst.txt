@@ -51,6 +51,14 @@ Welcome to Pathfinder Society
    glossary
    trademarksLicenses
 
+Other Versions:
+---------------
+
+- `Download PDF <https://org-play-2e-guide.readthedocs.io/_/downloads/en/latest/pdf/>`_
+- `Download ePub <https://org-play-2e-guide.readthedocs.io/_/downloads/en/latest/epub/>`_
+- `Download HTML (zip) <https://org-play-2e-guide.readthedocs.io/_/downloads/en/latest/htmlzip/>`_
+
+
 Tables:
 -------
 
