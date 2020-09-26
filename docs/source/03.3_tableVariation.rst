@@ -56,4 +56,6 @@ Likewise, while edicts are valorous actions praised by a deity, a character does
 
 Anathema in pathfinder society are always personal.  The actions of one PC at a table can never cause another PC at the table to fall. (Though players are welcome to express their disapproval provided it does not interfere with the progress of the game.)
 
-Remember that edicts and anathema exist to create roleplaying opportunities at the table for your character, and should not be used by the GM to pressure PCs, or by PCs to pressure other members of the table toward specific styles of play.
+.. admonition:: Remember:
+
+  Edicts and anathema exist to create roleplaying opportunities at the table for your character, and should not be used by the GM to pressure PCs, or by PCs to pressure other members of the table toward specific styles of play.

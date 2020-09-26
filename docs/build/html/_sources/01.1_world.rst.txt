@@ -17,13 +17,15 @@ In the centuries to follow, Absalom grew into one of the largest cities in the w
 
 But instead, Aroden died, and with him the reliability of prophecy as well. Golarion was wracked by storms, war, and supernatural devastation as the god’s death marked the beginning of a new age—a time of uncertainty, but also a time of opportunity. This is the Age of Lost Omens, an age in need of heroes like never before.
 
-— Pathfinder Core Rulebook 417 
+*— Pathfinder Core Rulebook 417*
 
 ***********************************
 What Is The Pathfinder Society?
 ***********************************
 
 Your character is a member of an in-game organization known as the Pathfinder Society. Pathfinder agents are adventurers who travel throughout the world, exploring new places and chronicling both history and modern lore. The most significant and exciting Pathfinder missions earn a spot in the Pathfinder Chronicles, an ongoing series of journals that are copied and spread far and wide to share the Society’s discoveries with the world. Pathfinders agents come from all over the world and from all walks of life; anyone willing to work together with other agents to pursue the Society’s aims is welcome to try to join the organization. Together, these tenets are captured in the Pathfinder motto:
+
+.. admonition:: The Pathfinder Motto
 
   **“Explore, report, cooperate.”**
 

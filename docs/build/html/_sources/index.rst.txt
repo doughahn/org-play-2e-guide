@@ -47,6 +47,7 @@ Welcome to Pathfinder Society
    
    tables
    glossary
+   changelog
    trademarksLicenses
 
 .. only:: html

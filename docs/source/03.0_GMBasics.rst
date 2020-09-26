@@ -61,10 +61,12 @@ Table: Challenge Points
    :file: _static/csv/challengePoints.csv 
    :header-rows: 1
 
-For  example, an adventure for levels 1-4  would have a Base Level of 1.  So a 2nd-level PC in such an adventure has a level of Base Level + 1, and by the chart, contributes 3 Challenge Points. A party of five PCs levels 1, 2, 3, 4, and 4 would contribute 2, 3, 4, 6, and 6 points respectively.
+.. admonition:: Example
+  
+  For  example, an adventure for levels 1-4  would have a Base Level of 1.  So a 2nd-level PC in such an adventure has a level of Base Level + 1, and by the chart, contributes 3 Challenge Points. A party of five PCs levels 1, 2, 3, 4, and 4 would contribute 2, 3, 4, 6, and 6 points respectively.
 
-- Total the PCs’ Challenge Points. 
-- If playing a table with fewer than 4 PCs, use the following chart to determine what level of Pregens to add, and how many additional challenge points.
+  - Total the PCs’ Challenge Points. 
+  - If playing a table with fewer than 4 PCs, use the following chart to determine what level of Pregens to add, and how many additional challenge points.
 
 Table: Adding Pregens
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

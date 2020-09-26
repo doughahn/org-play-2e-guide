@@ -77,7 +77,7 @@ In addition to these, several of the other adventures Paizo produces have been s
   Bounties
     Short one-hour adventures aimed at  introducing new Players to the game or representing what characters do in between Pathfinder missions. Bounties are sanctioned for use in the Pathfinder Society campaign. As a :term:`Sanctioned Adventure` bounties do not give down time.
 
-:term:`Sanctioned Adventure`s operate in Campaign Mode, which does not use Pathfinder Society rules. GMs set the rules on character creation and may freely modify the encounters and story.  :term:`Sanctioned Adventures <Sanctioned Adventure>` award a Chronicle which may be applied to Pathfinder Society characters as outlined in the sanctioning documents.  Sanctioning documents reside on a product’s description page at paizo.com.
+:term:`Sanctioned Adventures <Sanctioned Adventure>` operate in Campaign Mode, which does not use Pathfinder Society rules. GMs set the rules on character creation and may freely modify the encounters and story.  :term:`Sanctioned Adventures <Sanctioned Adventure>` award a Chronicle which may be applied to Pathfinder Society characters as outlined in the sanctioning documents.  Sanctioning documents reside on a product’s description page at paizo.com.
 
 Scenario Tags
 ====================================
@@ -199,7 +199,9 @@ Purchasing Equipment
 ====================================
 This will also often be the last opportunity your character has to purchase any needed equipment for the adventure.
 
-  **Explore, Report, Cooperate:** Remember, your character is a member of the Pathfinder Society, working with colleagues and friends, under the motto!
+.. admonition:: Explore, Report, Cooperate...
+
+   Remember, your character is a member of the Pathfinder Society, working with colleagues and friends, under the motto!
 
 Treasure 
 =========
