@@ -1,9 +1,12 @@
 Name,Tier,Trait(s),Cost,Description
 Skillful Mentor,1,Mentor,2,Help low-level PCs at your table
-Society Recruiter,1,Slotless,0,Earn credit with the Alliance by bringing new agents.
+Society Recruiter,1,Slotless,0,"| Earn credit with the 
+| Alliance by bringing new agents."
 Eager Protégé,2,Ally,4,Gain an ally and grant XP to another character
 Crafter’s Workshop,2,Downtime,4,Allies help you craft efficiently
-Harmonic Wayfinder,2,Item,2,Upgrade your wayfinder to allow you to better help your allies
+Harmonic Wayfinder,2,Item,2,"| Upgrade your wayfinder to allow you to 
+| better help your allies"
 Bring Them Back Alive,3,Social,2,Reduce the cost of returning to life
-Heroic Inspiration,3,Heroic,4,Inspire allies when spending hero points to reroll
+Heroic Inspiration,3,Heroic,4,"| Inspire allies when spending hero 
+| points to reroll"
 Exemplary Recruiter,4,—,8,Gain an experienced successor

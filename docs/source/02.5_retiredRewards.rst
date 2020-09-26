@@ -78,7 +78,7 @@ Envoys’ Alliance (Major) Boons
 The following is a list of purchasable rewards offered by the Envoys’ Alliance faction.
 
 .. csv-table:: 
-   :file: _static/csv/EnvoyBoons.csv
+   :file: _static/csv/envoyBoons.csv
    :header-rows: 1
 
 Grand Archive (Major) Boons 
