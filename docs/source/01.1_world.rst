@@ -40,7 +40,7 @@ Once an agent has completed their training, they have the freedom to travel the 
 Leadership
 ====================================
 
-Most Pathfinder missions are assigned by a group of leaders known as venture-captains. Venture-captains typically spend a lot less time in the field than adventuring agents, instead spending their time managing a lodge. In the process, venture-captains watch for leads for suitable missions, handle logistics and paperwork, and scout out nearby Pathfinders who might be interested in the adventure opportunities they have to offer. 
+Most Pathfinder missions are assigned by a group of leaders known as :term:`Venture-Captain <Venture-Captain (in-game)>`. Venture-captains typically spend a lot less time in the field than adventuring agents, instead spending their time managing a lodge. In the process, venture-captains watch for leads for suitable missions, handle logistics and paperwork, and scout out nearby Pathfinders who might be interested in the adventure opportunities they have to offer. 
 
 At the top of the Pathfinder Society’s hierarchy are the Decemvirate, also known as the Ten. Most of the members of The Ten hide their identities behind magical masks, but recent rumors indicate that one of the Ten has decided to go public with her identity.
 
@@ -53,7 +53,7 @@ Factions
 
 Factions have existed within the Pathfinder Society for centuries. However, their history is fraught with controversy, particularly when past factions clashed for control over the Society itself or acted as proxies for various nations’ political aspirations. Following more than a decade of turmoil, growth, and housecleaning, the Society’s current factions are dedicated to promoting different elements of the Pathfinder Society’s charter rather than pushing outside ambitions. Society agents understand that their allegiance is to the Pathfinder Society first.
 
-The are divided into major factions and minor factions. A major faction ties very strongly and directly into the Society’s goals—such as emphasizing exploration or research—and has a large number of members within the Pathfinder Society.  Minor Factions have a smaller profile, a more niche goal, have aims that are more tangential to the Society’s mission, or are tied to a shorter-term objective.  Every season will have one or more Scenarios tied to a given major faction’s goals.  Minor factions may also have scenarios tied to their goals, but it may not happen every season.
+The are divided into major factions and minor factions. A major faction ties very strongly and directly into the Society’s goals—such as emphasizing exploration or research—and has a large number of members within the Pathfinder Society.  Minor Factions have a smaller profile, a more niche goal, have aims that are more tangential to the Society’s mission, or are tied to a shorter-term objective.  Every :term:`Season` will have one or more Scenarios tied to a given major faction’s goals.  Minor factions may also have scenarios tied to their goals, but it may not happen every season.
 
 Major Factoins
 -----------------------------------------

@@ -22,7 +22,7 @@ All of the ancestries, backgrounds, and classes from the Core Rulebook are avail
     `The Pathfinder Society Rarity and Availability blog <https://paizo.com/community/blog/v5748dyo6shcs?Rarity-and-Availability-in-Organized-Play>`_ contains specific examples on how to access uncommon and rare character options. 
 
   Pawns
-    In Encounter Mode, each PC is typically represented by a pawn. Animal Companions, purchased animals and summoned creatures, and any other creature whose location affects combat are also usually represented by some sort of pawn. With the exception of temporary creatures who last no more than an encounter or two, such as those created by summon spells, no character can place more than 2 pawns per adventure. Familiars who stay in their owner’s square during encounter mode do not require pawns.
+    In Encounter Mode, each PC is typically represented by a pawn. Animal Companions, purchased animals and summoned creatures, and any other creature whose location affects combat are also usually represented by some sort of pawn. With the exception of temporary creatures who last no more than an encounter or two, such as those created by summon spells, no character can place more than 2 pawns per :term:`Adventure`. Familiars who stay in their owner’s square during encounter mode do not require pawns.
 
 Rebuilding Your Character
 -----------------------------------------
@@ -75,9 +75,9 @@ In addition to these, several of the other adventures Paizo produces have been s
     Stand-alone adventure books that take one or more sessions to complete. Many Adventures are sanctioned for use in the Pathfinder Society campaign.
   
   Bounties
-    Short one-hour adventures aimed at  introducing new Players to the game or representing what characters do in between Pathfinder missions. Bounties are sanctioned for use in the Pathfinder Society campaign. As a sanctioned adventure, bounties do not give down time.
+    Short one-hour adventures aimed at  introducing new Players to the game or representing what characters do in between Pathfinder missions. Bounties are sanctioned for use in the Pathfinder Society campaign. As a :term:`Sanctioned Adventure` bounties do not give down time.
 
-Sanctioned adventures operate in Campaign Mode, which does not use Pathfinder Society rules. GMs set the rules on character creation and may freely modify the encounters and story.  Sanctioned adventures award a Chronicle which may be applied to Pathfinder Society characters as outlined in the sanctioning documents.  Sanctioning documents reside on a product’s description page at paizo.com.
+:term:`Sanctioned Adventure`s operate in Campaign Mode, which does not use Pathfinder Society rules. GMs set the rules on character creation and may freely modify the encounters and story.  :term:`Sanctioned Adventures <Sanctioned Adventure>` award a Chronicle which may be applied to Pathfinder Society characters as outlined in the sanctioning documents.  Sanctioning documents reside on a product’s description page at paizo.com.
 
 Scenario Tags
 ====================================
@@ -93,7 +93,7 @@ Tags are markers that appear both on a scenario’s product page and on its titl
     This adventure contributes to the season’s ongoing storyline.
   
   Repeatable 
-    Players and GMs may receive credit for scenarios with this tag t an unlimited number of times, though characters can only receive credit once for a given scenario.
+    Players and GMs may receive :term:`Credit` for scenarios with this tag to an unlimited number of times, though characters can only receive :term:`Credit` once for a given scenario.
 
 Levels
 ====================================
@@ -133,7 +133,7 @@ You must also choose if you are going to be using Standard or Slow advancement. 
 
 Finally, you must choose which of the :ref:`Factions` your character would like to earn reputation with this adventure.  If you do not choose a different faction, you earn reputation with the Horizon Hunters.
 
-The GM will provide you with a sign-in sheet to record your character’s name, Organized Play ID, Character Number, level, faction, and advancement speed, as well as any contact information the GM needs to be able to get chronicles to you.  If you are playing a pregen, then the character number is the number of the character who will receive credit for the adventure.
+The GM will provide you with a sign-in sheet to record your character’s name, Organized Play ID, Character Number, level, faction, and advancement speed, as well as any contact information the GM needs to be able to get chronicles to you.  If you are playing a pregen, then the character number is the number of the character who will receive :term:`Credit` for the adventure.
 
 One Character per Adventure
 ====================================
@@ -153,7 +153,7 @@ When replaying an adventure, or playing an adventure you have already GMed pleas
 ******************************
 During the Adventure (Player)
 ******************************
-Each adventure typically begins with a briefing, either in the form of a letter, a meeting with a venture-captain, or an offer of a job by an employer.  
+Each adventure typically begins with a briefing, either in the form of a letter, a meeting with a :term:`Venture-Captain <Venture-Captain (in-game)>`, or an offer of a job by an employer.  
 
 Hero Points: Immediately after that briefing, the GM will distribute initial Hero Points.  Rules for Hero Points can be found on Page 467 of the Core Rulebook.  Some rewards, such as :ref:`GM Glyphs <Rewards>`, :ref:`Campaign Coins <Rewards>`, and :ref:`Order of the Wayfinder <Rewards>` provide the Players with extra Hero Points at this time.
 
@@ -243,7 +243,7 @@ The following conditions are not automatically removed and must be cleared from 
 Other PCs can use their spells, feats or class abilities to assist characters in recovering from negative effects.  They can also contribute consumables or even some of their gold, but they are not required to.  Characters can always use gold earned during the adventure to clear conditions and those costs must be deducted on the scenario Chronicle by the GM. GMs should report characters with uncleared conditions as dead.
 
   Pregenerated Characters
-    Condition removal applies to pregenerated characters and any unresolved conditions carry over to the Pathfinder Society character receiving credit for the adventure.  If that would mean the character would be marked dead, then that occurs immediately.
+    Condition removal applies to pregenerated characters and any unresolved conditions carry over to the Pathfinder Society character receiving :term:`Credit` for the adventure.  If that would mean the character would be marked dead, then that occurs immediately.
 
     When determining order of payment, Players should apply party funds, then Pathfinder Society character resources, then sale of pregenerated character gear. If sold to pay for removing a negative effect, a 1st-level character’s gear is worth 7.5 gold pieces, a 3rd-level character’s gear is worth 37.5 gold pieces, and a 5th-level character’s gear is worth 135 gold pieces.
 
@@ -276,7 +276,7 @@ This progression is roughly equivalent to the Slow Advancement progression (`Cor
 
 Record-Keeping
 =================
-Organized play characters rely on good recordkeeping to ensure accurate information while playing. Several methods of tracking exist, but the most prevalent is the Chronicle. Every organized play published or sanctioned adventure contains a Chronicle, though Players can choose alternative tracking methods and keep the Chronicles as backup.
+Organized play characters rely on good recordkeeping to ensure accurate information while playing. Several methods of tracking exist, but the most prevalent is the Chronicle. Every organized play published or :term:`Sanctioned Adventure` contains a Chronicle, though Players can choose alternative tracking methods and keep the Chronicles as backup.
 
 Upon completing an adventure, Players each receive a Chronicle sheet from the GM. This sheet includes a summary of the adventure; indications of any choices made along the way which may impact the future of the campaign, and a log of rewards earned while exploring. It also provides areas for notes, purchases, and the acquisition/removal of conditions. Players using other tracking methods should ensure all the data on the Chronicle is reflected in their records.
 

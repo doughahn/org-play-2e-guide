@@ -43,7 +43,7 @@ These boons are available, automatically, to any Player who meets their requirem
 Achievement Points
 ==================================
 
-Players earn Achievement Points (AcP) by participating in and reporting Pathfinder Society games. AcP are an online currency used to purchase character boons. Currently, there are three levels of AcP events.The number of points earned depends on time involved, the event level, and the type of involvement as in the chart below. Event classifications are:
+Players earn :ref:`Achievement Points` (AcP) by participating in and reporting Pathfinder Society games. AcP are an online currency used to purchase character boons. Currently, there are three levels of AcP events.The number of points earned depends on time involved, the event level, and the type of involvement as in the chart below. Event classifications are:
 
 - **Standard events:** games played in stores, homes, or other  locations .
 - **Premier events:** games played at conventions and local events designated part of the Regional Support Program. 
@@ -68,7 +68,7 @@ The Retail Incentive Program (RIP) rewards Players with rewards for their charac
 
 Legacy Backgrounds (legacy campaign) 
 ===================================================
-Even though characters from the First Edition legacy campaign cannot transfer into the current Pathfinder Society campaign, their exploits can shape the Society’s newest adventurers. For each of the 11 seasons of the legacy campaign, a Player can unlock a special legacy character background associated with that season by having completed five or more of that season’s scenarios. These backgrounds are unique to the Pathfinder Society campaign, and once they’re unlocked, a Player use a legacy background for any number of characters. See Legacy Backgrounds.
+Even though characters from the First Edition legacy campaign cannot transfer into the current Pathfinder Society campaign, their exploits can shape the Society’s newest adventurers. For each of the 11 :term:`Season` of the legacy campaign, a Player can unlock a special legacy character background associated with that season by having completed five or more of that season’s scenarios. These backgrounds are unique to the Pathfinder Society campaign, and once they’re unlocked, a Player use a legacy background for any number of characters. See Legacy Backgrounds.
 
 Faction & Reputation
 ==================================

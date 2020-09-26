@@ -170,7 +170,7 @@ A-N
 
     **Cost** Varies
 
-    Pathfinders often find strange treasures for which they might not have any use, yet one of their colleagues would benefit. When you acquire this boon, select one uncommon, rare, or unique character option to which you’ve gained access through an adventure’s Chronicle sheet (e.g., a boon that allows you to acquire a **Special** animal companion or purchase a **Special** magic item). Choose another of your characters. That character gains access to that **Special** option instead, though they may only use the option once their level equals or exceeds the lowest level able to play the Chronicle sheet’s adventure (e.g., 5th level for Tier 5–8). On the Chronicle sheet, write “Bequeathed” and the recipient character’s number next to the option. You no longer have access to that option (and must sell it back if you acquired the option and would no longer qualify for it).
+    Pathfinders often find strange treasures for which they might not have any use, yet one of their colleagues would benefit. When you acquire this boon, select one uncommon, rare, or unique character option to which you’ve gained :term:`Access` through an adventure’s Chronicle sheet (e.g., a boon that allows you to acquire a **Special** animal companion or purchase a **Special** magic item). Choose another of your characters. That character gains :term:`Access` to that **Special** option instead, though they may only use the option once their level equals or exceeds the lowest level able to play the Chronicle sheet’s adventure (e.g., 5th level for Tier 5–8). On the Chronicle sheet, write “Bequeathed” and the recipient character’s number next to the option. You no longer have :term:`Access` to that option (and must sell it back if you acquired the option and would no longer qualify for it).
 
     The **Cost** of this boon is 4 Fame for an uncommon option, 8 Fame for a rare option, and 12 Fame for a unique option.
 
@@ -223,7 +223,7 @@ A-N
 
     **Cost** 2 Fame
 
-    You have been entrusted with an accursed item from the Society’s vaults, and you can spend your time in the Grand Lodge patiently unraveling its malign influence. When you acquire this boon choose a permanent magic item of your level or lower to which you have access. While you have this boon slotted, you can spend Downtime erasing the item’s stubborn curse. This uses the same rules as you would to Craft the item, with the following exceptions. First, you must use Arcana, Nature, Occultism, or Religion in place of Crafting (such as to determine the progress you make and the maximum item level you can work on). Second, your faction provides you the necessary tools and workspace to perform this operation. Third, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item’s effective **Cost**. You must keep this boon slotted until you finish uncursing the item.
+    You have been entrusted with an accursed item from the Society’s vaults, and you can spend your time in the Grand Lodge patiently unraveling its malign influence. When you acquire this boon choose a permanent magic item of your level or lower to which you have :term:`Access`. While you have this boon slotted, you can spend Downtime erasing the item’s stubborn curse. This uses the same rules as you would to Craft the item, with the following exceptions. First, you must use Arcana, Nature, Occultism, or Religion in place of Crafting (such as to determine the progress you make and the maximum item level you can work on). Second, your faction provides you the necessary tools and workspace to perform this operation. Third, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item’s effective **Cost**. You must keep this boon slotted until you finish uncursing the item.
 
     **Special** You can purchase this boon multiple times. Each time you do so, you select a different item.
 
@@ -366,11 +366,11 @@ A-N
 
     **Cost** 0 Fame
 
-    Whether it’s because you grew up there or have since learned to call it home, one nation is e**Special**ly familiar to you. Choose one nation (such as Varisia or Taldor) when you purchase this boon. For the purpose of fulfilling **Prerequisites** and Access conditions for uncommon character options, you are treated as being from that nation as well as the larger region in which it’s found (such as the Saga Lands for Varisia or the Shining Kingdoms for Taldor).
+    Whether it’s because you grew up there or have since learned to call it home, one nation is e**Special**ly familiar to you. Choose one nation (such as Varisia or Taldor) when you purchase this boon. For the purpose of fulfilling **Prerequisites** and :term:`Access` conditions for uncommon character options, you are treated as being from that nation as well as the larger region in which it’s found (such as the Saga Lands for Varisia or the Shining Kingdoms for Taldor).
 
-    **Special** You can purchase this boon multiple times, but each time you purchase it, you lose your previous home region in order to become so familiar with a new one. Before doing so, you must retrain any options that listed being from the previous home region as a prerequisite, and any options to which you would no longer have access.
+    **Special** You can purchase this boon multiple times, but each time you purchase it, you lose your previous home region in order to become so familiar with a new one. Before doing so, you must retrain any options that listed being from the previous home region as a prerequisite, and any options to which you would no longer have :term:`Access`.
 
-    Achievement Points The World Traveler boon, accessible with Achievement Points, grants similar access to an entire region, providing an additional avenue to access region- and nation-based options.
+    Achievement Points: The World Traveler boon, accessible with :ref:`Achievement Points`, grants similar :term:`Access` to an entire region, providing an additional avenue to access region- and nation-based options.
 
   Leader by Example
     slotless
@@ -490,7 +490,7 @@ M-Z
 
     **Cost** 2 Fame
 
-    You consider yourself a member of multiple cultures—whether by birth, upbringing, or long-term exposure—and you have learned to blend several of the cultures’ styles into your training as an adventurer. Choose an additional ethnicity, such as Varisian or Garundi. In addition to the ethnicity you selected at character creation, you are also treated as a member of this additional ethnicity for the purpose of fulfilling **Prerequisites** and Access conditions.
+    You consider yourself a member of multiple cultures—whether by birth, upbringing, or long-term exposure—and you have learned to blend several of the cultures’ styles into your training as an adventurer. Choose an additional ethnicity, such as Varisian or Garundi. In addition to the ethnicity you selected at character creation, you are also treated as a member of this additional ethnicity for the purpose of fulfilling **Prerequisites** and :term:`Access` conditions.
 
     Normal When creating a character, you can choose one ethnicity to can serve as a prerequisite and Access condition for character options. This affects only the character options you can select, not your character’s story or identity.
 
@@ -503,7 +503,7 @@ M-Z
 
     **Cost** 2 Fame
 
-    When you acquire this boon choose an alchemical item or potion of your level or lower to which you have access. While you have this boon slotted, you can spend Downtime to search for rare herbs and ingredients in order to craft up to a full batch of this item (typically 4). This uses the same rules as you would to Craft the item, with the following exceptions. First, you must use Nature, Survival, or Herbalism Lore in place of Crafting (such as to determine the progress you make and the maximum item level you can work on). Second, your faction provides you the necessary tools and workspace to perform this operation. Third, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item’s effective **Cost**. You must keep this boon slotted until you finish crafting the items.
+    When you acquire this boon choose an alchemical item or potion of your level or lower to which you have :term:`Access`. While you have this boon slotted, you can spend Downtime to search for rare herbs and ingredients in order to craft up to a full batch of this item (typically 4). This uses the same rules as you would to Craft the item, with the following exceptions. First, you must use Nature, Survival, or Herbalism Lore in place of Crafting (such as to determine the progress you make and the maximum item level you can work on). Second, your faction provides you the necessary tools and workspace to perform this operation. Third, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item’s effective **Cost**. You must keep this boon slotted until you finish crafting the items.
 
     **Special** You can purchase this boon multiple times. Each time you do so, you select a different item.
 
@@ -596,7 +596,7 @@ M-Z
 
     **Cost** 2 Fame
 
-    Your contacts have introduced you to an influential member of another organization, allowing you to join that group or train in some of their techniques. Select an organization other than the Pathfinder Society. For the purpose of fulfilling **Prerequisites** and Access conditions, you are treated as being a member of that group in addition to your belonging to the Pathfinder Society.
+    Your contacts have introduced you to an influential member of another organization, allowing you to join that group or train in some of their techniques. Select an organization other than the Pathfinder Society. For the purpose of fulfilling **Prerequisites** and :term:`Access` conditions, you are treated as being a member of that group in addition to your belonging to the Pathfinder Society.
 
     **Special** You can purchase this boon multiple times, but each time you purchase it, you relinquish your membership in the previous group in order to join a different group. Before doing so, you must retrain any options that listed membership in your previous group as a prerequisite.
 
@@ -756,7 +756,7 @@ Capstone Boons
 
     **Cost** 8 Fame
 
-    Your mastery of the contents of the Pathfinder vaults has helped you locate unusual items, which you can pass along to one of your assistants as a reward for their aid. Pick one uncommon item that your character has access to and select 1 of your Pathfinder Society characters with 12 or fewer XP. That character gains access to that item as if it appeared on their Chronicle sheet.
+    Your mastery of the contents of the Pathfinder vaults has helped you locate unusual items, which you can pass along to one of your assistants as a reward for their aid. Pick one uncommon item that your character has access to and select 1 of your Pathfinder Society characters with 12 or fewer XP. That character gains :term:`Access` to that item as if it appeared on their Chronicle sheet.
 
   World Traveler
     slotless

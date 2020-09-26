@@ -264,7 +264,7 @@ The sections of a Chronicle are detailed below. Sections marked with an asterisk
 - **(D.)** Partner Code: A unique code that identifies the Chronicle. May be used by third-parties to reference the Chronicle.
 - **(E.)** Adv Summary:  This might contain checkboxes to help remind you which choices you made during the adventure.
 - **(F.)** Pointer to AcP: Pointer to where to find AcP totals on the Paizo Web Page. 
-- **(G.)** Treasure Access: Uncommon or high level items found during the adventure.
+- **(G.)** Treasure :term:`Access`: Uncommon or high level items found during the adventure.
 - **(H.)** Variable quantities:* Quantities that depend on character’s level or successes during the adventure, such as treasure earned, reputation, earned income, etc.
 - **(I.)** Event Number*: Unique Identifier provided by the event organizer indicating what event the game occurred at.
 - **(J.)** Date*:  Date the adventure completed

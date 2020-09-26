@@ -1,7 +1,7 @@
 ##############################
 GM Rewards
 ##############################
-GMs earn GM credits, Achievement Points, and a Chronicle the first time they GM an adventure. Any subsequent GM sessions earn GM credits and AcP, unless the adventure has the Repeatable Tag. Chronicles earned by GMing must be assigned to characters when received, but do not need to be applied until later. See Applying Chronicles for more details. GMs have a few special rules for assigning and applying characters:
+GMs earn GM credits, :ref:`Achievement Points`, and a Chronicle the first time they GM an adventure. Any subsequent GM sessions earn GM credits and AcP, unless the adventure has the Repeatable Tag. Chronicles earned by GMing must be assigned to characters when received, but do not need to be applied until later. See Applying Chronicles for more details. GMs have a few special rules for assigning and applying characters:
 
 - Chronicles earned from GMing provide full rewards. That includes all Treasure Bundles/Gold, XP,  Reputation, and Downtime Days, as well as access to items and boons
 - GMs can choose not to receive a Chronicle for any game they run, deferring the Chronicle to the next time they run the adventure.
