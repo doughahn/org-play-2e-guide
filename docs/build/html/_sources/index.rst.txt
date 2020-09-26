@@ -35,14 +35,14 @@ Welcome to Pathfinder Society
    03.4_dealingWithUnexpected
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Volunteer
    
    04.0_volunteerBasics
    04.1_volunteerCoordinators
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Appendices
    
    tables
@@ -56,5 +56,3 @@ Other Versions:
 - `Download PDF <https://org-play-2e-guide.readthedocs.io/_/downloads/en/latest/pdf/>`_
 - `Download ePub <https://org-play-2e-guide.readthedocs.io/_/downloads/en/latest/epub/>`_
 - `Download HTML (zip) <https://org-play-2e-guide.readthedocs.io/_/downloads/en/latest/htmlzip/>`_
-
-.. only:: html
