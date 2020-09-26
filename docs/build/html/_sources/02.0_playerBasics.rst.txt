@@ -266,11 +266,10 @@ Downtime
 
 Between adventures, each character may participate in Downtime activities.  Scenarios and Quests grant two days of downtime per XP earned. Characters that chose :ref:`field-commissioned agent <11. Membership in the Pathfinder Society>` during step 11 of character creation earn 3 days of downtime per XP.
 
-A character can always use Downtime as described in the Core Rulebook on :ref:`Crafting`, :ref:`Earn Income`, and :ref:`Retraining`. Other downtime activities might apply based on  Achievement Point boons or as described in the adventure.  Downtime must be spent at the end of the session or it expires; it cannot be stockpiled for later use, though characters may engage in Downtime activities that span multiple sessions.  Consult GM Basics more on the detailed mechanics of :ref:`Downtime` in PFS.
+A character can always use Downtime as described in the Core Rulebook on :ref:`Crafting`, :ref:`Earn Income`, and :ref:`Retraining`. Other downtime activities might apply based on  Achievement Point :ref:`Boons` or as described in the adventure.  Downtime must be spent at the end of the session or it expires; it cannot be stockpiled for later use, though characters may engage in Downtime activities that span multiple sessions.  Consult GM Basics more on the detailed mechanics of :ref:`Downtime` in PFS.
 
 Leveling Up
 =============
-
 Characters accumulate XP every time they play an adventure. For every 12 XP earned, characters advance 1 level.  
 
 This progression is roughly equivalent to the Slow Advancement progression (`Core Rulebook 509 <https://2e.aonprd.com/Rules.aspx?ID=574>`_). Leveling up happens after all other rewards for the scenario are calculated, including :ref:`Downtime`, however characters can still purchase equipment after levelling up.  Characters who earned  the requisite number of XP must level before joining another game. XP is *NOT* reset to zero after characters level.  
