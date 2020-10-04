@@ -76,7 +76,7 @@ In addition to the terms and abbreviations used in Pathfinder, Pathfinder Societ
     Interactive adventures are special adventures in which multiple groups of players participate in the same adventure, and their combined results impact each other’s experience and the adventure’s results. New interactive adventures are typically introduced at PaizoCon or Gen Con and are available at other conventions that meet a given adventure’s minimum number of participating tables.
 
   Legal Source
-    A legal source is a physical copy of a book, a name-watermarked pdf of a book, or a printout of one or more pages from a name-watermarked pdf. In order to use a character option, you must own and have on hand a legal source that contains that option. See Character Options.
+    A legal source is a physical copy of a book, a name-watermarked pdf of a book, or a printout of one or more pages from a name-watermarked pdf. In order to use a character option, you must own and have on hand a legal source that contains that option. See :ref:`Character Options`.
 
   Nonplayer Character (NPC)
     This is a character run by the GM who the player characters can interact with.
@@ -91,7 +91,7 @@ In addition to the terms and abbreviations used in Pathfinder, Pathfinder Societ
     This is a free online version of the Pathfinder rules, available at paizo.com/prd. The PRD is not a :term:`Legal Source`, but is available as a quick reference. GMs in particular may find it useful to reference the PRD when preparing and running adventures.
 
   Pathfinder School
-    The Pathfinder Society’s training program is broken up into three schools: the Spells, the Scrolls, and the Swords, each of which represents a different facet of an initiate’s education. See :ref:`Membership in the Pathfinder Society <11. Membership in the Pathfinder Society>` for the benefits these schools grant and :ref:`The World of Golarion` for more information about their role in :term:`Golarion`.
+    The Pathfinder Society’s training program is broken up into three schools: the Spells, the Scrolls, and the Swords, each of which represents a different facet of an initiate’s education. See :ref:`Membership in the Pathfinder Society <11. Membership in the Pathfinder Society>` for the benefits these schools grant and the :ref:`World of Pathfinder Society` for more information about their role in :term:`Golarion`.
 
   Player Character (PC)
     This is a character portrayed by a player, rather than by a GM.

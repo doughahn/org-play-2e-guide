@@ -2,6 +2,8 @@
 Player Basics
 ##############################
 
+In Pathfinder Society games, you can either use a :ref:`pregenerated character <Pregenerated Characters>` or create your :ref:`own character <Character Creation>`.  You do not need to own any source books to use the options on a pregenerated character you are playing, and may select any currently legal pregenerated character to play.
+
 ***********************************
 Player-Created Characters
 ***********************************

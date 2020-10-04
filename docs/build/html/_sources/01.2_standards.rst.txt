@@ -20,6 +20,11 @@ Pathfinder Society uses a combination of character sheets, Chronicles, and recor
 
 If you cannot produce the supporting documents for your character, the GM can ask you to play a :ref:`Pregenerated Character <Using a Pregenerated Character>` instead.
 
+
+Pathfinder Society uses a combination of character sheets, Chronicles, and record trackers to chart character progression. GMs and event coordinators rely on these documents to keep the campaign honest, fair, and fun for everyone. It is your responsibility to maintain accurate records. Always bring either paper or digital copies of your character sheet and supporting documentation such as Chronicles and record trackers of any character you wish to play to Pathfinder Society events. If using paper copies, we suggest keeping them all together in a binder, with a folder for each character.
+
+If you cannot produce the supporting documents for your character, the GM can ask you to play a :ref:`Pregenerated Character <Using a Pregenerated Character>` instead.
+
 ******************************************
 No Character-Versus-Character Combat
 ******************************************
@@ -28,7 +33,7 @@ In keeping with the “Explore, Report, Cooperate” motto of the Pathfinder Soc
 ******************************************
 Violation Enforcement Procedures  
 ******************************************
-If a player is removed from a table for violating the community standards, or a character is marked “dead” due to Infamy, then it is the responsibility of table GM or event coordinator to advise their local venture-officers of the situation.  The GM or event coordinator must advise the player of the report and provide the player with the venture-officer contact information, so that the player may present their side of the issue to the venture-officer. Rules infringements will be kept on file, as continued violations will result in suspension of organized play membership. 
+If a player is removed from a table for violating the `community standards <https://paizo.com/organizedplay/policies>`_, or a character is marked “dead” due to Infamy, then it is the responsibility of table GM or event coordinator to advise their local venture-officers of the situation.  The GM or event coordinator must advise the player of the report and provide the player with the venture-officer contact information, so that the player may present their side of the issue to the venture-officer. Rules infringements will be kept on file, as continued violations will result in suspension of organized play membership. 
 
 *********************
 Rules Variations
@@ -43,7 +48,7 @@ The rules of the campaign reside in this guide and the `Character Options blog <
 *********************
 Rules Changes
 *********************
-The Pathfinder roleplaying game is a living game, and sometimes game elements change over the course of a PC’s career. The Achievement Point system allows you to purchase rebuilding options for your characters. If the rule change is egregious, Campaign Leadership may choose to issue other methods of character rebuilding characters or adjusting characters to accommodate the new rules.
+The Pathfinder roleplaying game is a living game, and sometimes game elements change over the course of a PC’s career. The :ref:`Achievement Points` system allows you to purchase rebuilding options for your characters. If the rule change is egregious, Campaign Leadership may choose to issue other methods of character rebuilding characters or adjusting characters to accommodate the new rules.
 
   Errata
     Changes to rules via errata go into effect at the next game played by the character. 

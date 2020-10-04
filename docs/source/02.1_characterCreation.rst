@@ -2,13 +2,12 @@
 Character Creation
 ##############################
 
-************************************
-How to Build a Character
-************************************
-This section details the steps for creating a character for the Pathfinder Society. These steps mirror those in the Pathfinder Core Rulebook with a few additional Roleplaying Guild-specific rules and benefits.
+This page details the steps for creating a character for the Pathfinder Society. These steps mirror those in the Pathfinder Core Rulebook with a few additional Roleplaying Guild-specific rules and benefits.
 
+***********************************
 Character Sheets
-================
+***********************************
+
 There is no standard character sheet format required.  The only requirements are that it must be legible, clear, and reviewable by the GM. Blank analog character sheets for Pathfinder 2nd edition can be found:
 
 - `Paizo's Pathfinder Page. <https://paizo.com/pathfinder>`_
@@ -20,8 +19,9 @@ Digital characters sheets are available at:
 - `Pathbuilder <https://play.google.com/store/apps/details?id=com.redrazors.pathbuilder2e&hl=en_US>`_
 - `Hero Lab <https://sales.lonewolfdevel.com/Products/Hero-Lab-Online>`_
 
-Resources  
-=========
+***********************************
+Resources
+***********************************
 Players may use any Paizo published books or supplements they own during character creation, provided the options are valid per the `Character Options resource document <https://paizo.com/community/blog/v5748dyo6shcs?Rarity-and-Availability-in-Organized-Play>`_, Players residing in the same household may share owned resources. Options in the `Paizo Core Rulebook <https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook>`_ and `Lost Omens: Character Guide <https://paizo.com/products/btq01zt4?Pathfinder-Lost-Omens-Character-Guide>`_ are considered always available resources regardless of ownership.
 
 Character Creation Guidelines
@@ -64,7 +64,7 @@ The Pathfinder society follows all the standard rules for Class Details.
 
 8. Buy Equipment
 ---------------------------
-All characters in Pathfinder Society begin with the standard 15 gold pieces (150 silver pieces) that can be spent on starting gear. Chapter 6 of the Core Rulebook has a wide array of useful starting gear. Page 289 of the Core Rulebook includes class kits, prebuilt selections of gear tailored to each of the core classes. You can also spend your wealth to purchase additional gear, as described in the Purchasing Guidelines.
+All characters in Pathfinder Society begin with the standard 15 gold pieces (150 silver pieces) that can be spent on starting gear. Chapter 6 of the Core Rulebook has a wide array of useful starting gear. Page 289 of the Core Rulebook includes class kits, prebuilt selections of gear tailored to each of the core classes. You can also spend your wealth to purchase additional gear, as described in the :ref:`Purchasing Guidelines`.
 
 9. Calculate Modifiers
 ------------------------------------
@@ -86,7 +86,7 @@ Calculate your character’s Perception, Saving Throws, Strikes, and Skill modif
     Characters must be at least young adults to be accepted as members of the Pathfinder Society.
 
   Other Items
-    The beginning of Pathfinder Society games includes character introductions, so consider making a few notes on your character’s appearance, personality, and pronouns to share with other Players. The World of Pathfinder Society and the `Lost Omens: Character Guide <https://paizo.com/products/btq01zt4?Pathfinder-Lost-Omens-Character-Guide>`_ both contain information on the campaign setting you can use for this purpose.
+    The beginning of Pathfinder Society games includes character introductions, so consider making a few notes on your character’s appearance, personality, and pronouns to share with other Players. :ref:`World of Pathfinder Society` and the `Lost Omens: Character Guide <https://paizo.com/products/btq01zt4?Pathfinder-Lost-Omens-Character-Guide>`_ both contain information on the campaign setting you can use for this purpose.
 
     Pathfinder uses maps with a standard 1-inch grid to determine movement and tactical positioning in combat, so you need a physical representation of your character to use on the grid. Paizo produces a wide range of Pathfinder Pawns and also works with Reaper Miniatures and WizKids to offer a wide variety of gaming miniatures, so you can find just the right figure for your character.
 
@@ -99,7 +99,7 @@ During their training, Pathfinder initiates attain a certain level of proficienc
 Another way to join the Pathfinder Society is via a field commission from another agent or a :term:`Venture-Captain <Venture-Captain (in-game)>` of the Society. Characters who received a field commission have fewer connections to the Society’s  membership, and receive fewer gifts, but have fewer obligations to the society and thus more downtime.  
 
   Pathfinder Training
-    Each character should choose one of the following: Spells, Scrolls Swords, Generalist, or Field Commission. Each of these choices grants a bonus lore at first level, and a bonus skill feat at 5th level. Each Pathfinder Training (except Field Commission) also grants a bonus consumable at the beginning of each mission.
+    Each character should choose one of the following: Spells, Scrolls Swords, Generalist, or Field Commission. Each of these choices grants a bonus lore at first level, and a bonus skill feat at 5th level. Each Pathfinder Training (except Field Commission) also grants a :ref:`bonus consumable <School Consumables>` at the beginning of each mission.
 
 Table: Pathfinder Training
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

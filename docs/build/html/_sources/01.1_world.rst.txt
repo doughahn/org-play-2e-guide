@@ -1,5 +1,5 @@
 ##############################
-The World of Golarion
+World of Pathfinder Society
 ##############################
 
 The world of Pathfinder and of Pathfinder Society is a world called Golarion. The Age of Lost Omens below provides a basic introduction to the setting; you can learn more about Golarion from Chapter 8 of the `Pathfinder Core Rulebook <https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook>`_, from the `Lost Omens <https://paizo.com/store/pathfinder/setting>`_ line of setting books, and from the `Pathfinder Wiki <https://pathfinderwiki.com/>`_.

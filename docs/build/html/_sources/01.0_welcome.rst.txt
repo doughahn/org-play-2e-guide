@@ -39,18 +39,22 @@ Every registered organized play participant has a record on paizo.com. You can a
 
 If you find an error in your session list, send an email to pfsreportingerrors@paizo.com with the error and any supporting documentation you have on what the correct data should be.
 
+Characters
+==============
+Next, you need a character to play. You can either use a pre-generated character or create your own character.
+
 Community Code of Conduct
-====================================
+-----------------------------------------
 All participants in Organized Play must adhere to the paizo `Organzied Play Code of Conduct <http://www.organizedplayfoundation.org/paizo/volunteer-coordinator-page/>`_ and the :ref:`Community Standards & Expectations` — read through them and uphold them at all Organized Play events and sessions.
 
 Next, you need a character to play. You can either use a pre-generated character or create your own character.
 
 Using a Pregenerated Character
-====================================
+-----------------------------------------
 If you don’t have time to create a new character or want to try out a new character class, you can use a pregenerated character, also called a pregen, based on the Pathfinder iconic characters. A player can choose any of the pregerated characters without owning the associated rule books or sources. You can download `Pathfinder Community Use Package: PF2E Iconics Pregenerated Characters <https://paizo.com/products/btq01zt5>`_ or request them from your local event coordinator.
 
 Using Your Own Character
-====================================
+-----------------------------------------
 If you have the time, and know what you want to play, you can build your character following the rules in the :ref:`Player Basics` appendix.
 
 After you are done building your character, register them by going to your organized play account, sign in, and click on the “Register a New Pathfinder Society (second edition) Character.”
