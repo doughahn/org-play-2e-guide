@@ -18,7 +18,7 @@ In order to help the Pathfinder Society (second edition) program function smooth
 
 Besides the Pathfinder Society (second edition) campaign, Paizo Organized Play programs also includes the Starfinder Society, the Pathfinder Adventure Card Society, and the Pathfinder Society (first edition) campaigns. 
 
-Paizo’s organized play team oversees the campaign’s content and program structure, and team members include the Organized Play Manager, Organized Play Managing Developer, Pathfinder Society developers, and the Pathfinder Society design liaison. Volunteers called `Venture-Officers <http://www.organizedplayfoundation.org/paizo/volunteer-coordinator-page/>`_ facilitate the campaign by coordinating the worldwide network of players and GMs. 
+Paizo’s organized play team oversees the campaign’s content and program structure, and team members include the Organized Play Manager, Organized Play Managing Developer, Pathfinder Society developers, and the Pathfinder Society design liaison. Volunteers called Venture-Officers facilitate the campaign by coordinating the worldwide network of players and GMs. 
 
 Register for Organized Play
 ====================================
@@ -34,19 +34,16 @@ Every registered organized play participant has a record on paizo.com. You can a
 - **Summary:** A list of your GM rankings, all registered characters, and character Reputation totals. You can create new characters by selecting the desired type at the bottom of the screen.
 - **Sessions:** A chronological list of all games you participated in, which may be sorted using the criteria on the left. 
 - **GM/Event Coordinator:** A list of earned points such as AcP or GM Glyphs, as well as a list of all events you are coordinating and a button to create new events.
-- **Boons:** A list of all currently available boons in a program. The Boon <<link>> section details how to purchase boons.
-- **Evaluations:** Regional Venture-Coordinators & Venture-Captains have this tab to record GM evaluation games. See GM Rewards for more info.
+- **Boons:** A list of all currently available boons in a program. The :ref:`Player Rewards` section contains more details on boons.
 
-If you find an error in your session list, send an email to pfsreportingerrors@paizo.com with the error and any supporting documentation you have on what the correct data should be.
-
-Characters
-==============
-Next, you need a character to play. You can either use a pre-generated character or create your own character.
+If you find an error in your session list, send an email to `pfsreportingerrors@paizo.com <mailto:pfsreportingerrors@paizo.com>`_ with the error and any supporting documentation you have on what the correct data should be.
 
 Community Code of Conduct
 -----------------------------------------
 All participants in Organized Play must adhere to the paizo `Organzied Play Code of Conduct <http://www.organizedplayfoundation.org/paizo/volunteer-coordinator-page/>`_ and the :ref:`Community Standards & Expectations` — read through them and uphold them at all Organized Play events and sessions.
 
+Characters
+==============
 Next, you need a character to play. You can either use a pre-generated character or create your own character.
 
 Using a Pregenerated Character
@@ -55,9 +52,9 @@ If you don’t have time to create a new character or want to try out a new char
 
 Using Your Own Character
 -----------------------------------------
-If you have the time, and know what you want to play, you can build your character following the rules in the :ref:`Player Basics` appendix.
+If you have the time, and know what you want to play, you can build your character following the rules in the :ref:`Character Creation` appendix.
 
-After you are done building your character, register them by going to your organized play account, sign in, and click on the “Register a New Pathfinder Society (second edition) Character.”
+After you are done building your character, register them by going to your `organized play account <https://paizo.com/organizedPlay/myAccount>`, sign in, and click on the “Register a New Pathfinder Society (second edition) Character.”
 
 Where can I find a Game?
 ====================================
@@ -67,3 +64,7 @@ Each community uses their own game scheduling process. Common platforms used in 
 - `Warhorn <http://warhorn.net/>`_
 - `Online Region Discord <http://pfschat.com/>`_
 - `Meetup <http://www.meetup.com/>`_
+
+Organized Play Forums
+====================================
+Join the vibrant Pathfinder Society online community by participating in the official `Pathfinder Society forums` <https://paizo.com/community/forums/organizedPlay/pfsrpg>`. Ask questions! Compare character builds! Discuss! Find events! Your feedback helps us improve our program, so drop by and tell us what we can do to enhance your organized play experience.

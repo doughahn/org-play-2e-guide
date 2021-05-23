@@ -24,7 +24,7 @@ Heroic Resurgence
 
 **With** “Until the end of your next turn, you gain a +2 status bonus to attack rolls, damage rolls, Perception checks, skill checks, and saving throws.”
 
-Crafter’s Workshop  
+Crafter’s Workshop (retired)
 -----------------------------------------
 **Replace**: “When you Craft during Downtime, you do not need to spend 4 days at work before attempting a Crafting check.”
 

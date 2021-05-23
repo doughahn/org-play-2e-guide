@@ -20,9 +20,11 @@ Welcome to Pathfinder Society
 
    02.0_playerBasics
    02.1_characterCreation.rst
-   02.3_rewards.rst
-   02.4_legacyBackgrounds.rst
-   02.5_retiredRewards.rst
+   02.2_additional_character_options.rst
+   02.3_playtest_rules.rst
+   02.4_rewards.rst
+   02.5_legacyBackgrounds.rst
+   02.6_retiredRewards.rst
 
 .. toctree::
    :maxdepth: 2
@@ -39,7 +41,6 @@ Welcome to Pathfinder Society
    :caption: Volunteer
    
    04.0_volunteerBasics
-   04.1_volunteerCoordinators
 
 .. toctree::
    :maxdepth: 1

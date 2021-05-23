@@ -49,7 +49,7 @@ In addition to the terms and abbreviations used in Pathfinder, Pathfinder Societ
     A player or GM who receives credit for an adventure earns a Chronicle sheet for it. In general, you can earn credit for an adventure twice—once as a GM and once as a player—though there are exceptions to this rule, such as repeatable scenarios
 
   Downtime 
-    This is a unit of time granted by a Chronicle sheet that a character can spend to perform a number of activities, such as Crafting or attempting to Earn Income. See :ref:`Downtime (GM)` for the time granted by different types of adventures and :ref:`Player Basics`  for how to use :ref:`Downtime`.
+    This is a unit of time granted by a Chronicle sheet that a character can spend to perform a number of activities, such as Crafting or attempting to Earn Income. See :ref:`Downtime` for the time granted by different types of adventures and :ref:`Players` for how to use :ref:`Downtime`.
 
   Evil Act
     An evil act is an act that, on its own or as part of a pattern, would push your alignment toward evil. An individual evil act may or may not grant Infamy. See Infamy and :term:`Alignment Infraction` .
@@ -61,7 +61,7 @@ In addition to the terms and abbreviations used in Pathfinder, Pathfinder Societ
     Fame represents your character’s social currency within the Pathfinder Society and is gained from successfully completing adventures. You can spend Fame to purchase boons and services from the Society or its various factions. See :ref:`Faction & Reputation. <Faction & Reputation>`
 
   Game Master (GM)
-    A GM adjudicates the rules and controls the elements of the story and world that the players explore, providing a fair and fun game. In Pathfinder Society, a GM must also help players accurately fill out their paperwork and report the results of each game to the :ref:`event coordinator <What is an Event Coordinator?>` or on the `Paizo Site. <https://paizo.com/pathfinderSociety>`_
+    A GM adjudicates the rules and controls the elements of the story and world that the players explore, providing a fair and fun game. In Pathfinder Society, a GM must also help players accurately fill out their paperwork and report the results of each game to the :ref:`Event Coordinator` or on the `Paizo Site. <https://paizo.com/pathfinderSociety>`_
 
   Golarion 
     The planet of Golarion is the setting for the majority of Pathfinder Society adventures. See The World of Pathfinder Society for more information about this magical and dangerous land.
@@ -118,7 +118,7 @@ In addition to the terms and abbreviations used in Pathfinder, Pathfinder Societ
     Reputation represents your character’s current standing with a faction. A character can have multiple Reputation scores, each with a different faction. The higher a Reputation score with a faction, the more resources are available for purchase from that faction. See :ref:`Table: Faction Reputations`.
 
   Retraining
-    This is the process for changing features of your character after 1st level, either by using Downtime or by using a special boon. See :ref:`Retraining`.
+    This is the process for changing features of your character after 1st level, either by using Downtime or by using a special boon. See :ref:`Downtime (Player)`.
 
   Revere
     In Organized Play, a character who reveres one or more deities, pantheons, or philosophies pays homage without receiving rules benefits such as spells or access to abilities that require worship. Player characters can revere any Golarion-specific deity, pantheon, or philosophy without alignment restriction. This extends to evil deities as well, so long as the PC does not participate in or glorify activities that violate the Pathfinder Baseline or otherwise incur an :term:`Alignment Infraction` (see Pathfinder Core Rulebook 486 and Infamy and :term:`Alignment Infraction` ).

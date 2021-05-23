@@ -1,0 +1,388 @@
+##############################
+Player Rewards
+##############################
+
+***********************************
+Boons
+***********************************
+Boons are rewards that can be applied to a character. Common types of boons include Achievemnet Points (AcP), Chronicle, or Faction.  Boons often have traits that describe how the boon applies. There are some boon traits that deserve specific mention:
+
+  Advanced  
+    A boon with the Advanced trait is typically more powerful than other boons.  Characters may only benefit from one advanced boon during an adventure.
+  Ally
+    A boon with the Ally trait sometimes places a Pawn.  This does not allow players to bypass the limits on the number of :ref:`Pawns<Character Options>` they can play.
+  Promotional 
+    These boons reward players for promoting the society, or for exceptional contributions to the campaign. Characters may only benefit from one promotional boon during an adventure.
+
+Unless a boon states otherwise, you can only apply one of any given boon to a character.
+
+Promotional Boons
+=================
+
+These boons are available, automatically, to any Player who meets their requirements.
+
+  Promotional Accessory
+    Type: promotional
+    Prerequisites: Player is wearing or carrying an accessory that promotes Pathfinder Society
+    Benefit: Up to twice per adventure, you can spend an action to reduce the severity of your frightened or stupefied condition by 1.
+    *Special:* A PC can only benefit from one promotional boon per game.
+
+  Promotional Service Award
+    Type: promotional
+    Prerequisites: Have a campaign coin, Member of the Order of the Wayfinder.
+    Benefit: Volunteers who make exceptional contributions to Organized Play can earn campaign coins or membership in the Order of the Wayfinder as a recognition of their hard work. When you use this boon, you gain a bonus Hero Point at the beginning of the adventure. In addition to the normal powers of a Hero Point, you can spend this special Hero Point to allow another player to reroll a check.
+    *Special:* A PC can only benefit from one promotional boon per game.
+
+  Promotional Vestments
+    Type: promotional
+    Prerequisites: Player is wearing clothing that promotes Pathfinder Society, such as a volunteer shirt, a shirt for a Pathfinder Lodge, or Pathfinder-themed cosplay.
+    Benefit: When you use a Hero Point to reroll a check, add a +1 cirumstance bonus to the reroll.
+    *Special:* A PC can only benefit from one promotional boon per game.
+
+
+Achievement Points
+==================================
+
+Players earn Achievement Points (AcP) by participating in and reporting Pathfinder Society games. AcP are an online currency used to purchase character boons. Currently, there are three levels of AcP events.The number of points earned depends on time involved, the event level, and the type of involvement as in the chart below. Event classifications are:
+
+  Standard events 
+    Games played in stores, homes, or other locations.
+
+  Premier events 
+    Games played at conventions and local events designated part of the Regional Support Program. 
+
+  Premier Plus events 
+    Paizo-sponsored conventions and conventions running more than 75 blocks of organized play.
+
+Table: Typical AcP rewards
+----------------------------
+
+.. csv-table:: 
+   :file: _static/csv/acpRewards.csv
+   :widths: 20, 20, 20, 20, 20
+   :header-rows: 1
+
+*Not all Adventures and Adventure Path books award 12 XP. See the individual sanctioning documents for details.*
+
+A list of  Achievement Points rewards available for purchase lives on the Boon tab of your `My Organized Play page <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_. To purchase a boon, select a character from the dropdown list, then click the purchase button of the desired boon. A list of purchased boons appears at the bottom of the page. Each purchased boon generates a downloadable printable boon. AcP boons should be stored with Chronicles, either digitally or alongside physical sheets. 
+
+Retail Incentive Program 
+==================================
+
+The Retail Incentive Program (RIP) rewards Players with rewards for their characters when they patronize retailers who are providing space for Organized Play activities.  Purchases made at the location within a stated time frame tally by table and unlock benefits at different levels, including some that reduce the severity of failures, for the next game played. Implementation methods vary from store to store, and are posted for attendees to review. For more information, read the `full policy <https://paizo.com/organizedplay/policies#retailers>`_ and consult your :ref:`Event Coordinator` for details.
+
+Legacy Backgrounds (legacy campaign) 
+===================================================
+Even though characters from the First Edition legacy campaign cannot transfer into the current Pathfinder Society campaign, their exploits can shape the Society’s newest adventurers. For each of the 11 :term:`Season` of the legacy campaign, a Player can unlock a special legacy character background associated with that season by having completed five or more of that season’s scenarios. These backgrounds are unique to the Pathfinder Society campaign, and once they’re unlocked, a Player use a legacy background for any number of characters. See :ref:`Legacy Backgrounds`.
+
+Other Rewards (Player)
+==================================== 
+Pathfinder Society Organized Play periodically releases additional prizes for special events. The most common among these are charity boons, which are in-game benefits sent to authorized charity events to help raise money for good causes. For more information on Charity Boons, ask the :ref:`Event Coordinator`. 
+
+Faction & Reputation
+==================================
+
+All agents, provided they have been confirmed by having gone on at least 2 missions, are awarded a free wayfinder. In addition, any agent of the pathfinder society can purchase the following boons from the “boons” tab of `My Organized Play <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_
+
+Table: Boons Available to all PCs
+--------------------------------------------------
+
+.. csv-table:: 
+   :file: _static/csv/boonsAllAvailable.csv
+   :header-rows: 0
+
+
+Table: Faction Reputations
+-----------------------------
+
+By representing a :ref:`Faction<Factions (Player)>` during adventures or participating in adventures vital to a faction’s interests, a character gains Reputation with the represented faction. The greater a character’s Reputation the more respected and influential they are with that faction. Characters can represent more that one Faction in their career, but only one per adventure. Some scenarios grant bonus Reputation with particular factions; this doesn’t prevent characters from choosing to represent a different Faction.
+
+Pathfinder Society uses the Reputation subsystem (`Gamemastery Guide 164 <https://2e.aonprd.com/Rules.aspx?ID=1234>`_)  with the following modifications:  
+
+.. csv-table:: 
+   :file: _static/csv/factionReps.csv
+   :header-rows: 1
+
+Reputation in PFS does not use negative values. Major infractions earn Infamy.
+
+Character rewards unlocked by Reputation are found on the Boon Tab of your `My Organized Play page <https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/browse?path=organizedPlay/myAccount/rewards#tabs>`_. They are further described below.
+
+Table: Faction Boons
+-----------------------------
+The various factions make the following boons available to their agents who have earned the appropriate reputation level.
+
+.. csv-table:: 
+   :file: _static/csv/allFactionBoons.csv
+   :header-rows: 1
+
+Boons List (Alphabetical)
+---------------------------------
+
+Adversary Lore
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Vigilant Seal
+
+It doesn’t matter how powerful your weapons are if you don’t know where to strike. You have taken the time to study a certain category of creatures, making it easier to recall their capabilities later. When you purchase this boon, either select one creature type from List 1 below, or choose two creature types from List 2. You gain a +1 circumstance bonus to Recall Knowledge about creatures of the selected type(s). If your Reputation tier with the Vigilant Seal is Revered, this bonus increases to +2.
+
+List 1: aberration, animal, beast, construct, dragon, elemental, fiend, undead.
+List 2: astral, celestial, ethereal, fey, fungus, giant, monitor, ooze, plant.
+
+**Special**: You can apply this boon multiple times to the same character. However, the character must focus their training on one set of creatures before each adventure, and cannot benefit from multiple copies of the boon at the same time.
+
+Crafter’s Workshop
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Envoy’s Alliance
+
+Your friends in the Envoy’s Alliance share crafting materials and collaborate to create new items more efficiently. You only need to spend 1 day of downtime before attempting your skill check and subsequently beginning to reduce the item’s effective cost.
+
+Normal: You must spend 4 days of downtime before attempting your skill check and subsequently beginning to reduce the item’s effective cost.
+
+Hireling
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: none
+
+You have recruited a non-combat hireling who can assist you with a certain set of skill checks. This ally performs the selected skills with a total modifier equal to 2 + your level, and they are considered trained in the skills. You must expend any actions and be in range to perform the action yourself, and any consequences of these actions affect you (such as falling when using Athletics to Climb).
+
+The hireling doesn’t have or use its own ability modifiers and can never benefit from item bonuses, status bonuses, or fortune effects.  Abilities that grant you a circumstance bonus do not grant that circumstance bonus to your hireling even though you are using your action to attempt the check.  You cannot aid your own hireling.
+
+You cannot use the hirelings skills except recall knowledge in combat, and the hireling cannot be affected by, or affect combat, and cannot be harmed unless willfully endangered, and has no effect other than performing the selected skill checks.
+
+When you purchase this boon, you select one skill as well as one Lore skill. The hireling can perform only these skills checks.
+
+Special You can purchase this boon multiple times, but may only benefit from one hireling boon on any given adventure.
+
+Hireling Translator
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: None
+
+You have recruited a capable linguist who accompanies you on your adventures. This ally speaks, reads, and understands Common as well as two additional languages of common rarity chosen when this boon is purchased. The ally can quickly translate any of these languages for your benefit, effectively allowing you to communicate in the additional two languages without difficulty. However, you are not treated as knowing those languages for the purpose of using spells with the linguistic trait. The translator cannot be affected by or affect combat.
+
+**Special**: You can apply this boon multiple times to the same character, but may only benefit from one hireling boon on any given adventure.
+
+Hireling, Expert
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by any Faction
+
+When you gain this boon, select one Hireling boon you possess. The selected ally’s proficiency for their selected skills improves to expert, and their modifier to skill checks increases to 4 + your level.
+
+**Special**: You can purchase this boon multiple times to the same character. Each time you purchase this boon, you must apply its benefits to a different Hireling boon.
+
+Hireling, Professional
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Admired by any Faction
+
+When you gain this boon, select one Hireling boon you possess. The selected ally adds a second Lore skill to the list of skill checks they can attempt. In addition, select one skill feat whose prerequisite is being trained in one of the hireling’s selected skills. The hireling gains the benefits of that skill feat when attempting skill checks.
+
+**Special**: You can apply this boon multiple times to the same character. Each time you purchase this boon, you must apply its benefits to a different Hireling boon.
+
+Hireling, Master
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Revered by any Faction
+
+When you gain this boon, select one Hireling boon you possess that’s already been modified by the Expert Hireling boon. The selected ally’s proficiency for their selected skills improves to master, and their modifier to skill checks increases to 6 + your level.
+
+**Special**: You can apply this boon multiple times to the same character. Each time you purchase this boon, you must apply its benefits to a different Hireling boon.
+
+Leshy Companion
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Verdant Wheel
+
+You can select the Leshy Familiar feat as a 2nd level class feat, even if you are not a druid. You can ignore the prerequisite of belonging to the leaf order. 
+When you apply this boon, you can retrain your 2nd level class feat to Leshy Companion without spending Downtime.
+
+Mentor, Combat
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Vigilant Seal
+
+While working with less experienced Pathfinder allies, you provide pointers and lead drills that ensure your newer colleagues’ attacks strike true. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to attack rolls to 2.
+
+Normal: A Level Bump increases a PC’s attack roll modifiers by 1.
+
+**Special**: A PC can only benefit from two mentor boons
+
+Mentor, Magical
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Grand Archive
+
+While working with less experienced Pathfinder allies, you provide key spellcasting insights that augment your colleagues’ magic. Any PCs benefiting from a Level Bump and whose levels are lower than yours can prepare one additional spell of their highest-level spell slot or cast one additional spell of their highest-level spell slot. When casting spells of a magical tradition that is the same as the tradition you use for spellcasting, the affected PC also increases the Level Bump’s modifier to spell DCs to 2.
+
+Normal A Level Bump increases a PC’s spell DCs by 1, and it does not grant any additional spells prepared or spell slots.
+
+Special A PC can only benefit from two mentor boons.
+
+Mentor, Protective
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Radiant Oath
+
+While working with less experienced Pathfinder allies, you shield your more fragile wards from the threat of death. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase their current and maximum Hit Points by an additional amount equal to 3 times your Radiant Oath reputation tier (Liked = 1, Admired = 2, Revered = 3).
+
+Normal A Level Bump increases a PC’s Hit Points by 10% or 10, whichever is higher.
+
+Special A PC can only benefit from two mentor boons.
+
+Mentor, Rugged
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Horizon Hunters
+
+While working with less experienced Pathfinder allies, you provide important insights that keep your less experienced colleagues safe from harm. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to saving throws to 2.
+
+Normal A Level Bump increases a PC’s saving throw modifiers by 1.
+
+Special A PC can only benefit from two mentor boons.
+
+Mentor, Skillful
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Envoy’s Alliance
+
+While working with less experienced Pathfinder allies, you provide vital advice to sharpen your newer colleagues’ skills. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to skill checks to 2.
+
+Normal A Level Bump increases a PC’s skill check modifiers by 1.
+
+Special A PC can only benefit from two mentor boons.
+
+Mentor, Worldly
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Verdant Wheel
+
+While working with less experienced Pathfinder allies, you help your less experienced colleagues recognize danger and withstand danger. For any PCs benefiting from a Level Bump and whose levels are lower than yours, you increase the Level Bump’s modifier to Perception checks and Initiative rolls to 2.
+
+Normal A Level Bump increases a PC’s Perception modifier by 1.
+
+Special A PC can only benefit from two mentor boons.
+
+Naturalist
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Verdant Wheel
+
+When you apply this boon, choose a common alchemical item or potion of your level or lower to which you have access. The Verdant Wheel has taught you how to craft this item far more efficiently and provided you with a source for the rare herbs and ingredients needed to make 1 batch (typically 4 copies of the item). Making the item with the Verdant Wheel’s method the standard rules for Crafting the item, with the following exceptions. First, you must use Nature, Survival, or Herbalism Lore in place of Crafting for all purposes. Second, you only need to spend 2 days of Downtime before attempting your first skill check and subsequently beginning to reduce the item’s effective cost.
+
+**Special**: You can apply this boon multiple times to the same character.
+
+Off-Hours Study
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Grand Archive
+
+You spend your free time studying learning new trivia or practicing unfamiliar languages. When you acquire this boon, choose a common language you don’t know or a Lore skill in which you are untrained. After purchasing this boon. you can spend Downtime practicing the selected language or skill. Once you have expended 50 days of Downtime in this way, you learn the chosen language or become trained in the chosen Lore skill. This boon then grants no further benefit.
+
+**Special**: You can apply this boon multiple times to the same character. Each time you do so, select a different language or Lore skill.
+
+Practiced Medic
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Radiant Oath
+
+By spending your off hours administering medical aid to those in need, you have developed extraordinary first aid instincts. After purchasing this boon, you can spend Downtime to provide medical services to others. Once you have expended 8 days of Downtime in this way, you can expend the boon as a free action before attempting a Medicine check to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. You improve your check’s degree of success by one step (such as if you roll a failure, you get a success instead); the boon is not expended if your original roll is a critical success. Once you expend this boon, it provides no other benefit.
+
+**Special**: You can apply this boon multiple times to the same character, though you cannot expend more than one copy of this boon per adventure.
+
+Secondary Initiation
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: None
+
+Your contacts have introduced you to an influential member of another organization, allowing you to join that group or train in some of their techniques. Select an organization other than the Pathfinder Society. For the purpose of fulfilling prerequisites and Access conditions, you are treated as being a member of that group in addition to your belonging to the Pathfinder Society.
+
+**Special**: You can apply this boon multiple times to the same character, but each time you apply it, you relinquish your membership in the previous group in order to join a different group. Before doing so, you must retrain any options that listed membership in your previous group as a prerequisite.
+
+Storied Talent
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Horizon Hunters
+
+Word of your skill and expertise is spreading, and you find that increasingly prestigious clients are prepared to pay for your services. When using Downtime to Earn Income, you can choose to attempt a task of your level.
+
+Normal When Earning Income, a PC can attempt a task of their level –2 or lower.
+
+Treasure Bundle Insurance
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Admired by any Faction
+
+[] [] [] Even when your careful searching doesn’t uncover all of a site’s valuables, you’re able to appraise, repair, and certify what you did recover to maximize their value. You can check a box that precedes this boon at the end of a scenario when you and your allies recovered 9 or fewer of the adventure’s Treasure Bundles. Increase the effective number of Treasure Bundles recovered by 1 for the purpose of calculating the group’s gold piece rewards.
+
+The total number of additional Treasure Bundles provided by this boon cannot exceed the adventure’s maximum (10, for a typical scenario).
+
+Untarnished Reputation
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Admired by any Faction
+
+When you purchase this boon, you remove one point of Infamy that you have accrued.
+
+**Special**: You can apply this boon multiple times to the same character. Its cost increases each time it is purchased.
+
+Wayfinder
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Character must have played 1 session to obtain.
+
+To guide your path, your faction has secured a wayfinder (Pathfinder Core Rulebook 617) for you to carry on your journeys and serve as a badge of office in the Pathfinder Society. This wayfinder has an effective sale price of 0 gp.
+
+Wayfinder, Adamant
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Vigilant Seal
+
+You have specially reinforced your wayfinder, devising a way for the device to absorb harmful energies. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special ability when the wayfinder is invested and in your possession. You gain the following reaction.
+
+Resist Harm (reaction);  
+"""""""""""""""""""""""""""""""""""""""""""
+Trigger You would take damage; 
+Effect: You gain resistance 1 to acid, cold, electricity, fire, force, negative, positive, and sonic damage against one attack, spell, or effect. This applies only to the initial effect, not to any subsequent attacks or damage dealt by the effect (such as persistent damage or an ongoing hazard). This resistance increases to 2 when your reach the Admired Reputation tier with Vigilant Seal, and to 4 when you reach the Revered Reputation tier.You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+**Special**: You can apply multiple upgrades to a single wayfinder. Each upgrade only affects one wayfinder in your possession, chosen when the boon is purchased. If a wayfinder has multiple upgrades on it, you can only safely use each ability once per scenario.
+
+If the wayfinder with this upgrade is destroyed, you can apply the upgrade to another wayfinder during Downtime for no additional cost beyond that of the wayfinder itself.
+
+Wayfinder, Esoteric
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Grand Archive 
+You have modified your wayfinder to focus your mental energy, driving more reliable insights. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special free action ability when the wayfinder is invested and in your possession.
+
+You can **Activate**: this ability as a free action before you Recall Knowledge. If you roll a critical failure on the Recall Knowledge check, you instead get a failure.
+
+You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+**Special**: You can apply multiple upgrades to a single wayfinder. Each upgrade only affects one wayfinder in your possession, chosen when the boon is purchased. If a wayfinder has multiple upgrades on it, you can only safely use each ability once per scenario.
+
+If the wayfinder with this upgrade is destroyed, you can apply the upgrade to another wayfinder during Downtime for no additional cost beyond that of the wayfinder itself.
+
+Wayfinder, Harmonic
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Envoy’s Alliance
+
+You have modified your wayfinder to resonate with your allies’ actions, allowing you to better help them in times of need. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special free action ability when the wayfinder is invested and in your possession.
+
+You can **Activate**: this ability as a free action before you Aid an ally. If you roll a success on the check to Aid, you instead get a critical success.
+
+You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+**Special**: You can apply multiple upgrades to a single wayfinder. Each upgrade only affects one wayfinder in your possession, chosen when the boon is purchased. If a wayfinder has multiple upgrades on it, you can only safely use each ability once per scenario.
+
+If the wayfinder with this upgrade is destroyed, you can apply the upgrade to another wayfinder during Downtime for no additional cost beyond that of the wayfinder itself.
+
+Wayfinder, Radiant
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Radiant Oath
+
+You have specially reinforced your wayfinder, devising a way for the device to reveal hidden creatures. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting it the following activation ability.
+
+**Activate**: two-action command 
+(evocation, good, light) 
+Effect: The wayfinder glows with a spiritual radiance, revealing that which is hidden. This has the effects of faerie fire, except the effect occurs in a 10-foot radius centered around you.
+
+You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+**Special**: You can apply multiple upgrades to a single wayfinder. Each upgrade only affects one wayfinder in your possession, chosen when the boon is purchased. If a wayfinder has multiple upgrades on it, you can only safely use each ability once per scenario.
+
+If the wayfinder with this upgrade is destroyed, you can apply the upgrade to another wayfinder during Downtime for no additional cost beyond that of the wayfinder itself.
+
+Wayfinder, Rugged
+"""""""""""""""""""""""""""""""""""""""""""
+**Prerequisites**: Liked by Horizon Hunters
+
+You have modified your wayfinder to absorb a small amount of your exhaustion, allowing you to continue exploring unhindered. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special ability when the wayfinder is invested and in your possession.
+
+As an action, you can reduce the severity of your clumsy, enfeebled, or sickened condition, reducing that condition’s value by 1.
+
+You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 flat check. On a success, the wayfinder is broken. On a failure, the wayfinder is destroyed. If anyone tries to overcharge a wayfinder that’s already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
+
+**Special**: You can apply multiple upgrades to a single wayfinder. Each upgrade only affects one wayfinder in your possession, chosen when the boon is purchased. If a wayfinder has multiple upgrades on it, you can only safely use each ability once per scenario.
+
+If the wayfinder with this upgrade is destroyed, you can apply the upgrade to another wayfinder during Downtime for no additional cost beyond that of the wayfinder itself. 
+
+
+Pathfinder Society Organized Play periodically releases additional prizes for special events. The most common among these are charity boons, which are in-game benefits sent to authorized charity events to help raise money for good causes. For more information on Charity Boons, ask the `Event Coordinator`.

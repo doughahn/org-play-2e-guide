@@ -2,7 +2,7 @@
 Important Tables
 ##############################
 
-- :ref:`Table: Pathfinder Training`
+- :ref:`Trainign Lore & Feats<Table: Bonus Lores, Skill Feats, and Alternate Consumables>`
 - :ref:`Table: Spells School Consumables`
 - :ref:`Table: Scrolls School Consumables`
 - :ref:`Table: Swords School Consumables`
@@ -12,7 +12,6 @@ Important Tables
 - :ref:`Table: Challenge Points`
 - :ref:`Table: Adding Pregens`
 - :ref:`Table: Treasure Bundle Value`
-- :ref:`Table: Earn Income (For 8 Days)`
 - :ref:`Table: Organized Play Rubric for GM Evaluation`
 - :ref:`Table: Lower Level Range Adjustments`
 
