@@ -1,0 +1,53 @@
+##############################
+Converting Early Scenarios
+##############################
+
+***********************************
+Special Adjustments for Scenarios
+***********************************
+
+For 1-00 through 1-11 and quests 1, 2, and 5
+===============================================
+
+Some early scenarios need some adjustment to update them to the final draft of the Challenge Point (CP) system.
+
+Scenarios designed for “Number of Players”
+===============================================
+Scenarios 1-00, 1-01, 1-02, 1-03, 1-05, Q1, and Q2 use a “number of players” adjustment, instead of the CP system.   If you are playing one of the following scenarios, calculate the CP and determine the level range as normal, then, consult the appropriate table below to determine which adjustment to use.
+
+Table: Lower Level Range Adjustments
+--------------------------------------------------------------
+
+.. csv-table:: 
+   :file: _static/csv/lowerRangeAdjustments.csv
+   :header-rows: 1
+
+\* *Challenge Point totals of 12–13 and 23–27 allow the GM to make a choice between two options that provide a similar degree of challenge. However, each scenario varies slightly in the differences between these two options, and the GM is encouraged to select the option they predict will be a more fun and fair challenge for the group. (Parties often prefer options that give the PCs more monsters to fight.) You can pick between the options individually for each encounter.*
+  
+Scenarios Missing a CP 16-18 adjustment for Lower Level Range
+--------------------------------------------------------------
+
+Some early scenarios have no scaling option for lower level range party with a CP of 16-18. If you are GMing a table of one of the following scenarios and the party of 5 or more has a CP of 16-18  use the CP 12 adjustment, and apply a level bump to the scenario.  
+
+- Q5 The Dragon Who Stole Evoking Day
+- #1-04 Bandits of Immenwood
+- #1-06 Lost on the Road Spirit
+- #1-07 Flooded King’s Court
+- #1-08 Revolution on the Riverside
+- #1-09 Star-Crossed Voyages
+- #1-10 Tarnbreaker’s Trail
+- #1-11 Flames of Rebellion
+
+Level Bump for Adventures
+====================================
+Scenarios and quests are designed to challenge PCs whose average level is the lower of the two levels in a given Level Range  (i.e., Level Range 1–2 is built to challenge 1st-level PCs, and Level Range 3–4 is built to challenge 3rd-level PCs). Normally, when the Challenge Point total determines that the group’s overall power is equivalent to the higher level in a Level Range (e.g. 2nd level in Level Range 1–2), the scenario’s scaling will adjust for this. 
+
+However, sometimes it is necessary to add a level bump, such as when the scenario’s scaling is based on the number of players, or if the scenario lacks a low tier 16-18 scaling.
+
+Applying a level bump is a simple calculation:
+
+- Increase every DC listed in the scenario by 1.
+- Increase the attack modifiers, attack damage, spell damage, saving throw modifiers, skill modifiers, Perception modifiers, and ACs of all enemy creatures by 1.
+- Increase the Hit Point totals of all enemy creatures by 10 or by 10%, whichever is higher.
+
+These straightforward adjustments make the adventure slightly more challenging for higher-level groups, though the adjustments cannot account for the more powerful abilities and spells that higher-level foes would likely have.

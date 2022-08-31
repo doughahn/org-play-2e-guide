@@ -1,0 +1,65 @@
+###################################
+Community Standards & Expectations
+###################################
+
+In addition to the Community Standards laid out in the `Paizo Organized Play Code of Conduct <https://paizo.com/organizedplay/policies>`_ the following rules govern Pathfinder Society Organized Play.
+
+***********************************
+Acceptable Content
+***********************************
+Pathfinder Society games use the Pathfinder Baseline from page `486 of the Pathfinder Core Rulebook <http://2e.aonprd.com/Rules.aspx?ID=488>`_. Circumstances, such as venue restrictions, table composition or player needs, can require additional adjustments to the baseline. GMs are empowered to choose alternate descriptions, utilize lines and veils, or incorporate X cards as described on `page 485  of the  Core Rulebook <http://2e.aonprd.com/Rules.aspx?ID=485>`_ to provide the best gaming experience possible.
+
+*********************
+Do Not Cheat
+*********************
+
+Maintain the integrity of the game. Cheating behaviors include, but are not limited to, falsifying rolls, forging records, using unapproved resources, not owning the sources used by your character, and lying to GMs and event coordinators. Participants caught cheating will be barred from Pathfinder Society events for an amount of time dependent on the severity of the offense. Repeat offenders will be banned from all Paizo Organized Play activities.
+
+*********************
+Keep Good Records
+*********************
+Pathfinder Society uses a combination of character sheets, Chronicles, and record trackers to chart character progression. GMs and event coordinators rely on these documents to keep the campaign honest, fair, and fun for everyone. It is your responsibility to maintain accurate records. Always bring either paper or digital copies of your character sheet and supporting documentation such as Chronicles and record trackers of any character you wish to play to Pathfinder Society events. If using paper copies, we suggest keeping them all together in a binder, with a folder for each character.
+
+If you cannot produce the supporting documents for your character, the GM can ask you to play a :ref:`Pregenerated Character <Using a Pregenerated Character>` instead.
+
+
+Pathfinder Society uses a combination of character sheets, Chronicles, and record trackers to chart character progression. GMs and event coordinators rely on these documents to keep the campaign honest, fair, and fun for everyone. It is your responsibility to maintain accurate records. Always bring either paper or digital copies of your character sheet and supporting documentation such as Chronicles and record trackers of any character you wish to play to Pathfinder Society events. If using paper copies, we suggest keeping them all together in a binder, with a folder for each character.
+
+If you cannot produce the supporting documents for your character, the GM can ask you to play a :ref:`Pregenerated Character <Using a Pregenerated Character>` instead.
+
+******************************************
+No Character-Versus-Character Combat
+******************************************
+In keeping with the “Explore, Report, Cooperate” motto of the Pathfinder Society, engaging in non-consensual character-versus-character conflict is prohibited. While accidental friendly fire happens due to missed attack rolls or other factors, players must obtain the consent of other players before deliberately including fellow PCs in damaging effects. Engaging in character-versus-character conflict will award :ref:`Infamy` points and may render a character unplayable. This rule does not apply in situations where a character is not acting of their own free will, such as if they’re being mind-controlled by an NPC and forced to attack a fellow Pathfinder.
+
+******************************************
+Violation Enforcement Procedures  
+******************************************
+If a player is removed from a table for violating the `community standards <https://paizo.com/organizedplay/policies>`_, or a character is marked “dead” due to :ref:`Infamy`, then it is the responsibility of table GM or event coordinator to advise their local venture-officers of the situation.  The GM or event coordinator must advise the player of the report and provide the player with the venture-officer contact information, so that the player may present their side of the issue to the venture-officer. Rules infringements will be kept on file, as continued violations will result in suspension of organized play membership. 
+
+*********************
+Rules Variations
+*********************
+From time to time, players might encounter different rules sources with minor variations in the rules.  In general, the most current printing of the English version of the rulebook in question should be treated as the definitive source.  In the case of the this guide the most current printing is the English version on this web page.
+
+*********************
+Campaign Leadership
+*********************
+The rules of the campaign reside in this guide and the `Character Options blog <https://paizo.com/community/blog/v5748dyo6sh3j?Pathfinder-Society-Character-Options>`_. As the campaign develops, additional rulings might be needed. These rules will be published via the paizo.com `forums <https://paizo.com/community/forums/organizedPlay>`_ or `blogs <https://paizo.com/community/blog>`_ and from there be compiled into the program documentation listed above.  The people with the authority to issue rulings for the Pathfinder (Second Edition) Society campaign are: Tonya Woldridge (Organized Play Manager), Linda Zayas Palmer (Organized Play Managing Developer), and James Case  (Pathfinder Organized Play Developer).  Clarifications from other campaigns and their campaign managers do not apply to the Pathfinder (Second Edition) Society Organized Play campaign unless confirmed by one of the above individuals.
+
+*********************
+Rules Changes
+*********************
+The Pathfinder roleplaying game is a living game, and sometimes game elements change over the course of a PC’s career. The :ref:`Achievement Points` system allows you to purchase rebuilding options for your characters. If the rule change is egregious, Campaign Leadership may choose to issue other methods of character rebuilding characters or adjusting characters to accommodate the new rules.
+
+  Errata
+    Changes to rules via errata go into effect at the next game played by the character. 
+
+  Playtest
+    For information on rebuilding characters affected by changes between playtests and final rules visit the Pathfinder Society blog for each associated playtest.
+
+  Effects on Scenarios 
+    If an errata or clarification changes how an ability works in a scenario, follow the current rules.  If that means that the ability no longer works with how the NPCs tactics are written, modify the tactics as best you can to incorporate the changes.
+
+  Timing
+    To reduce confusion and chaos, rule changes announced during a gaming event do not take effect until after the event ends.
