@@ -1,5 +1,5 @@
-.. raw:: html
+.. meta::
+   :http-equiv=Refresh: 0; url='https://organizedplayfoundation.org/Lorespire/pfs2guide._.Full-Guide'
 
-    <script type="text/javascript">
-        window.location.replace('https://organizedplayfoundation.org/Lorespire/pfs2guide._.Full-Guide');
-    </script>
+This project has been moved, if you aren't redirected automatically
+go to https://organizedplayfoundation.org/Lorespire/pfs2guide._.Full-Guide.
